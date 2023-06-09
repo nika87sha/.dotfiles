@@ -1,0 +1,145 @@
+#tmux_conf_theme_status_left=" ❐ #S | ↑#{?uptime_y, #{uptime_y}y,}#{?uptime_d, #{uptime_d}d,}#{?uptime_h, #{uptime_h}h,}#{?uptime_m, #{uptime_m}m,} #{now_playing}"
+#tmux_conf_theme_status_right=" #{prefix}#{mouse}#{pairing}#{synchronized}#{pomodoro_status}#{?battery_status,#{battery_status},}#{?battery_bar, #{battery_bar},}#{?battery_percentage, #{battery_percentage},} , %R , %d %b | #{username}#{root} | #{hostname} "
+#tmux_conf_theme_status_left="  ❐ #S | ↑#{?uptime_d,#{uptime_d}d,}#{?uptime_h,#{uptime_h}h,} #{now_playing} "
+#tmux_conf_theme_status_right=" #{prefix}#{mouse}#{pairing}#{syncd}#{pomodoro_status}#{?battery_status,#{battery_status},}#{?battery_bar, #{battery_bar},}#{?battery_percentage, #{battery_percentage},} , %d %b | %R "
+
+tmux_conf_copy_to_os_clipboard=true
+
+
+# -- user customizations -------------------------------------------------------
+# this is the place to override or undo settings
+#set-option -sa terminal-overrides ",xterm*:Tc"
+
+# increase history size
+set -g history-limit 10000
+
+# start with mouse mode enabled
+set -g mouse on
+
+unbind C-b
+set -g prefix C-Space
+bind C-Space send-prefix
+
+# force Vi mode
+#   really you should export VISUAL or EDITOR environment variable, see manual
+# set vi-mode
+set-window-option -g mode-keys vi
+
+# keybindings
+bind-key -T copy-mode-vi v send-keys -X begin-selection
+bind-key -T copy-mode-vi C-v send-keys -X rectangle-toggle
+bind-key -T copy-mode-vi y send-keys -X copy-selection-and-cancel
+
+bind '"' split-window -v -c "#{pane_current_path}"
+bind % split-window -h -c "#{pane_current_path}"
+
+# Vim style pane selection
+bind h select-pane -L
+bind j select-pane -D
+bind k select-pane -U
+bind l select-pane -R
+
+# Use Alt-arrow keys without prefix key to switch panes
+bind -n M-Left select-pane -L
+bind -n M-Right select-pane -R
+bind -n M-Up select-pane -U
+bind -n M-Down select-pane -D
+
+# Shift arrow to switch windows
+bind -n S-Left  previous-window
+bind -n S-Right next-window
+
+# Shift Alt vim keys to switch windows
+bind -n M-H previous-window
+bind -n M-L next-window
+set -g @catppuccin_flavour 'mocha'
+
+
+# if you don't want Oh my tmux! to alter a binding, use #!important
+bind c new-window -c '#{pane_current_path}' #!important
+
+bind-key x kill-pane # skip "kill-pane 1? (y/n)" prompt
+set -g detach-on-destroy off  # don't exit from tmux when closing a session
+
+# move status line to top
+set -g status-position top
+
+
+# -- tpm -----------------------------------------------------------------------
+
+# while I don't use tpm myself, many people requested official support so here
+# is a seamless integration that automatically installs plugins in parallel
+
+# whenever a plugin introduces a variable to be used in 'status-left' or
+# 'status-right', you can use it in 'tmux_conf_theme_status_left' and
+# 'tmux_conf_theme_status_right' variables.
+
+# /!\ the tpm bindings differ slightly from upstream:
+#   - installing plugins: <prefix> + I
+#   - uninstalling plugins: <prefix> + Alt + u
+#   - updating plugins: <prefix> + u
+
+# /!\ do not add set -g @plugin 'tmux-plugins/tpm'
+# /!\ do not add run '~/.tmux/plugins/tpm/tpm'
+
+# to enable a plugin, use the 'set -g @plugin' syntax:
+# visit https://github.com/tmux-plugins for available plugins
+#set -g @plugin 'tmux-plugins/tmux-copycat'
+#set -g @plugin 'tmux-plugins/tmux-cpu'
+#set -g @plugin 'tmux-plugins/tmux-resurrect'
+#set -g @plugin 'tmux-plugins/tmux-continuum'
+#set -g @continuum-restore 'on'
+
+set -g @plugin 'tmux-plugins/tmux-resurrect'
+set -g @plugin 'tmux-plugins/tmux-continuum'
+set -g @plugin 'tmux-plugins/tmux-sensible'
+set -g @plugin 'christoomey/vim-tmux-navigator'
+set -g @plugin 'dreamsofcode-io/catppuccin-tmux'
+set -g @plugin 'tmux-plugins/tmux-yank'
+set -g @plugin 'joshmedeski/tmux-nerd-font-window-name'
+set -g @plugin 'joshmedeski/t-smart-tmux-session-manager'
+set -g @plugin 'spywhere/tmux-now-playing'
+set -g @now-playing-status-format '{icon}'
+set -g @now-play-playing-icon '🎧'
+set -g @now-play-stoppsed-icon '🔇'
+set -g @now-play-play-pause-key '/'
+set -g @now-play-stop-key '?'
+set -g @plugin 'olimorris/tmux-pomodoro-plus'
+
+set -g @t-fzf-prompt '  '
+set -g @t-bind "J"
+# shows the window name next to the icon (default false)
+set -g @tmux-nerd-font-window-name-show-name false
+set -g window-status-current-format '#W'
+set -g window-status-format         '#W'
+
+set -g @continuum-restore 'on'
+set -g @continuum-save-interval '5'
+set -g @resurrect-strategy-nvim 'sessió'
+
+# -- custom variables ----------------------------------------------------------
+
+# to define a custom #{foo} variable, define a POSIX shell function between the
+# '# EOF' and the '# "$@"' lines. Please note that the opening brace { character
+# must be on the same line as the function name otherwise the parse won't detect
+# it.
+#
+# then, use #{foo} in e.g. the 'tmux_conf_theme_status_left' or the
+# 'tmux_conf_theme_status_right' variables.
+
+# # /!\ do not remove the following line
+# EOF
+#
+# # /!\ do not "uncomment" the functions: the leading "# " characters are needed
+#
+# weather() {                                         # see https://github.com/chubin/wttr.in#one-line-output
+#   curl -f -s -m 2 'wttr.in?format=3' || printf '\n' # /!\ make sure curl is installed
+#   sleep 900                                         # sleep for 15 minutes, throttle network requests whatever the value of status-interval
+# }
+#
+# online() {
+#   ping -c 1 1.1.1.1 >/dev/null 2>&1 && printf '✔' || printf '✘'
+# }
+#
+# "$@"
+# # /!\ do not remove the previous line
