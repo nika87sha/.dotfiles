@@ -1,0 +1,87 @@
+###############################################################################
+# THE PATH
+###############################################################################
+export PATH=/home/verodg/bin:/usr/local/bin:/bin:/opt/bin:~/go/bin/:~/.local/bin:~/.cargo/bin:$PATH
+###############################################################################
+# THE HOME
+###############################################################################
+export ZSH=$HOME/.config/zsh
+###############################################################################
+# Neoftecth
+neofetch
+# THE EDITOR
+###############################################################################
+export EDITOR=/usr/bin/nvim
+###############################################################################
+# THE HISTORY
+###############################################################################
+export HISTFILE=$HOME/.zsh_history
+# How many commands zsh will load to memory.
+export HISTSIZE=50000
+# number of lines
+export HISTFILESIZE=50000
+# How many commands history will save on file.
+export SAVEHIST=50000
+# History won't save duplicates.
+setopt HIST_IGNORE_ALL_DUPS
+# History won't show duplicates on search.
+setopt HIST_FIND_NO_DUPS
+###############################################################################
+# PLUGINS
+###############################################################################
+source $ZSH/plugins/aliases.sh
+source $ZSH/plugins/fast-syntax-highlighting/fast-syntax-highlighting.plugin.zsh
+source $ZSH/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
+source $ZSH/plugins/zsh-autocomplete/zsh-autocomplete.plugin.zsh
+fpath=($ZSH/plugins/zsh-completions/src $fpath)
+source /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme
+export ZSH=/usr/share/oh-my-zsh/
+export PATH="/usr/local/bin:$PATH"
+#
+# To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
+[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+ZSH_THEME="powerlevel10k"
+CASE_SENSITIVE="true"
+
+# Uncomment the following line to enable command auto-correction.
+ENABLE_CORRECTION="true"
+
+# Uncomment the following line to display red dots whilst waiting for completion.
+COMPLETION_WAITING_DOTS="true"
+setopt GLOB_DOTS
+unsetopt SHARE_HISTORY
+
+# If not running interactively, don't do anything
+[[ $- != *i* ]] && return
+
+export HISTCONTROL=ignoreboth:erasedups
+
+plugins=(
+    git
+    auto-notify
+    colored-man-pages
+    history
+    fzf
+)
+
+typeset -g POWERLEVEL9K_INSTANT_PROMPT=quiet
+typeset -g POWERLEVEL9K_INSTANT_PROMPT=off
+
+###############################################################################
+# ZOXIDE
+###############################################################################
+eval "$(zoxide init zsh)"
+###############################################################################
+###############################################################################
+# KEYBINDINGS as emacs
+###############################################################################
+bindkey -e
+###
+# DOCKER
+###
+export PATH=/home/verodg/bin:$PATH
+export DOCKER_HOST=unix:///run/user/10001/docker.sock
+### OPEN_AI
+#token=$(grep token ~/.cargo/bin/oye.yml)
+#export OPENAI_API_KEY="${token##* }"
+
