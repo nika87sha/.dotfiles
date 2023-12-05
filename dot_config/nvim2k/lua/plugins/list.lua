@@ -321,6 +321,24 @@ return {
         cmd = 'DBToggle',
     },
     {
+     'kristijanhusak/vim-dadbod-ui',
+      dependencies = {
+      { 'tpope/vim-dadbod', lazy = true },
+      { 'kristijanhusak/vim-dadbod-completion', ft = { 'sql', 'mysql', 'plsql' }, lazy = true },
+      },
+      cmd = {
+      'DBUI',
+      'DBUIToggle',
+      'DBUIAddConnection',
+      'DBUIFindBuffer',
+    },
+    init = function()
+    -- Your DBUI configuration
+    vim.g.db_ui_use_nerd_fonts = 1
+    end,
+    },
+
+    {
         'akinsho/toggleterm.nvim',
         config = load_config('tools.toggleterm'),
         cmd = { 'ToggleTerm', 'LazygitToggle', 'NodeToggle', 'PythonToggle', 'RubyToggle', 'ElixirToggle' },
@@ -374,6 +392,22 @@ return {
         config = load_config('tools.octo'),
         cmd = 'Octo',
         opts = true,
+    },
+
+    {
+        'archibate/nvim-gpt',
+     -- optional for supporting ':Telescope nvim-gpt gpt_model/gpt_history/gpt_template' commands
+        requires = { 'nvim-telescope/telescope.nvim' },
+        config = function()
+        require'nvim-gpt'.setup {
+            model = 'gpt-3.5-turbo',
+            window_width = 45,
+            -- see more setup options in section 'Setup options' below
+            }
+        end,
+    },
+    {
+        'ekalinin/Dockerfile.vim',
     },
 
 }

@@ -1,30 +1,30 @@
 #!/bin/bash
 
-# Start new session  with our name
-tmux new-session -d -s Work
+# Session 1 Work
+tmux new-session -s Work -n zsh -d
+tmux new-window -t Work -d -n MP
+tmux new-window -t Work -d -n vim
+tmux new-window -t Work -d -n btop
+tmux new-window -t Work -d -n fm
+
+
+tmux select-window -t Work:zsh
 tmux split-window -v -p 50
-tmux select-pane -t 0
+tmux send-keys -t Work:zsh "zi" Enter
 
-# Name first Window and start zsh
-tmux new-window 'ncmpcpp'
-tmux select-pane -t 0
+tmux send-keys -t Work:MP "ncmpcpp" Enter
+tmux send-keys -t Work:btop "btop" Enter
+tmux send-keys -t Work:vim "/usr/bin/nvim" Enter
+tmux send-keys -t Work:fm "vifm" Enter
 
-# Create and send setup pane for Vim
-tmux new-window '/usr/bin/nvim'
-tmux select-pane -t 0
+# Session 2 DevOps
+tmux new-session -s DevOps -n Docker -d
 
-# Create and send setup pane for File Man
-tmux new-window 'vifm'
-tmux select-pane -t 0
-
-# Create and send setup pane for LazyDocker
-tmux new-window 'lazydocker'
-tmux select-pane -t 0
-
-# Create and send setup pane for Navi
-tmux new-window 'navi'
-tmux select-pane -t 0
+tmux select-window -t DevOps:Docker
+tmux split-window -v -p 50
+tmux send-keys -t DevOps:Docker "navi" Enter
+tmux send-keys -t DevOps:Docker "lazydocker" Enter
 
 # Attach Session, on the Main window
-tmux attach
+tmux -u attach -t Work
 

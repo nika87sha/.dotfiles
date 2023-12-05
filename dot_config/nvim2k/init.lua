@@ -5,3 +5,4 @@ require('core.autocmd')
 require('plugins.lazy')
 require('plugins.lang.neodev')
 require('plugins.lang.lsp-zero')
+require'lspconfig'.pyright.setup{}

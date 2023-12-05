@@ -88,7 +88,7 @@ New-Item -ItemType SymbolicLink -Path "$env:LOCALAPPDATA\nvim" -Target "$PWD\nvi
 Edit files in [lua/core](./lua/core/) for tweaking [options](./lua/core/options.lua), and to add/remove [functions](./lua/core/functions.lua) and [autocmds](./lua/core/autocmd.lua)
 
 ### 📦 Plugins
-
+/home/verodg/.config/nvim2k/lua/plugins/list.lua
 To add new plugins simply add it to the [plugins list](./lua/plugins/list.lua)
 
 For plugin configs you can place them in these folders based on the functionality:
