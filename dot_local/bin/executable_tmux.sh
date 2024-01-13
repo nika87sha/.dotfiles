@@ -19,9 +19,9 @@ tmux send-keys -t Work:5 'vifm' Enter
 tmux new-session -s DevOps -d
 tmux new-window -t DevOps -d
 
-tmux select-window -t DevOps -d 'lazydocker'
+tmux select-window -t DevOps
 tmux split-window -v -p 50
-tmux send-keys -t DevOps:1 'oxker' Enter
+tmux send-keys -t DevOps:1 'lazydocker' Enter
 tmux send-keys -t DevOps:2 'nvim +"DBUI"' Enter
 
 
