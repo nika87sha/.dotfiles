@@ -1,0 +1,79 @@
+[$Version]
+update_info=dolphin_detailsmodesettings.upd:rename-leading-padding,dolphin_detailsmodesettings.upd:move-content-display
+
+[CompactMode]
+IconSize=22
+MaximumTextWidthIndex=3
+PreviewSize=64
+
+[DetailsMode]
+IconSize=32
+PreviewSize=64
+
+[FoldersPanel]
+LimitFoldersPanelToHome=false
+
+[General]
+EditableUrl=true
+OpenExternallyCalledFolderInNewTab=false
+OpenNewTabAfterLastTab=true
+RememberOpenedTabs=false
+ShowFullPath=true
+ShowFullPathInTitlebar=true
+Version=202
+ViewPropsTimestamp=2022,5,30,17,23,46.982
+
+[IconsMode]
+IconSize=48
+PreviewSize=80
+TextWidthIndex=2
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=32
+
+[KPropertiesDialog]
+2 screens: Height=513
+2 screens: Width=533
+DP1 DP2 Height 1920x1080=655
+DP1 DP2 Height 1920x1080 DP1=500
+DP1 DP2 Height 1920x1080 DP2=513
+DP1 DP2 Height 1920x1200=513
+DP1 DP2 Height 1920x1200 DP1=500
+DP1 DP2 Width 1920x1080=685
+DP1 DP2 Width 1920x1080 DP1=500
+DP1 DP2 Width 1920x1080 DP2=479
+DP1 DP2 Width 1920x1200=474
+DP1 DP2 Width 1920x1200 DP1=476
+DP2 DP1 Height 1920x1200=711
+DP2 DP1 Height 1920x1200 DP1=500
+DP2 DP1 Height 1920x1200 DP2=513
+DP2 DP1 Width 1920x1200=800
+DP2 DP1 Width 1920x1200 DP1=459
+DP2 DP1 Width 1920x1200 DP2=493
+HDMI1 DP2 Height 1920x1080=561
+HDMI1 DP2 Height 1920x1080 HDMI1=711
+HDMI1 DP2 Height 1920x1200=711
+HDMI1 DP2 Height 1920x1200 DP2=561
+HDMI1 DP2 Width 1920x1080=544
+HDMI1 DP2 Width 1920x1080 HDMI1=800
+HDMI1 DP2 Width 1920x1200=800
+HDMI1 DP2 Width 1920x1200 DP2=552
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[MainWindow][Toolbar mainToolBar]
+IconSize=32
+ToolButtonStyle=IconOnly
+
+[Open-with settings]
+CompletionMode=1
+History=fol,thun,pdfs,pdf,db,virt,kwr,kate,kwrite
+
+[PlacesPanel]
+IconSize=32
+
+[PreviewSettings]
+Plugins=appimagethumbnail,directorythumbnail,opendocumentthumbnail,kraorathumbnail,calligraimagethumbnail,ebookthumbnail,windowsexethumbnail,audiothumbnail,cursorthumbnail,fontthumbnail,ffmpegthumbs,blenderthumbnail,djvuthumbnail,mobithumbnail,gsthumbnail,rawthumbnail,calligrathumbnail,imagethumbnail,windowsimagethumbnail,exrthumbnail,jpegthumbnail,svgthumbnail,comicbookthumbnail
