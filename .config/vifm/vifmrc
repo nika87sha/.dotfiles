@@ -535,19 +535,15 @@ tabnew
 tabname Pressupostos
 cd /mnt/nuxcom/Pressupostos/ /mnt/nuxcom/Pressupostos/2024/
 
-"tabnew
-"tabname Albaranes
-"cd /mnt/nuxcom/Albaranes/Clientes/2024/
-
 tabnew
 tabname Personal
-cd /mnt/privatedocs/Vero/ /mnt/privatedocs/Vero/Documents/
+cd /mnt/descargas/ /mnt/privatedocs/Vero/Documents
 
 tabnew
 tabname ASIR
-cd /mnt/privatedocs/Vero/ /mnt/privatedocs/Vero/Estudis/ASIR\ (FOC)/
+cd /mnt/descargas/ /mnt/privatedocs/Vero/Estudis/ASIR\ (FOC)/
 
 
 
 " start on the first tab
-tabnext 2
+tabnext 4
