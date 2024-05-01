@@ -186,7 +186,7 @@ bindkey -e
 ###
 # DOCKER
 ###
-export PATH=/home/verodg/bin:$PATH
+export PATH=/home/$USER/bin:$PATH
 #export DOCKER_HOST=unix:///run/user/10001/docker.sock
 
-export NOTES_DIR=/home/verodg/Projects/notes
+export NOTES_DIR=/home/$USER/Projects/notes
