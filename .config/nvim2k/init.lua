@@ -1,9 +1,7 @@
-if vim.loader then
-    vim.loader.enable()
-end
-
-_G.dd = function(...)
-    require('util.debug').dump(...)
-end
-vim.print = _G.dd
-require('config.lazy')
+require('core.options')
+require('core.functions')
+require('core.keymaps')
+require('core.autocmd')
+require('plugins.lazy')
+-- Add user configs to this module
+pcall(require, 'user')
