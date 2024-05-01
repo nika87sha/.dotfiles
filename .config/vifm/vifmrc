@@ -68,7 +68,7 @@ set runexec
 " Selected color scheme
 " The following line will cause issues if using vifm.vim with regular vim.
 " Either use neovim or comment out the following line.
-colorscheme dracula
+colorscheme istib-solarized-dark
 
 " Format for displaying time in file list. For example:
 " TIME_STAMP_FORMAT=%m/%d-%H:%M
@@ -528,7 +528,7 @@ nnoremap <f8> :delete<cr>
 
 " Tabs
 
-tabname Facturas\ pendietes
+tabname NUXTIC
 cd /mnt/nuxges/Facturacion/Pdt_contabilizar/ /mnt/nuxges/Facturacion/Proveedores/2024/
 
 tabnew
@@ -537,13 +537,13 @@ cd /mnt/nuxcom/Pressupostos/ /mnt/nuxcom/Pressupostos/2024/
 
 tabnew
 tabname Personal
-cd /mnt/descargas/ /mnt/privatedocs/Vero/Documents
+cd $HOME /mnt/privatedocs/Vero/Documents
 
 tabnew
 tabname ASIR
-cd /mnt/descargas/ /mnt/privatedocs/Vero/Estudis/ASIR\ (FOC)/
+cd $HOME /mnt/privatedocs/Vero/Estudis/ASIR\ (FOC)/
 
 
 
 " start on the first tab
-tabnext 4
+tabnext 3
