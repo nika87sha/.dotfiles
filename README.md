@@ -10,6 +10,4 @@ chmod a+x ~/.local/bin/yadm
 ~/.local/bin/yadm clone https://github.com/nika87sha/.dotfiles.git
 ~/.local/bin/yadm restore --staged $HOME
 ~/.local/bin/yadm checkout -- $HOME
-~/.local/bin/yadm bootstrap
-rm -rf ~/.local/bin/yadm
 ```
