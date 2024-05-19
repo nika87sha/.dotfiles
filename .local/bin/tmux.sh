@@ -29,4 +29,4 @@ tmux send-keys -t DevOps:1 'oxker' Enter
 tmux send-keys -t DevOps:2 'nvim +"DBToggle"' Enter
 
 # Attach Session, on the Main window
-tmux -u attach -tWork
+tmux -u attach -t Work
