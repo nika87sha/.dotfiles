@@ -528,22 +528,17 @@ nnoremap <f8> :delete<cr>
 
 " Tabs
 
-tabname NUXTIC
-cd /mnt/nuxges/Facturacion/Pdt_contabilizar/ /mnt/nuxges/Facturacion/Proveedores/2024/
-
-tabnew
-tabname Pressupostos
-cd /mnt/nuxcom/Pressupostos/ /mnt/nuxcom/Pressupostos/2024/
-
 tabnew
 tabname Personal
 cd $HOME /mnt/privatedocs/Vero/Documents
 
 tabnew
+tabname Books
+cd $HOME /mnt/privatedocs/Vero/Books/
+
+tabnew
 tabname ASIR
-cd $HOME /mnt/privatedocs/Vero/Estudis/ASIR\ (FOC)/
-
-
+cd $HOME /mnt/privatedocs/Vero/Documents/1-Areas/Estudios/ASIR (FOC)/
 
 " start on the first tab
-tabnext 3
+tabnext 1
