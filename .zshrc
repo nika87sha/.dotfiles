@@ -1,3 +1,5 @@
+#!/bin/bash
+
 ###############################################################################
 # THE PATH
 ###############################################################################
@@ -31,10 +33,6 @@ setopt HIST_FIND_NO_DUPS
 ###############################################################################
 source $ZSH/plugins/aliases.sh
 source $ZSH/plugins/ssh-agent-git.sh
-#source $ZSH/plugins/fast-syntax-highlighting/fast-syntax-highlighting.plugin.zsh
-#source $ZSH/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
-#source $ZSH/plugins/zsh-autocomplete/zsh-autocomplete.plugin.zsh
-#fpath=($ZSH/plugins/zsh-completions/src $fpath)
 source /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme
 export ZSH=~/.oh-my-zsh/oh-my-zsh.sh
 export PATH="/usr/local/bin:$PATH"
@@ -45,7 +43,7 @@ ZSH_THEME="powerlevel10k"
 CASE_SENSITIVE="true"
 
 # colors
-#autoload -U colors && colors
+autoload -U colors && colors
 
 # Uncomment the following line to enable command auto-correction.
 ENABLE_CORRECTION="true"
@@ -149,6 +147,33 @@ export FZF_DEFAULT_OPTS='--color=bg+:#292e42,bg:#16161e,border:#1f2335,hl:#ff9e6
 # tokyonight day
 # export FZF_DEFAULT_OPTS='--color=bg+:#c4c8da,bg:#e9e9ec,border:#e9e9ec,hl:#b15c00,fg:#6172b0,header:#c4c8da,pointer:#9854f1,fg+:#6172b0,preview-bg:#e1e2e7,prompt:#007197,hl+:#2e7de9,info:#8c6c3e'
 
+# Fzf
+export FZF_DEFAULT_COMMAND='fd --hidden --follow --exclude=.git --exclude=node_modules'
+export FZF_COMPLETION_TRIGGER=','
+export FZF_DEFAULT_OPTS="
+--layout=reverse --info=inline --height=80% --multi --cycle --margin=1 --border=rounded
+--preview '([[ -f {} ]] && (bat --style=numbers --color=always --line-range=:500 {} || cat {})) || ([[ -d {} ]] \
+&& (exa -TFl --group-directories-first --icons -L 2 --no-user {} | less)) || echo {} 2> /dev/null | head -200'
+--prompt=' ' --pointer=' ' --marker='✔'
+--color='hl:148,hl+:154,prompt:blue,pointer:032,marker:010,bg+:000,gutter:000'
+--preview-window=right:65%
+--bind '?:toggle-preview'
+--bind 'ctrl-a:select-all'
+--bind 'ctrl-y:execute-silent(echo {+} | $CLIPCOPY)'
+--bind 'ctrl-e:execute($EDITOR_TERM {+})+reload(fzf)'"
+
+export FZF_CTRL_T_COMMAND='fd -t f -HF -E=.git -E=node_modules'
+export FZF_TMUX_OPTS='-p 90%'
+
+export ZSH_PLUGINS_ALIAS_TIPS_TEXT="Alias: "
+export ZSH_TMUX_AUTOSTART='false'
+export ZSH_TMUX_AUTOSTART_ONCE='false'
+export ZSH_TMUX_AUTOCONNECT='false'
+export DISABLE_AUTO_TITLE='true'
+
+
+
+
 # Keys
 autoload -U up-line-or-beginning-search
 autoload -U down-line-or-beginning-search
@@ -189,4 +214,10 @@ bindkey -e
 export PATH=/home/$USER/bin:$PATH
 #export DOCKER_HOST=unix:///run/user/10001/docker.sock
 
+export PATH=$HOME/.config/composer/vendor:$PATH
+
 export NOTES_DIR=/home/$USER/Projects/notes
+
+# Tool configs
+if type dircolors >/dev/null 2>&1; then eval "$(dircolors ~/.dircolors)"; fi
+
