@@ -12,12 +12,9 @@ dashboard.setup({
         winbar = false,
     },
     config = {
-        week_header = {
-            enable = true,
-            append = { '', icons.ui.Circle .. ' nvim2K: Learn, Make, Explore! ' .. icons.ui.Circle },
-        },
+
         packages = { enable = true },
-        project = { enable = true, limit = 8 },
+        project = { enable = true, limit = 10 },
         mru = { limit = 8 },
         shortcut = {
             {

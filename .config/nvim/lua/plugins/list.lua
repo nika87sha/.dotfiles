@@ -212,15 +212,6 @@ local plugins = {
         config = load_config('lang.cmp'),
         event = 'InsertEnter',
     },
-    {
-        'zbirenbaum/copilot.lua',
-        dependencies = {
-            'zbirenbaum/copilot-cmp',
-        },
-        config = load_config('lang.copilot'),
-        event = 'InsertEnter',
-    },
-
     -- Tools
     {
         'nvim-tree/nvim-tree.lua',
@@ -426,9 +417,7 @@ local ts_parsers = {
     'yaml',
 }
 
-local null_ls_sources = {
-    'shellcheck', -- bash lint
-}
+
 
 local lsp_servers = {
     'bashls',
