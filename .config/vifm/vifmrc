@@ -538,7 +538,7 @@ cd $HOME /mnt/privatedocs/Vero/Books/
 
 tabnew
 tabname ASIR
-cd $HOME /mnt/privatedocs/Vero/Documents/1-Areas/Estudios/ASIR (FOC)/
+cd $HOME /mnt/privatedocs/Vero/Documents/1-Areas/Estudios/ASIR\ (FOC)/
 
 " start on the first tab
-tabnext 1
+tabnext 2
