@@ -1,8 +1,5 @@
 #!/bin/bash
 
-$SESSION1=Work
-$SESSION2=SysOps
-
 # Session 1 Work
 tmux new-session -s Work -d
 tmux new-window -t Work -d
@@ -29,4 +26,4 @@ tmux send-keys -t DevOps:1 'oxker' Enter
 tmux send-keys -t DevOps:2 'nvim +"DBToggle"' Enter
 
 # Attach Session, on the Main window
-tmux -u attach -t Work
+tmux -u attach -t 1

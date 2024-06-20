@@ -12,7 +12,7 @@ alias ip='ip -c addr'
 alias ..='cd ..'
 alias cat='bat'
 alias du='dust'
-
+alias sshl='$HOME/.local/bin/ssh-select.sh'
 #Docker
 alias dcu='docker compose up -d'
 alias dcp='docker compose ps'
