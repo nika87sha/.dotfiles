@@ -237,6 +237,7 @@ local mappings = {
         S = { '<cmd>Telescope lsp_dynamic_workspace_symbols<cr>', 'Workspace Symbols' },
         t = { '<cmd>Lspsaga peek_type_definition<cr>', 'Peek Type Definition' },
         T = { '<cmd>Lspsaga goto_type_definition<cr>', 'Goto Type Definition' },
+        g = { '<cmd>!gcc %<cr>', 'gcc compiler' },
     },
     m = {
         name = icons.kind.Field .. 'Modes',

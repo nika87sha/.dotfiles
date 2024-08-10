@@ -1,9 +1,16 @@
-lastupdatecheck: 0
+lastupdatecheck: 1722881197
 recentrepos:
-- /home/verodg/Projects/Fundamentos\ de\ python1
-- /home/verodg
-- /home/verodg/.tmux
+    - /home/verodg
+    - /mnt/privatedocs/Vero/Documents/2-Proyectos/scripts
+    - /home/verodg/.tmux
 startuppopupversion: 5
+lastversion: 0.43.1
 customcommandshistory: []
 hidecommandlog: false
 ignorewhitespaceindiffview: false
+diffcontextsize: 3
+renamesimilaritythreshold: 50
+localbranchsortorder: recency
+remotebranchsortorder: alphabetical
+gitlogorder: topo-order
+gitlogshowgraph: when-maximised

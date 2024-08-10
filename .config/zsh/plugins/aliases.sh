@@ -13,6 +13,7 @@ alias ..='cd ..'
 alias cat='bat'
 alias du='dust'
 alias sshl='$HOME/.local/bin/ssh-select.sh'
+
 #Docker
 alias dcu='docker compose up -d'
 alias dcp='docker compose ps'
@@ -28,6 +29,9 @@ alias pcr='podman compose up -d --force-recreate'
 alias pcp='podman compose ps'
 alias pcl='podman compose logs -f'
 alias pcd='podman compose dowdown'
+
+#Kubernetes
+alias k='kubecolor'
 
 ## Colorize the grep command output for ease of use (good for log files)##
 alias grep='grep --color=auto'
