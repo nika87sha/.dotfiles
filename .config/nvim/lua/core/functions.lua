@@ -33,3 +33,6 @@ vim.api.nvim_create_user_command('RootDir', function()
     end
     vim.cmd('lcd ' .. root)
 end, {})
+
+-- Compile gcc
+

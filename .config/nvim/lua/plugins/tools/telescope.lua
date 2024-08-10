@@ -139,7 +139,7 @@ telescope.setup({
             use_delta = true,
             use_custom_command = nil,
             side_by_side = true,
-            diff_context_lines = vim.o.scrolloff,
+            vim_diff_opts = {ctxlen = 10 },
             entry_format = 'state #$ID, $STAT, $TIME',
             -- time_format = '%d %b %H:%M',
             mappings = {

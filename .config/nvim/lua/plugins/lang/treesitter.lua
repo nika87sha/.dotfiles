@@ -2,13 +2,9 @@ local treesitter = require('nvim-treesitter.configs')
 local textobjects = require('plugins.lang.textobjects')
 
 local auto_install = require('lib.util').get_user_config('auto_install', true)
-local installed_parsers = {}
-if auto_install then
-    installed_parsers = require('plugins.list').ts_parsers
-end
 
 treesitter.setup({
-    ensure_installed = installed_parsers,
+    ensure_installed = "bash", "c", "cmake", "cpp", "lua", "luadoc", "make", "markdown", "printf", "toml", "vim", "vimdoc", "yaml",
     sync_install = false,
     ignore_install = {},
     auto_install = true,
@@ -24,6 +20,7 @@ treesitter.setup({
         enable = true,
         disable = {},
         additional_vim_regex_highlighting = false,
+        use_languagetree = true,
     },
 
     incremental_selection = {
@@ -36,7 +33,7 @@ treesitter.setup({
         },
     },
 
-    textsubjects = {
+        textsubjects = {
         enable = true,
         prev_selection = ',',
         keymaps = {

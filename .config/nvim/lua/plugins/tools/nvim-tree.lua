@@ -83,9 +83,9 @@ nvim_tree.setup({
     update_focused_file = { enable = true, update_cwd = true, ignore_list = {} },
     git = { enable = true, ignore = true, timeout = 500 },
     view = {
-        width = 40,
+        width = 30,
         side = 'left',
-        adaptive_size = true,
+        adaptive_size = false,
         number = false,
         relativenumber = false,
     },
