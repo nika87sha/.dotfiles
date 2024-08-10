@@ -19,6 +19,7 @@ declare -A menu_options=(
   ["Relaxing Music ☕️🎶"]="https://youtube.com/playlist?list=PLMIbmfP_9vb8BCxRoraJpoo4q1yMFg4CE"
   ["Youtube Remix 📻🎶"]="https://youtube.com/playlist?list=PLeqTkIUlrZXlSNn3tcXAa-zbo95j0iN-0"
   ["Korean Drama OST 📻🎶"]="https://youtube.com/playlist?list=PLUge_o9AIFp4HuA-A3e3ZqENh63LuRRlQ"
+  ["Mix Tecno 📻🎶"]="https://www.youtube.com/playlist?v=n11iwyHbv2o&list=PL2uTz7rSyn9Jl0j0Z5Tc5nK075tdTbxPy"
 )
 
 # Function for displaying notifications
@@ -37,7 +38,7 @@ main() {
   link="${menu_options[$choice]}"
 
   notification "$choice"
-  
+
   # Check if the link is a playlist
   if [[ $link == *playlist* ]]; then
     mpv --shuffle --vid=no "$link"
