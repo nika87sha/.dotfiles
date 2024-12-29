@@ -1,7 +1,7 @@
 /* ---- 💫 https://github.com/JaKooLit 💫 ---- */
-/* Pywal Chroma Edge */
+/* Wallust Chroma Edge */
 
-@import '../../.cache/wal/colors-waybar.css';
+@import '../../.config/waybar/wallust/colors-waybar.css';
 
 * {
 font-family: "JetBrainsMono Nerd Font";
@@ -10,7 +10,6 @@ min-height: 0;
 /* set font-size to 100% if font scaling is set to 1.00 using nwg-look */
 font-size: 97%;
 font-feature-settings: '"zero", "ss01", "ss02", "ss03", "ss04", "ss05", "cv31"';
-padding: 1px;
 }
 
 window#waybar {
@@ -23,13 +22,11 @@ window#waybar {
 	border-radius: 0px;
 	transition-duration: 0.5s;
 }
-window#waybar.empty {
-	background-color: transparent;
-}
+
+window#waybar.empty
 window#waybar.empty #window {
 	padding: 0px;
 	border: 0px;
-	/*  background-color: rgba(66,66,66,0.5); */ /* transparent */
 	background-color: transparent;
 }
 
@@ -43,7 +40,7 @@ tooltip {
 	border-radius: 12px;
 	border-width: 2px;
 	border-style: solid;
-	border-color: @color2;
+	border-color: @color12;
 }
 
 tooltip label{
@@ -85,7 +82,6 @@ tooltip label{
 	background-color: #eb4d4b;
 }
 
-
 #backlight,
 #backlight-slider,
 #battery,
@@ -99,6 +95,7 @@ tooltip label{
 #mode,
 #mpris,
 #network,
+#power-profiles-daemon,
 #pulseaudio,
 #pulseaudio-slider,
 #taskbar,
@@ -108,15 +105,23 @@ tooltip label{
 #wireplumber,
 #workspaces,
 #custom-backlight,
+#custom-browser,
+#custom-cava_mviz,
 #custom-cycle_wall,
+#custom-file_manager,
 #custom-keybinds,
 #custom-keyboard,
 #custom-light_dark,
 #custom-lock,
+#custom-hint,
+#custom-hypridle,
 #custom-menu,
 #custom-power_vertical,
 #custom-power,
+#custom-settings,
+#custom-spotify,
 #custom-swaync,
+#custom-tty,
 #custom-updater,
 #custom-weather,
 #custom-weather.clearNight,
@@ -133,8 +138,11 @@ tooltip label{
 	/* color: #bf616a; */
 	border-radius: 12px;
 	background-color: rgba(50, 50, 50, 0.1);
-	border: 1px solid @color2;
-	padding: 5px;
+	border: 1px solid @color12;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	padding-right: 6px;
+	padding-left: 6px;
 }
 
 #workspaces {
@@ -219,8 +227,8 @@ tooltip label{
 	color: #FFD580;
 }
 #backlight {
-	/* color: #EBCB8B; */
 	color: #8fbcbb;
+	padding-right: 2px;
 }
 
 #clock {
@@ -311,9 +319,10 @@ label:focus {
 	/*background-color: #2d3436;*/
 }
 
+/*-----Indicators----*/
+#custom-hypridle.notactive,
 #idle_inhibitor.activated {
-	/*background-color: #ecf0f1;*/
-	color: #2dcc36;
+	color: #39FF14;
 }
 
 #temperature {

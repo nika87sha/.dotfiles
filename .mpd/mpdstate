@@ -1,8 +1,9 @@
 sw_volume: 100
 audio_device_state:1:pulse audio
 audio_device_state:1:my_fifo
-state: stop
-current: 0
+state: pause
+current: 38
+time: 28.157000
 random: 1
 repeat: 0
 single: 0
@@ -11,6 +12,56 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Miss Monique ｜ Sunset Dj Mix in Mykonos (Greece 2024) Melodic Techno Progressive Mix @front-music [6o19XOQBiak].ogg
-1:Miss Monique @ Sunset Cruise in New York [Progressive house DJ Mix] [PXQcEIM4su0].ogg
+0:Aitana/LAS BABYS.ogg
+1:Buhos/La nit esta que crema/Serà perquè t'estimo.ogg
+2:Buhos/La nit esta que crema/Si em tornes a mirar.ogg
+3:Buhos/La nit esta que crema/La Nit Està que Crema.ogg
+4:Buhos/El Dia de la Victoria/Una Veu Que Crida.ogg
+5:Buhos/El Dia de la Victoria/A Prop dels Déus.ogg
+6:Buhos/El Dia de la Victoria/Fem Que Surti el Sol.ogg
+7:Buhos/El Dia de la Victoria/Cada Divendres.ogg
+8:Buhos/El Dia de la Victoria/Donde Se Arrodillan los Ateos.ogg
+9:Buhos/El Dia de la Victoria/Mi Calle Favorita.ogg
+10:Buhos/La Gran Vida/Escales Fins al Cel.ogg
+11:Buhos/La Gran Vida/Cómplices del Mal.ogg
+12:Buhos/La Gran Vida/La Darrera Colònia.ogg
+13:Buhos/Lluna Plena/Connectats.ogg
+14:Buhos/Lluna Plena/El Cor M'apreta.ogg
+15:Buhos/Lluna Plena/Mentides de Plàstic.ogg
+16:Buhos/Lluna Plena/Ens Ballem Aquesta Nit.ogg
+17:Buhos/Natura Salvatge/180º.ogg
+18:Buhos/Natura Salvatge/Brama.ogg
+19:Buhos/Natura Salvatge/Toca Hamelin.ogg
+20:Buhos/Natura Salvatge/Ales Noves.ogg
+21:Buhos/Pompeia (En Directe)/Brama.ogg
+22:En tol Sarmiento/Sumendiak feat. Buhos.ogg
+23:Nil Moliner/Nil Moliner - Som Ocells feat. Gerard Sancho (Videoclip Oficial).ogg
+24:Nil Moliner/Nil Moliner, Ana Mena - Me Quedo (Videoclip Oficial).ogg
+25:Nil Moliner/Nil Moliner - Libertad.ogg
+26:Sara Roy/JA NO M'IMPORTA.ogg
+27:Sopa De Cabra/Sopa De Cabra - Mai Trobaràs (30 anys) ft. Buhos, Ginestà, The Tyets.ogg
+28:Sopa De Cabra/Sopa de Cabra & Els Amics de les Arts - Sota una estrella @ Palau Sant Jordi-Og4oeu9jZVw.ogg
+29:Sopa De Cabra/Sopa de Cabra & Els Catarres - Seguirem somiant @ Palau Sant Jordi-oIkbRhWcWck.ogg
+30:Sopa De Cabra/Sopa de Cabra & Ramon Mirabet - Els teus somnis @ Palau Sant Jordi-d7Y-jeote-8.ogg
+31:Sopa De Cabra/Sopa de Cabra, Alfred García & David Rosell - El boig de la ciutat @ Palau Sant Jordi-n-txYlOQlfQ.ogg
+32:Sopa De Cabra/Sopa de Cabra, The Tyets, Ginestà i Guillem Solé - Mai Trobaràs @ Palau Sant Jordi-2VOiyXBOz7g.ogg
+33:Stay Homas/Homa/LA NÒRIA.ogg
+34:Stay Homas/Homa/ESE BESO.ogg
+35:SUU/Postal Barata.ogg
+36:SUU/Barcelona Tropical.ogg
+37:SUU/Universal.ogg
+38:The Tyets/Amics, Tiets i Coneguts.ogg
+39:The Tyets/Èpic Solete/Bailoteo.ogg
+40:The Tyets/Èpic Solete/COTI X COTI.ogg
+41:Vicco/Nochentera.ogg
+42:Buhos/La nit esta que crema/Es Demasiado.ogg
+43:Buhos/La nit esta que crema/El món de veritat.ogg
+44:new/Els teus ulls.ogg
+45:new/Milers d’espurnes feat.Las Migas.ogg
+46:new/TODAY IS THE DAY (Buhos and Mar Lucas.ogg
+47:new/Els teus ulls.ogg
+48:new/Milers d’espurnes feat.Las Migas.ogg
+49:new/Els teus ulls.ogg
+50:new/Milers d’espurnes feat.Las Migas.ogg
+51:new/TODAY IS THE DAY (Buhos and Mar Lucas.ogg
 playlist_end

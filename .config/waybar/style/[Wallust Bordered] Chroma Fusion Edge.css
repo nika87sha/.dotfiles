@@ -1,6 +1,6 @@
 /* ----------- 💫 https://github.com/JaKooLit 💫 -------- */
 /* ....Chroma Fusion Edge .... */
-/* Pywal -Catpuccin */
+/* Wallust & Catppuccin - Bordered */
 
 @define-color white      	#F2F2F2;
 @define-color black      	#000000;
@@ -13,21 +13,20 @@
 @define-color cyan			rgba(53, 140, 169, 1);
 
 @define-color background-module     @transparent;
-@define-color border-color          @color2;
+@define-color border-color          @color12;
 @define-color button-color          @color11;
-@define-color button-hover          @color12;
+@define-color button-hover          @color9;
 
-@import '../../.cache/wal/colors-waybar.css';
+@import '../../.config/waybar/wallust/colors-waybar.css';
 @import "../waybar/style/catppuccin-themes/latte.css";
 
 * {
 	font-family: "JetBrains Mono Nerd Font";
 	font-weight: bold;
-	min-height: 0;
+	min-height: 0;	
 	/* set font-size to 100% if font scaling is set to 1.00 using nwg-look */
 	font-size: 97%;
 	font-feature-settings: '"zero", "ss01", "ss02", "ss03", "ss04", "ss05", "cv31"';
-
 }
 
 window#waybar {
@@ -38,12 +37,23 @@ window#waybar {
     border-bottom-left-radius: 20px;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
+    border:2px solid black;
 }
 
-window#waybar.empty #window {    
+window#waybar.empty,
+window#waybar.empty #window {
     background-color: transparent;
+    padding: 0px;
     border: 0px;
+}
 
+tooltip {
+	background-color: transparent;
+	border-radius: 10px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #11111b;
+	color: @border-color;
 }
 
 #backlight,
@@ -57,25 +67,34 @@ window#waybar.empty #window {
 #keyboard-state,
 #memory,
 #mode,
+#mpris,
 #network,
+#power-profiles-daemon,
 #pulseaudio,
 #pulseaudio-slider,
 #taskbar button,
-#taskbar,
 #temperature,
 #tray,
 #window,
 #wireplumber,
-#workspaces,
+#custom-backlight,
+#custom-browser,
+#custom-cava_mviz,
 #custom-cycle_wall,
+#custom-file_manager,
 #custom-keybinds,
 #custom-keyboard,
 #custom-light_dark,
 #custom-lock,
+#custom-hint,
+#custom-hypridle,
 #custom-menu,
 #custom-power_vertical,
 #custom-power,
+#custom-settings,
+#custom-spotify,
 #custom-swaync,
+#custom-tty,
 #custom-updater,
 #custom-weather,
 #custom-weather.clearNight,
@@ -91,16 +110,18 @@ window#waybar.empty #window {
 	background-color: @background-module;
     border-radius: 25px;
     padding: 0px 10px 0px 10px;
-    margin: 5px 5px 5px 5px;
+    margin: 5px;
     opacity:0.8;
+    border:2px solid @border-color;
+
+}
+#custom-power {
+    color: red;
+    padding: 0px 0px 0px 7px;
+    opacity:1.0;
 }
 #backlight {
 	padding: 0px 2px 0px 6px;
-}
-#custom-power {
-    color: @red;
-    padding: 0px 0px 0px 6px;
-    opacity:1.0;
 }
 #custom-light_dark,
 #custom-menu{
@@ -109,22 +130,31 @@ window#waybar.empty #window {
     opacity:1.0;
 }
 
-#custom-swaync,
 #custom-weather,
-#custom-updater {
+#custom-updates {
     color: @yellow;
+}
+
+#mpris {
+	padding-right: 2px;
 }
 
 #keyboard-state,
 #clock {
 	color: @sapphire;
 }
-#network,
+
 #temperature {
     color: @rosewater;
 }
 
-#custom-keybinds,
+#network {
+	padding-left: 2px;
+	color: @rosewater;
+}
+
+#custom-swaync,
+#custom-hint,
 #tray {
 	color: aliceblue;
 }
@@ -142,45 +172,47 @@ window#waybar.empty #window {
     color: @lavender;
 }
 
-#custom-cava_mviz {
-	color: @color2;
-}
-
 #custom-lock,
+#custom-hypridle,
 #idle_inhibitor {
     color: @teal;
 }
 
+/*-----Indicators----*/
+#custom-hypridle.notactive,
+#idle_inhibitor.activated {
+	color: #39FF14;
+}
+
+#custom-cava_mviz{
+	color: @color2;
+}
 #workspaces {
-    margin: 3px 3px 3px 3px;
-    padding: 0px 1px;
     border-radius: 25px;
-    font-weight: bold;
-    font-style: normal;
+    border:2px solid @border-color;
     opacity:0.8;
     color:#FFFFFF;
+    margin: 6px;
     
 }
 
 #workspaces button {
-    margin: 1px 1px;
     border-radius: 15px;
     border:0px;
     color: @color13;
-    padding-left: 4px;
-    padding-right: 4px;
+    padding-left: 2px;
+    padding-right: 2px;
     animation: gradient_f 20s ease-in infinite;
     transition: all 0.5s cubic-bezier(.55,-0.68,.48,1.682);
     opacity:0.8;
 }
 
-#workspaces button.active,
-#workspaces button.visible {
+#workspaces button.active {
     color: #FFFFFF;
     background: @button-color;
-    border-radius: 15px;
-    padding-left: 8px;
-    padding-right: 8px;
+    border-radius: 25px;
+    padding-left: 4px;
+    padding-right: 4px;
     animation: gradient_f 20s ease-in infinite;
     transition: all 0.3s cubic-bezier(.55,-0.68,.48,1.682);
     opacity:1.0;
@@ -228,7 +260,7 @@ window#waybar.empty #window {
 }
 
 #temperature.critical {
-    background-color: @red;
+    background-color: red;
 }
 
 @keyframes blink {

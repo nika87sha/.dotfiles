@@ -1,50 +1,48 @@
 /* ----------- 💫 https://github.com/JaKooLit 💫 -------- */
-/* pywal Colored*/
-
-@import '../../.cache/wal/colors-waybar.css';
+/* .......Simple Pink....................... */
+/* --- 👍 designed by https://github.com/Krautt  👍 --- */
 
 * {
-    font-family: "JetBrainsMono Nerd Font";
-    font-weight: bold;
+	font-family: "JetBrains Mono Nerd Font";
+	font-weight: bold;
 	min-height: 0;	
-     /* set font-size to 100% if font scaling is set to 1.00 using nwg-look */
-    font-size: 96%;
-    font-feature-settings: '"zero", "ss01", "ss02", "ss03", "ss04", "ss05", "cv31"';
-    padding: 1px;
+	/* set font-size to 100% if font scaling is set to 1.00 using nwg-look */
+	font-size: 97%;
+	font-feature-settings: '"zero", "ss01", "ss02", "ss03", "ss04", "ss05", "cv31"';
 }
 
 window#waybar {
-    background: transparent;
+	background: black;
+	border-radius: 50px;
+	color: whitesmoke;
 }
 
 window#waybar.hidden {
-    opacity: 0.5;
+	opacity: 0.5;
 }
 
-window#waybar.empty {
-    background-color: @background;
-}
-
+window#waybar.empty,
 window#waybar.empty #window {
-    padding: 0px;
-    border: 0px;
-    background-color: transparent;
+	padding: 0px;
+	border: 0px;
+	background-color: transparent;
 }
 
 
 tooltip {
-    background: @background;
-    border-radius: 10px;
-    border-width: 1px;
-    border-style: solid;
-    border-color: @color2;
+	background: #1e1e2e;
+	border-radius: 10px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #11111b;
+	color: pink;
 }
 
 /*-----module groups----*/
 .modules-right {
-	border: 3px solid @color14;
-	border-radius: 40px 0px 0px 0px;
-	background-color: @color1;
+	border: 5px solid #19141b;
+	border-radius: 50px 50px 50px 50px;
+	background-color: #ba5663;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	padding-right: 4px;
@@ -52,9 +50,7 @@ tooltip {
 }
 
 .modules-center {
-	border: 3px solid @color14;
-	border-radius: 60px 0px 60px 0px;
-	background-color: @background;
+	background-color: black;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	padding-right: 4px;
@@ -62,9 +58,9 @@ tooltip {
 }
 
 .modules-left {
-	border: 3px solid @color14;
-	border-radius: 0px 0px 40px 0px;
-	background-color: @color1;
+	border: 5px solid #0d0a0f;
+	border-radius: 50px 50px 50px 50px;
+	background-color: #ba5663;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	padding-right: 4px;
@@ -72,7 +68,7 @@ tooltip {
 }
 
 #workspaces button {
-    color: @foreground;
+	color: pink;
     box-shadow: none;
 	text-shadow: none;
     padding: 0px;
@@ -84,33 +80,34 @@ tooltip {
 }
 
 #workspaces button.active {
-    color: @background;
-    background-color: @color2;
+	color: whitesmoke;
+	background-color: pink;
+    border-radius: 15px 15px 15px 15px;
     padding-left: 8px;
     padding-right: 8px;
     animation: gradient_f 20s ease-in infinite;
     transition: all 0.3s cubic-bezier(.55,-0.68,.48,1.682);
+
 }
 
 #workspaces button.focused {
-    color: @color4;
+	color: #c42a60;
 }
 
 #workspaces button.urgent {
-    color: #11111b;
-    border-radius: 10px;
+	color: #11111b;
+	border-radius: 10px;
 }
 
 #workspaces button:hover {
-    color: @color4;
-    padding-left: 2px;
+	color: #ba5663;
+	background-color: #0d0a0d;
+    border-radius: 15px;
+ 	padding-left: 2px;
     padding-right: 2px;
     animation: gradient_f 20s ease-in infinite;
     transition: all 0.3s cubic-bezier(.55,-0.68,.48,1.682);
-}
 
-#clock#2 {
-    color: @color6;
 }
 
 #backlight,
@@ -126,8 +123,10 @@ tooltip {
 #mode,
 #mpris,
 #network,
+#power-profiles-daemon,
 #pulseaudio,
 #pulseaudio-slider,
+#taskbar button,
 #taskbar,
 #temperature,
 #tray,
@@ -135,67 +134,83 @@ tooltip {
 #wireplumber,
 #workspaces,
 #custom-backlight,
+#custom-browser,
 #custom-cava_mviz,
 #custom-cycle_wall,
+#custom-file_manager,
 #custom-keybinds,
 #custom-keyboard,
 #custom-light_dark,
 #custom-lock,
+#custom-hint,
+#custom-hypridle,
 #custom-menu,
 #custom-power_vertical,
 #custom-power,
+#custom-settings,
+#custom-spotify,
 #custom-swaync,
+#custom-tty,
 #custom-updater,
 #custom-weather,
 #custom-weather.clearNight,
 #custom-weather.cloudyFoggyDay,
 #custom-weather.cloudyFoggyNight,
-#custom-weather.default,
+#custom-weather.default, 
 #custom-weather.rainyDay,
 #custom-weather.rainyNight,
 #custom-weather.severe,
 #custom-weather.showyIcyDay,
 #custom-weather.snowyIcyNight,
 #custom-weather.sunnyDay {
-	color: @foreground;
+	color: whitesmoke;
 	padding-top: 1px;
 	padding-bottom: 1px;
-	padding-right: 6px;
-	padding-left: 6px;
+	padding-right: 4px;
+	padding-left: 4px;
+
 }
 
 #temperature.critical {
-    background-color: #ff0000;
+	background-color: #ff0000;
 }
 
 @keyframes blink {
-    to {
-        color: #000000;
-    }
+	to {
+		color: #000000;
+	}
+}
+
+/*-----Indicators----*/
+#custom-hypridle.notactive,
+#idle_inhibitor.activated {
+	color: #39FF14;
 }
 
 #taskbar button.active {
-    background-color: rgb(47, 46, 46);
-	border-radius: 30px;
+	background-color: pink;
+    padding-left: 12px;
+    padding-right: 12px;
     animation: gradient_f 20s ease-in infinite;
     transition: all 0.3s cubic-bezier(.55,-0.68,.48,1.682);
 }
 
 #taskbar button:hover {
+	color: #ba5663;
+	background-color: #0d0a0d;
     padding-left: 3px;
     padding-right: 3px;
-	border-radius: 15px;
     animation: gradient_f 20s ease-in infinite;
     transition: all 0.3s cubic-bezier(.55,-0.68,.48,1.682);
 }
 
 #battery.critical:not(.charging) {
-    color: #f53c3c;
-    animation-name: blink;
-    animation-duration: 0.5s;
-    animation-timing-function: linear;
-    animation-iteration-count: infinite;
-    animation-direction: alternate;
+	color: #f53c3c;
+	animation-name: blink;
+	animation-duration: 0.5s;
+	animation-timing-function: linear;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
 }
 
 #pulseaudio-slider slider {
@@ -211,11 +226,13 @@ tooltip {
 	min-width: 80px;
 	min-height: 5px;
 	border-radius: 5px;
+	background-color: #22252a;
 }
 
 #pulseaudio-slider highlight {
 	min-height: 10px;
 	border-radius: 5px;
+	background-color: pink;
 }
 
 #backlight-slider slider {
@@ -231,13 +248,11 @@ tooltip {
 	min-width: 80px;
 	min-height: 10px;
 	border-radius: 5px;
+	background-color: #22252a;
 }
 
 #backlight-slider highlight {
 	min-width: 10px;
 	border-radius: 5px;
-}
-
-#custom-cava_mviz {
-	padding-right: 10px;
+	background-color: pink;
 }
