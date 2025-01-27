@@ -50,20 +50,21 @@ Sources:
 
 | Keybinding                         | Action            |
 | ---------------------------------- | ----------------- |
+| <kbd>Leader</kbd> <kbd> c c </kbd> | Highlight Colors  |
 | <kbd>Leader</kbd> <kbd> c d </kbd> | Root Directory    |
+| <kbd>Leader</kbd> <kbd> c e </kbd> | Execute File      |
 | <kbd>Leader</kbd> <kbd> c f </kbd> | Format File       |
 | <kbd>Leader</kbd> <kbd> c F </kbd> | Fix Tabs          |
-| <kbd>Leader</kbd> <kbd> c r </kbd> | Reload Module     |
-| <kbd>Leader</kbd> <kbd> c R </kbd> | Reload Configs    |
-| <kbd>Leader</kbd> <kbd> c o </kbd> | Dashboard         |
-| <kbd>Leader</kbd> <kbd> c c </kbd> | Highlight Colors  |
 | <kbd>Leader</kbd> <kbd> c h </kbd> | Hardtime          |
 | <kbd>Leader</kbd> <kbd> c l </kbd> | Clean Empty Lines |
 | <kbd>Leader</kbd> <kbd> c m </kbd> | Markdown Preview  |
 | <kbd>Leader</kbd> <kbd> c n </kbd> | Notifications     |
+| <kbd>Leader</kbd> <kbd> c o </kbd> | Dashboard         |
 | <kbd>Leader</kbd> <kbd> c p </kbd> | Pick Color        |
 | <kbd>Leader</kbd> <kbd> c P </kbd> | Convert Color     |
-| <kbd>Leader</kbd> <kbd> c x </kbd> | Run File          |
+| <kbd>Leader</kbd> <kbd> c r </kbd> | Reload Module     |
+| <kbd>Leader</kbd> <kbd> c R </kbd> | Reload Configs    |
+| <kbd>Leader</kbd> <kbd> c s </kbd> | Source File       |
 
 ### d - Database
 
@@ -78,37 +79,53 @@ Sources:
 
 ### e - Edit
 
-| Keybinding                         | Action            |
-| ---------------------------------- | ----------------- |
-| <kbd>Leader</kbd> <kbd> e a </kbd> | Alternate File    |
-| <kbd>Leader</kbd> <kbd> e c </kbd> | Config            |
-| <kbd>Leader</kbd> <kbd> e d </kbd> | Config Dir        |
-| <kbd>Leader</kbd> <kbd> e e </kbd> | Explorer          |
-| <kbd>Leader</kbd> <kbd> e f </kbd> | File Under Cursor |
-| <kbd>Leader</kbd> <kbd> e l </kbd> | Local Config      |
-| <kbd>Leader</kbd> <kbd> e m </kbd> | Readme            |
-| <kbd>Leader</kbd> <kbd> e n </kbd> | New File          |
-| <kbd>Leader</kbd> <kbd> e z </kbd> | Zsh Config        |
+| Keybinding                           | Action             |
+| ------------------------------------ | ------------------ |
+| <kbd>Leader</kbd> <kbd> e a </kbd>   | Alternate File     |
+| <kbd>Leader</kbd> <kbd> e c </kbd>   | Config             |
+| <kbd>Leader</kbd> <kbd> e c a </kbd> | Shell Aliases      |
+| <kbd>Leader</kbd> <kbd> e c A </kbd> | Alacritty Config   |
+| <kbd>Leader</kbd> <kbd> e c b </kbd> | Bash Config        |
+| <kbd>Leader</kbd> <kbd> e c c </kbd> | Neovim Configs     |
+| <kbd>Leader</kbd> <kbd> e c d </kbd> | Dotfiles           |
+| <kbd>Leader</kbd> <kbd> e c e </kbd> | Environment Config |
+| <kbd>Leader</kbd> <kbd> e c f </kbd> | Shell Functions    |
+| <kbd>Leader</kbd> <kbd> e c g </kbd> | Git Config         |
+| <kbd>Leader</kbd> <kbd> e c k </kbd> | Kitty Config       |
+| <kbd>Leader</kbd> <kbd> e c l </kbd> | Locak Env          |
+| <kbd>Leader</kbd> <kbd> e c n </kbd> | Neovim Init        |
+| <kbd>Leader</kbd> <kbd> e c p </kbd> | Plugin List        |
+| <kbd>Leader</kbd> <kbd> e c q </kbd> | Qutebrowser Config |
+| <kbd>Leader</kbd> <kbd> e c t </kbd> | Tmux Config        |
+| <kbd>Leader</kbd> <kbd> e c v </kbd> | Vim Config         |
+| <kbd>Leader</kbd> <kbd> e c z </kbd> | Zsh Config         |
+| <kbd>Leader</kbd> <kbd> e c Z </kbd> | Zsh Prompt Config  |
+| <kbd>Leader</kbd> <kbd> e e </kbd>   | Explorer           |
+| <kbd>Leader</kbd> <kbd> e f </kbd>   | File Under Cursor  |
+| <kbd>Leader</kbd> <kbd> e m </kbd>   | Readme             |
+| <kbd>Leader</kbd> <kbd> e n </kbd>   | New File           |
 
 ### f - Find
 
-| Keybinding                         | Action             |
-| ---------------------------------- | ------------------ |
-| <kbd>Leader</kbd> <kbd> f a </kbd> | All Files          |
-| <kbd>Leader</kbd> <kbd> f b </kbd> | Buffers            |
-| <kbd>Leader</kbd> <kbd> f c </kbd> | File Commits       |
-| <kbd>Leader</kbd> <kbd> f f </kbd> | Find files         |
-| <kbd>Leader</kbd> <kbd> f g </kbd> | Find Text          |
-| <kbd>Leader</kbd> <kbd> f l </kbd> | Location List      |
-| <kbd>Leader</kbd> <kbd> f m </kbd> | Modified files     |
-| <kbd>Leader</kbd> <kbd> f o </kbd> | Find in Open Files |
-| <kbd>Leader</kbd> <kbd> f p </kbd> | Last Search        |
-| <kbd>Leader</kbd> <kbd> f q </kbd> | Quickfix           |
-| <kbd>Leader</kbd> <kbd> f r </kbd> | Recent Files       |
-| <kbd>Leader</kbd> <kbd> f s </kbd> | Fuzzy Find in File |
-| <kbd>Leader</kbd> <kbd> f t </kbd> | Panel              |
-| <kbd>Leader</kbd> <kbd> f u </kbd> | Undo History       |
-| <kbd>Leader</kbd> <kbd> f w </kbd> | Find Word          |
+| Keybinding                            | Action             |
+| ------------------------------------- | ------------------ |
+| <kbd>Leader</kbd> <kbd> f 1..9 </kbd> | Jump to File       |
+| <kbd>Leader</kbd> <kbd> f a </kbd>    | All Files          |
+| <kbd>Leader</kbd> <kbd> f c </kbd>    | File Commits       |
+| <kbd>Leader</kbd> <kbd> f f </kbd>    | Find files         |
+| <kbd>Leader</kbd> <kbd> f g </kbd>    | Find Text          |
+| <kbd>Leader</kbd> <kbd> f j </kbd>    | Buffers            |
+| <kbd>Leader</kbd> <kbd> f l </kbd>    | Location List      |
+| <kbd>Leader</kbd> <kbd> f m </kbd>    | Modified files     |
+| <kbd>Leader</kbd> <kbd> f o </kbd>    | Find in Open Files |
+| <kbd>Leader</kbd> <kbd> f p </kbd>    | Last Search        |
+| <kbd>Leader</kbd> <kbd> f P </kbd>    | Plugin Files       |
+| <kbd>Leader</kbd> <kbd> f q </kbd>    | Quickfix           |
+| <kbd>Leader</kbd> <kbd> f r </kbd>    | Recent Files       |
+| <kbd>Leader</kbd> <kbd> f s </kbd>    | Fuzzy Find in File |
+| <kbd>Leader</kbd> <kbd> f t </kbd>    | Panel              |
+| <kbd>Leader</kbd> <kbd> f u </kbd>    | Undo History       |
+| <kbd>Leader</kbd> <kbd> f w </kbd>    | Find Word          |
 
 ### g - Git
 
@@ -117,6 +134,7 @@ Sources:
 | <kbd>Leader</kbd> <kbd> g a </kbd>   | Stage Hunk      |
 | <kbd>Leader</kbd> <kbd> g A </kbd>   | Stage Buffer    |
 | <kbd>Leader</kbd> <kbd> g b </kbd>   | Blame           |
+| <kbd>Leader</kbd> <kbd> g B </kbd>   | Detailed Blame  |
 | <kbd>Leader</kbd> <kbd> g c </kbd>   | Find Commits    |
 | <kbd>Leader</kbd> <kbd> g C </kbd>   | Co-Authors      |
 | <kbd>Leader</kbd> <kbd> g d </kbd>   | Diff            |
@@ -125,7 +143,8 @@ Sources:
 | <kbd>Leader</kbd> <kbd> g i </kbd>   | Hunk Info       |
 | <kbd>Leader</kbd> <kbd> g j </kbd>   | Next Hunk       |
 | <kbd>Leader</kbd> <kbd> g k </kbd>   | Prev Hunk       |
-| <kbd>Leader</kbd> <kbd> g l </kbd>   | Log             |
+| <kbd>Leader</kbd> <kbd> g l </kbd>   | Lazygit Log     |
+| <kbd>Leader</kbd> <kbd> g L </kbd>   | Log             |
 | <kbd>Leader</kbd> <kbd> g p </kbd>   | Pull            |
 | <kbd>Leader</kbd> <kbd> g P </kbd>   | Push            |
 | <kbd>Leader</kbd> <kbd> g r </kbd>   | Reset Hunk      |
@@ -140,6 +159,7 @@ Sources:
 | <kbd>Leader</kbd> <kbd> g t w </kbd> | Word Diff       |
 | <kbd>Leader</kbd> <kbd> g u </kbd>   | Undo Stage Hunk |
 | <kbd>Leader</kbd> <kbd> g v </kbd>   | Select Hunk     |
+| <kbd>Leader</kbd> <kbd> g w </kbd>   | Git Browse      |
 
 ### h - Help
 
@@ -155,7 +175,6 @@ Sources:
 | Keybinding                         | Action        |
 | ---------------------------------- | ------------- |
 | <kbd>Leader</kbd> <kbd> i d </kbd> | Date          |
-| <kbd>Leader</kbd> <kbd> i e </kbd> | Emojis        |
 | <kbd>Leader</kbd> <kbd> i f </kbd> | File Name     |
 | <kbd>Leader</kbd> <kbd> i n </kbd> | Nerd Glyphs   |
 | <kbd>Leader</kbd> <kbd> i P </kbd> | Absolute Path |
@@ -250,6 +269,8 @@ Sources:
 
 | Keybinding                         | Action           |
 | ---------------------------------- | ---------------- |
+| <kbd>Leader</kbd> <kbd> n a </kbd> | Select Scratch   |
+| <kbd>Leader</kbd> <kbd> n c </kbd> | Commit Note      |
 | <kbd>Leader</kbd> <kbd> n d </kbd> | Today's Todo     |
 | <kbd>Leader</kbd> <kbd> n e </kbd> | Today's Entry    |
 | <kbd>Leader</kbd> <kbd> n f </kbd> | All Notes        |
@@ -257,7 +278,7 @@ Sources:
 | <kbd>Leader</kbd> <kbd> n h </kbd> | Yesterday's Todo |
 | <kbd>Leader</kbd> <kbd> n l </kbd> | Tomorrow's Todo  |
 | <kbd>Leader</kbd> <kbd> n n </kbd> | New Note         |
-| <kbd>Leader</kbd> <kbd> n s </kbd> | Commit Note      |
+| <kbd>Leader</kbd> <kbd> n s </kbd> | New Scratch      |
 | <kbd>Leader</kbd> <kbd> n t </kbd> | Incomplete Todos |
 | <kbd>Leader</kbd> <kbd> n x </kbd> | Toggle Todo      |
 
@@ -272,19 +293,22 @@ Sources:
 
 ### p - Packages
 
-| Keybinding                         | Action  |
-| ---------------------------------- | ------- |
-| <kbd>Leader</kbd> <kbd> p c </kbd> | Check   |
-| <kbd>Leader</kbd> <kbd> p d </kbd> | Debug   |
-| <kbd>Leader</kbd> <kbd> p i </kbd> | Install |
-| <kbd>Leader</kbd> <kbd> p l </kbd> | Log     |
-| <kbd>Leader</kbd> <kbd> p m </kbd> | Mason   |
-| <kbd>Leader</kbd> <kbd> p P </kbd> | Profile |
-| <kbd>Leader</kbd> <kbd> p p </kbd> | Plugins |
-| <kbd>Leader</kbd> <kbd> p r </kbd> | Restore |
-| <kbd>Leader</kbd> <kbd> p s </kbd> | Sync    |
-| <kbd>Leader</kbd> <kbd> p u </kbd> | Update  |
-| <kbd>Leader</kbd> <kbd> p x </kbd> | Clean   |
+| Keybinding                         | Action           |
+| ---------------------------------- | ---------------- |
+| <kbd>Leader</kbd> <kbd> p c </kbd> | Check            |
+| <kbd>Leader</kbd> <kbd> p d </kbd> | Debug            |
+| <kbd>Leader</kbd> <kbd> p e </kbd> | Profiler Scratch |
+| <kbd>Leader</kbd> <kbd> p f </kbd> | Profiler Find    |
+| <kbd>Leader</kbd> <kbd> p i </kbd> | Install          |
+| <kbd>Leader</kbd> <kbd> p l </kbd> | Log              |
+| <kbd>Leader</kbd> <kbd> p m </kbd> | Mason            |
+| <kbd>Leader</kbd> <kbd> p p </kbd> | Plugins          |
+| <kbd>Leader</kbd> <kbd> p P </kbd> | Profile          |
+| <kbd>Leader</kbd> <kbd> p r </kbd> | Restore          |
+| <kbd>Leader</kbd> <kbd> p s </kbd> | Sync             |
+| <kbd>Leader</kbd> <kbd> p t </kbd> | Profiler Toggle  |
+| <kbd>Leader</kbd> <kbd> p u </kbd> | Update           |
+| <kbd>Leader</kbd> <kbd> p x </kbd> | Clean            |
 
 ### q - Quit
 
@@ -384,17 +408,20 @@ Sources:
 
 ### w - Writing
 
-| Keybinding                         | Action         |
-| ---------------------------------- | -------------- |
-| <kbd>Leader</kbd> <kbd> w c </kbd> | Spellcheck     |
-| <kbd>Leader</kbd> <kbd> w f </kbd> | Force Write    |
-| <kbd>Leader</kbd> <kbd> w j </kbd> | Next Misspell  |
-| <kbd>Leader</kbd> <kbd> w k </kbd> | Prev Misspell  |
-| <kbd>Leader</kbd> <kbd> w q </kbd> | Write and Quit |
-| <kbd>Leader</kbd> <kbd> w s </kbd> | Suggestions    |
-| <kbd>Leader</kbd> <kbd> w t </kbd> | Twilight       |
-| <kbd>Leader</kbd> <kbd> w w </kbd> | Write and Quit |
-| <kbd>Leader</kbd> <kbd> w z </kbd> | ZenMode        |
+| Keybinding                         | Action                   |
+| ---------------------------------- | ------------------------ |
+| <kbd>Leader</kbd> <kbd> w c </kbd> | Spellcheck               |
+| <kbd>Leader</kbd> <kbd> w d </kbd> | Dim On                   |
+| <kbd>Leader</kbd> <kbd> w D </kbd> | Dim Off                  |
+| <kbd>Leader</kbd> <kbd> w f </kbd> | Force Write              |
+| <kbd>Leader</kbd> <kbd> w j </kbd> | Next Misspell            |
+| <kbd>Leader</kbd> <kbd> w k </kbd> | Prev Misspell            |
+| <kbd>Leader</kbd> <kbd> w n </kbd> | Write Without Formatting |
+| <kbd>Leader</kbd> <kbd> w q </kbd> | Write and Quit           |
+| <kbd>Leader</kbd> <kbd> w s </kbd> | Suggestions              |
+| <kbd>Leader</kbd> <kbd> w w </kbd> | Write and Quit           |
+| <kbd>Leader</kbd> <kbd> w z </kbd> | Zen                      |
+| <kbd>Leader</kbd> <kbd> w Z </kbd> | Zoom                     |
 
 ### x - Exit
 
@@ -433,11 +460,12 @@ Sources:
 
 | Keybinding                         | Action                |
 | ---------------------------------- | --------------------- |
+| <kbd>Leader</kbd> <kbd> c e </kbd> | Run Code              |
 | <kbd>Leader</kbd> <kbd> c i </kbd> | Sort Case Insensitive |
 | <kbd>Leader</kbd> <kbd> c S </kbd> | Sort Desc             |
 | <kbd>Leader</kbd> <kbd> c s </kbd> | Sort Asc              |
 | <kbd>Leader</kbd> <kbd> c u </kbd> | Unique                |
-| <kbd>Leader</kbd> <kbd> c x </kbd> | Run Code              |
+| <kbd>Leader</kbd> <kbd> c x </kbd> | Execute Lua           |
 
 ### g - Git
 

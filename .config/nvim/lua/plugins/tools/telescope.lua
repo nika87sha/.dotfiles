@@ -1,26 +1,8 @@
 local telescope = require('telescope')
 local actions = require('telescope.actions')
-local multi_open_mappings = require('plugins.tools.telescope-multiopen')
 local icons = require('lib.icons')
-
-local function flash(prompt_bufnr)
-    require('flash').jump({
-        pattern = '^',
-        label = { after = { 0, 0 } },
-        search = {
-            mode = 'search',
-            exclude = {
-                function(win)
-                    return vim.bo[vim.api.nvim_win_get_buf(win)].filetype ~= 'TelescopeResults'
-                end,
-            },
-        },
-        action = function(match)
-            local picker = require('telescope.actions.state').get_current_picker(prompt_bufnr)
-            picker:set_selection(match.pos[1] - 1)
-        end,
-    })
-end
+local flash = require('plugins.tools.telescope-custom').flash
+local multi_open = require('plugins.tools.telescope-custom').multi_open
 
 telescope.setup({
     defaults = {
@@ -53,6 +35,7 @@ telescope.setup({
         selection_caret = icons.ui.Play,
         multi_icon = icons.ui.Check,
         path_display = { 'smart' },
+        -- path_display = { filename_first = { reverse_directories = false } },
         sorting_strategy = 'ascending',
 
         mappings = {
@@ -69,8 +52,10 @@ telescope.setup({
                 ['<Down>'] = actions.move_selection_next,
                 ['<Up>'] = actions.move_selection_previous,
 
-                ['<CR>'] = actions.select_default,
+                ['<CR>'] = multi_open,
                 ['<C-x>'] = actions.select_horizontal,
+                ['<C-CR>'] = actions.select_vertical,
+                ['<S-CR>'] = actions.select_horizontal,
                 ['<C-v>'] = actions.select_vertical,
                 ['<C-t>'] = actions.select_tab,
                 ['<C-s>'] = flash,
@@ -91,7 +76,7 @@ telescope.setup({
             n = {
                 ['q'] = actions.close,
                 ['<esc>'] = actions.close,
-                ['<CR>'] = actions.select_default,
+                ['<CR>'] = multi_open,
                 ['<C-x>'] = actions.select_horizontal,
                 ['<C-v>'] = actions.select_vertical,
                 ['<C-t>'] = actions.select_tab,
@@ -123,11 +108,6 @@ telescope.setup({
             },
         },
     },
-    pickers = {
-        find_files = { mappings = multi_open_mappings },
-        git_files = { mappings = multi_open_mappings },
-        oldfiles = { mappings = multi_open_mappings },
-    },
     extensions = {
         fzf = {
             fuzzy = true,
@@ -139,9 +119,16 @@ telescope.setup({
             use_delta = true,
             use_custom_command = nil,
             side_by_side = true,
-            vim_diff_opts = {ctxlen = 10 },
+            vim_diff_opts = {
+                ctxlen = vim.o.scrolloff * 2,
+            },
             entry_format = 'state #$ID, $STAT, $TIME',
             -- time_format = '%d %b %H:%M',
+            saved_only = false,
+            layout_strategy = 'vertical',
+            layout_config = {
+                preview_height = 0.7,
+            },
             mappings = {
                 i = {
                     ['<S-cr>'] = require('telescope-undo.actions').yank_additions,
@@ -150,13 +137,10 @@ telescope.setup({
                 },
             },
         },
-        menufacture = { mappings = { main_menu = { [{ 'i', 'n' }] = '<C-e>' } } },
     },
 })
 
-require('telescope').load_extension('fzf')
-require('telescope').load_extension('menufacture')
-require('telescope').load_extension('undo')
-require('telescope').load_extension('harpoon')
-require('telescope').load_extension('notify')
-require('telescope').load_extension('refactoring')
+telescope.load_extension('fzf')
+telescope.load_extension('undo')
+telescope.load_extension('marks_nvim')
+telescope.load_extension('refactoring')

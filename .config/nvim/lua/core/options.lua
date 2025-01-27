@@ -47,6 +47,7 @@ local options = {
     tabstop = 4, -- insert 2 spaces for a tab
     termguicolors = true, -- set term gui colors (most terminals support this)
     timeoutlen = 300, -- time to wait for a mapped sequence to complete (in milliseconds)
+    title = true, -- window titles
     undofile = true, -- enable persistent undo
     undolevels = 10000,
     updatetime = 50, -- faster completion (4000ms default)
@@ -57,25 +58,33 @@ local options = {
     writebackup = false, -- do not edit backups
 }
 
-vim.opt.path:append({ '**' })
-
--- Undercurl
-vim.cmd([[let &t_Cs = "\e[4:3m"]])
-vim.cmd([[let &t_Ce = "\e[4:0m"]])
-
-vim.opt.shortmess:append({ W = true, I = true, c = true })
-
-if vim.fn.has('nvim-0.9.0') == 1 then
-    vim.opt.splitkeep = 'screen'
-    vim.opt.shortmess:append({ C = true })
-end
-
--- Fix markdown indentation settings
-vim.g.markdown_recommended_style = 0
-
 for k, v in pairs(options) do
     vim.opt[k] = v
 end
 
-vim.cmd('set whichwrap+=<,>,[,],h,l')
-vim.cmd([[set iskeyword+=-]])
+-- netrw file explorer settings
+vim.g.netrw_winsize = 20
+vim.g.netrw_banner = 0
+vim.g.netrw_liststyle = 1
+
+-- Fix markdown indentation settings
+vim.g.markdown_recommended_style = 0
+
+vim.opt.path:append({ '**' })
+vim.opt.shortmess:append({ W = true, I = true, c = true })
+
+-- hides `~` at the end of the buffer
+vim.cmd([[set fillchars+=eob:\ ]])
+
+vim.cmd([[
+     setlocal spell spelllang=es "Set spellcheck language to en
+     setlocal spell! "Disable spell checks by default
+     filetype plugin indent on
+     if has('win32')
+        let g:python3_host_prog = $HOME . '/scoop/apps/python/current/python.exe'
+     endif
+    let &t_Cs = "\e[4:3m" "Undercurl
+    let &t_Ce = "\e[4:0m"
+    set whichwrap+=<,>,[,],h,l
+    set iskeyword+=-
+ ]])

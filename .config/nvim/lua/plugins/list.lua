@@ -8,87 +8,35 @@ local plugins = {
     -- UI
     {
         'navarasu/onedark.nvim',
-        config = load_config('ui.onedark'),
+        -- config = load_config('ui.onedark'),
         lazy = false,
         priority = 1000,
     },
     {
+        'folke/tokyonight.nvim',
+        config = load_config('ui.onedark'),
+        lazy = false,
+        priority = 1000,
+        opts = {},
+    },
+    {
+        'folke/snacks.nvim',
+        priority = 1000,
+        lazy = false,
+        config = load_config('ui.snacks'),
+    },
+    {
         'nvim-lualine/lualine.nvim',
         config = load_config('ui.lualine'),
-        event = { 'BufReadPre', 'BufNewFile' },
-    },
-    {
-        'lukas-reineke/indent-blankline.nvim',
-        config = load_config('ui.indentline'),
-        main = 'ibl',
-        event = { 'BufReadPre', 'BufNewFile' },
-    },
-    {
-        'HiPhish/rainbow-delimiters.nvim',
-        config = load_config('ui.rainbow'),
-        event = { 'BufReadPre', 'BufNewFile' },
-    },
-    {
-        'rcarriga/nvim-notify',
-        config = load_config('ui.notify'),
-        event = 'VeryLazy',
-        cmd = 'Notifications',
+        event = { 'BufReadPost', 'BufNewFile' },
     },
     {
         'stevearc/dressing.nvim',
         config = load_config('ui.dressing'),
-        event = { 'BufReadPre', 'BufNewFile' },
-    },
-    {
-        'nvimdev/dashboard-nvim',
-        config = load_config('ui.dashboard'),
-        -- Only load when no arguments
-        event = function()
-            if vim.fn.argc() == 0 then
-                return 'VimEnter'
-            end
-        end,
-        cmd = 'Dashboard',
-    },
-    {
-        'gelguy/wilder.nvim',
-        build = function()
-            vim.cmd([[silent UpdateRemotePlugins]])
-        end,
-        config = load_config('ui.wilder'),
-        keys = { ':', '/', '?' },
-    },
-    {
-        'folke/zen-mode.nvim',
-        dependencies = {
-            'folke/twilight.nvim',
-            config = load_config('ui.twilight'),
-        },
-        config = load_config('ui.zen-mode'),
-        cmd = { 'ZenMode', 'Twilight' },
+        event = { 'BufReadPost', 'BufNewFile' },
     },
 
     -- Language
-    {
-        'weizheheng/ror.nvim',
-        branch = 'main',
-        ft = 'ruby',
-        config = load_config('lang.ror'),
-        keys = {
-            {
-                '<leader>rc',
-                mode = { 'n', 'x', 'o' },
-                function()
-                    vim.cmd('RorCommands')
-                end,
-                desc = 'Rails Commands',
-            },
-        },
-    },
-    {
-        'tpope/vim-rails',
-        ft = 'ruby',
-    },
     {
         'mfussenegger/nvim-dap',
         dependencies = {
@@ -102,7 +50,8 @@ local plugins = {
         dependencies = {
             'nvim-neotest/nvim-nio',
             'olimorris/neotest-rspec',
-            'haydenmeade/neotest-jest',
+            'nvim-neotest/neotest-jest',
+            'nvim-neotest/neotest-python',
         },
         config = load_config('lang.neotest'),
         cmd = 'Neotest',
@@ -123,23 +72,16 @@ local plugins = {
         event = 'InsertEnter',
     },
     {
-        'echasnovski/mini.comment',
-        version = '*',
-        dependencies = 'JoosepAlviste/nvim-ts-context-commentstring',
-        config = load_config('lang.comment'),
-        event = { 'BufReadPre', 'BufNewFile' },
-    },
-    {
         'echasnovski/mini.surround',
         version = '*',
         config = load_config('lang.surround'),
-        event = { 'BufReadPre', 'BufNewFile' },
+        event = { 'BufReadPost', 'BufNewFile' },
     },
     {
         'echasnovski/mini.ai',
         version = '*',
         config = load_config('lang.ai'),
-        event = { 'BufReadPre', 'BufNewFile' },
+        event = { 'BufReadPost', 'BufNewFile' },
     },
 
     -- Tresitter
@@ -154,35 +96,37 @@ local plugins = {
             'windwp/nvim-ts-autotag',
         },
         config = load_config('lang.treesitter'),
-        event = { 'BufReadPre', 'BufNewFile' },
+        event = { 'BufReadPost', 'BufNewFile' },
     },
+
     {
-        'ckolkey/ts-node-action',
-        dependencies = { 'nvim-treesitter' },
+        'MeanderingProgrammer/render-markdown.nvim',
+        ft = { 'markdown', 'quarto' },
+        dependencies = { 'nvim-treesitter/nvim-treesitter', 'echasnovski/mini.nvim' }, -- if you use the mini.nvim suite
+        -- dependencies = { 'nvim-treesitter/nvim-treesitter', 'echasnovski/mini.icons' }, -- if you use standalone mini plugins
+        -- dependencies = { 'nvim-treesitter/nvim-treesitter', 'nvim-tree/nvim-web-devicons' }, -- if you prefer nvim-web-devicons
+        ---@module 'render-markdown'
+        ---@type render.md.UserConfig
+        opts = {},
     },
+
     -- LSP
     {
         'neovim/nvim-lspconfig',
         dependencies = {
             'williamboman/mason-lspconfig.nvim',
-            'hrsh7th/cmp-nvim-lsp',
+            'saghen/blink.cmp',
         },
         config = load_config('lang.lspconfig'),
         event = { 'BufReadPre', 'BufNewFile' },
     },
     {
-        'folke/neodev.nvim',
-        ft = { 'lua', 'vim' },
-        config = load_config('lang.neodev'),
+        'folke/lazydev.nvim',
+        ft = 'lua',
     },
     {
         'nvimdev/lspsaga.nvim',
         config = load_config('lang.lspsaga'),
-        event = 'LspAttach',
-    },
-    {
-        'Maan2003/lsp_lines.nvim',
-        config = load_config('lang.lsp-lines'),
         event = 'LspAttach',
     },
     {
@@ -194,24 +138,50 @@ local plugins = {
         'nvimtools/none-ls.nvim',
         dependencies = { 'neovim/nvim-lspconfig', 'jay-babu/mason-null-ls.nvim' },
         config = load_config('lang.null-ls'),
-        event = { 'BufReadPre', 'BufNewFile' },
+        event = { 'BufReadPost', 'BufNewFile' },
     },
 
     -- Completion
     {
-        'hrsh7th/nvim-cmp',
-        dependencies = {
-            'hrsh7th/cmp-buffer',
-            'hrsh7th/cmp-path',
-            'hrsh7th/cmp-cmdline',
-            'hrsh7th/cmp-nvim-lua',
-            'L3MON4D3/LuaSnip',
-            'rafamadriz/friendly-snippets',
-            'saadparwaiz1/cmp_luasnip',
-        },
-        config = load_config('lang.cmp'),
+        'saghen/blink.cmp',
+        dependencies = { 'rafamadriz/friendly-snippets', 'giuxtaposition/blink-cmp-copilot' },
+        version = '*',
+        config = load_config('lang.blink'),
+        opts_extend = { 'sources.default' },
+        event = { 'InsertEnter' },
+    },
+    {
+        'zbirenbaum/copilot.lua',
+        dependencies = { 'giuxtaposition/blink-cmp-copilot' },
+        config = load_config('lang.copilot'),
         event = 'InsertEnter',
     },
+    {
+        'CopilotC-Nvim/CopilotChat.nvim',
+        dependencies = {
+            { 'zbirenbaum/copilot.lua' },
+            { 'nvim-lua/plenary.nvim' },
+        },
+        branch = 'main',
+        build = 'make tiktoken', -- Only on MacOS or Linux
+        cmd = {
+            'CopilotChat',
+            'CopilotChatToggle',
+            'CopilotChatDocs',
+            'CopilotChatExplain',
+            'CopilotChatFix',
+            'CopilotChatFixDiagnostic',
+            'CopilotChatCommit',
+            'CopilotChatCommitStaged',
+            'CopilotChatLoad',
+            'CopilotChatOptimize',
+            'CopilotChatReview',
+            'CopilotChatSave',
+            'CopilotChatTests',
+        },
+        config = load_config('lang.copilot-chat'),
+    },
+
     -- Tools
     {
         'nvim-tree/nvim-tree.lua',
@@ -251,30 +221,6 @@ local plugins = {
                 end,
                 desc = 'Flash Treesitter',
             },
-            {
-                'r',
-                mode = 'o',
-                function()
-                    require('flash').remote()
-                end,
-                desc = 'Remote Flash',
-            },
-            {
-                'R',
-                mode = { 'o', 'x' },
-                function()
-                    require('flash').treesitter_search()
-                end,
-                desc = 'Treesitter Search',
-            },
-            {
-                '<c-s>',
-                mode = { 'c' },
-                function()
-                    require('flash').toggle()
-                end,
-                desc = 'Toggle Flash Search',
-            },
         },
     },
     {
@@ -297,7 +243,7 @@ local plugins = {
     {
         'chrisgrieser/nvim-spider',
         config = load_config('tools.spider'),
-        event = { 'BufReadPre', 'BufNewFile' },
+        event = { 'BufReadPost', 'BufNewFile' },
     },
     {
         'folke/which-key.nvim',
@@ -320,13 +266,14 @@ local plugins = {
     {
         '2kabhishek/termim.nvim',
         cmd = { 'Fterm', 'FTerm', 'Sterm', 'STerm', 'Vterm', 'VTerm' },
+        -- dir = '~/Projects/2KAbhishek/termim.nvim',
     },
     {
         '2kabhishek/tdo.nvim',
         dependencies = 'nvim-telescope/telescope.nvim',
         cmd = { 'Tdo', 'TdoEntry', 'TdoNote', 'TdoTodos', 'TdoToggle', 'TdoFind', 'TdoFiles' },
         keys = { '[t', ']t' },
-        -- dir = "~/Projects/GitHub/Maintain/tdo.nvim"
+        -- dir = '~/Projects/2KAbhishek/tdo.nvim',
     },
     {
         'kndndrj/nvim-dbee',
@@ -339,7 +286,7 @@ local plugins = {
         end,
         config = load_config('tools.dbee'),
         cmd = 'DBToggle',
-        enabled = true,
+        enabled = false,
     },
 
     -- Telescope
@@ -352,23 +299,22 @@ local plugins = {
                 'nvim-telescope/telescope-fzf-native.nvim',
                 build = 'make',
             },
-            'nvim-telescope/telescope-symbols.nvim',
-            'molecule-man/telescope-menufacture',
             'debugloop/telescope-undo.nvim',
         },
         config = load_config('tools.telescope'),
         cmd = 'Telescope',
     },
     {
-        'ThePrimeagen/harpoon',
-        branch = 'harpoon2',
-        config = load_config('tools.harpoon'),
-        event = { 'BufReadPre', 'BufNewFile' },
+        -- 'chentoast/marks.nvim',
+        '2kabhishek/markit.nvim',
+        config = load_config('tools.marks'),
+        event = { 'BufReadPost', 'BufNewFile' },
     },
     {
         '2kabhishek/nerdy.nvim',
         dependencies = { 'stevearc/dressing.nvim' },
         cmd = 'Nerdy',
+        -- dir = '~/Projects/2KAbhishek/nerdy.nvim',
     },
 
     -- Git
@@ -376,17 +322,101 @@ local plugins = {
         '2kabhishek/co-author.nvim',
         dependencies = { 'stevearc/dressing.nvim' },
         cmd = 'CoAuthor',
+        -- dir = '~/Projects/2KAbhishek/co-author.nvim/',
+    },
+    {
+        '2kabhishek/utils.nvim',
+        cmd = 'UtilsClearCache',
+        -- dir = '~/Projects/2KAbhishek/utils.nvim/',
+    },
+    {
+        '2kabhishek/exercism.nvim',
+        cmd = {
+            'ExercismLanguages',
+            'ExercismList',
+            'ExercismSubmit',
+            'ExercismTest',
+        },
+        keys = {
+            '<leader>exa',
+            '<leader>exl',
+            '<leader>exs',
+            '<leader>ext',
+        },
+        dependencies = {
+            '2kabhishek/utils.nvim',
+            'stevearc/dressing.nvim',
+            '2kabhishek/termim.nvim',
+        },
+        config = load_config('tools.exercism'),
+        -- opts = {},
+        -- dir = '~/Projects/2KAbhishek/exercism.nvim/',
+    },
+    {
+        '2kabhishek/octohub.nvim',
+        cmd = {
+            'OctoRepos',
+            'OctoReposByCreated',
+            'OctoReposByForks',
+            'OctoReposByIssues',
+            'OctoReposByLanguages',
+            'OctoReposByNames',
+            'OctoReposByPushed',
+            'OctoReposBySize',
+            'OctoReposByStars',
+            'OctoReposByUpdated',
+            'OctoReposTypeArchived',
+            'OctoReposTypeForked',
+            'OctoReposTypePrivate',
+            'OctoReposTypeStarred',
+            'OctoReposTypeTemplate',
+            'OctoRepo',
+            'OctoStats',
+            'OctoActivityStats',
+            'OctoContributionStats',
+            'OctoRepoStats',
+            'OctoProfile',
+            'OctoRepoWeb',
+        },
+        keys = {
+            '<leader>goa',
+            '<leader>goA',
+            '<leader>gob',
+            '<leader>goc',
+            '<leader>gof',
+            '<leader>goF',
+            '<leader>gog',
+            '<leader>goi',
+            '<leader>gol',
+            '<leader>goo',
+            '<leader>gop',
+            '<leader>goP',
+            '<leader>gor',
+            '<leader>gos',
+            '<leader>goS',
+            '<leader>got',
+            '<leader>goT',
+            '<leader>gou',
+            '<leader>goU',
+            '<leader>gow',
+        },
+        dependencies = {
+            '2kabhishek/utils.nvim',
+            'nvim-telescope/telescope.nvim',
+        },
+        config = load_config('tools.octohub'),
+        -- dir = '~/Projects/2KAbhishek/octohub.nvim/',
     },
     {
         'ruifm/gitlinker.nvim',
         config = load_config('tools.gitlinker'),
-        keys = '<leader>gy',
+        keys = '<leader>yg',
     },
     {
         'lewis6991/gitsigns.nvim',
         config = load_config('tools.gitsigns'),
         cmd = 'Gitsigns',
-        event = { 'BufReadPre', 'BufNewFile' },
+        event = { 'BufReadPost', 'BufNewFile' },
     },
     {
         'tpope/vim-fugitive',
@@ -394,7 +424,7 @@ local plugins = {
     },
 }
 
-local ts_parsers = {
+local treesitter_parsers = {
     'bash',
     'css',
     'dart',
@@ -417,7 +447,9 @@ local ts_parsers = {
     'yaml',
 }
 
-
+local null_ls_sources = {
+    'shellcheck', -- bash lint
+}
 
 local lsp_servers = {
     'bashls',
@@ -431,13 +463,36 @@ local util = require('lib.util')
 
 if util.is_present('npm') then
     table.insert(lsp_servers, 'eslint')
-    table.insert(lsp_servers, 'tsserver')
+    table.insert(lsp_servers, 'ts_ls')
 end
 
 if util.is_present('gem') then
+    local ror_nvim = {
+        'weizheheng/ror.nvim',
+        branch = 'main',
+        ft = 'ruby',
+        config = load_config('lang.ror'),
+        keys = {
+            {
+                '<leader>rc',
+                mode = { 'n' },
+                function()
+                    vim.cmd('RorCommands')
+                end,
+                desc = 'Rails Commands',
+            },
+        },
+    }
+    local vim_rails = {
+        'tpope/vim-rails',
+        ft = 'ruby',
+    }
+
     table.insert(lsp_servers, 'solargraph')
-    table.insert(lsp_servers, 'ruby_ls')
+    -- table.insert(lsp_servers, 'ruby_lsp')
     table.insert(lsp_servers, 'rubocop')
+    table.insert(plugins, ror_nvim)
+    table.insert(plugins, vim_rails)
 end
 
 if util.is_present('go') then
@@ -453,7 +508,7 @@ if util.is_present('java') then
 end
 
 if util.is_present('pip') then
-    table.insert(lsp_servers, 'ruff_lsp')
+    table.insert(lsp_servers, 'ruff')
     table.insert(lsp_servers, 'pylsp')
 end
 
@@ -469,5 +524,5 @@ return {
     plugins = plugins,
     lsp_servers = lsp_servers,
     null_ls_sources = null_ls_sources,
-    ts_parsers = ts_parsers,
+    ts_parsers = treesitter_parsers,
 }

@@ -53,6 +53,7 @@ vim.api.nvim_create_autocmd('FileType', {
         'Jaq',
         'PlenaryTestPopup',
         'fugitive',
+        'git',
         'help',
         'lir',
         'lspinfo',
@@ -103,3 +104,23 @@ vim.api.nvim_create_autocmd('FileType', {
         vim.opt_local.formatoptions:remove({ 'c', 'r', 'o' })
     end,
 })
+
+local function enable_autoformat()
+    vim.api.nvim_create_autocmd({ 'BufWritePre' }, {
+        group = augroup('autoformat'),
+        pattern = { '*' },
+        callback = function()
+            vim.lsp.buf.format()
+        end,
+    })
+end
+
+enable_autoformat()
+
+vim.api.nvim_create_user_command('WriteNoFormat', function()
+    -- Temporarily disable the autoformat autocmd
+    vim.api.nvim_del_augroup_by_name('nvim2k_autoformat')
+    vim.cmd('write')
+    -- Re-enable the autoformat autocmd
+    enable_autoformat()
+end, {})

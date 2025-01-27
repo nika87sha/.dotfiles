@@ -1,4 +1,5 @@
 local nvim_tree = require('nvim-tree')
+local Snacks = require('snacks')
 
 local icons = require('lib.icons')
 
@@ -24,6 +25,20 @@ local function on_attach(bufnr)
     vim.keymap.set('n', 'v', api.node.open.vertical, opts('Open: Vertical Split'))
     vim.keymap.set('n', 'o', api.node.open.horizontal, opts('Open: Horizontal Split'))
 end
+
+local prev = { new_name = '', old_name = '' } -- Prevents duplicate events
+vim.api.nvim_create_autocmd('User', {
+    pattern = 'NvimTreeSetup',
+    callback = function()
+        local events = require('nvim-tree.api').events
+        events.subscribe(events.Event.NodeRenamed, function(data)
+            if prev.new_name ~= data.new_name or prev.old_name ~= data.old_name then
+                data = data
+                Snacks.rename.on_rename_file(data.old_name, data.new_name)
+            end
+        end)
+    end,
+})
 
 nvim_tree.setup({
     on_attach = on_attach,
@@ -83,10 +98,10 @@ nvim_tree.setup({
     update_focused_file = { enable = true, update_cwd = true, ignore_list = {} },
     git = { enable = true, ignore = true, timeout = 500 },
     view = {
-        width = 30,
+        width = 50,
         side = 'left',
-        adaptive_size = false,
-        number = false,
-        relativenumber = false,
+        adaptive_size = true,
+        number = true,
+        relativenumber = true,
     },
 })

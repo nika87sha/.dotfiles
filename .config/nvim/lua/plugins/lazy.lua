@@ -25,8 +25,8 @@ lazy.setup({
     spec = plugins,
     lockfile = vim.fn.stdpath('config') .. '/lua/plugins/lock.json',
     concurrency = 8,
-    dev = { path = '~/Projects/', patterns = {}, fallback = false },
-    install = { missing = true, colorscheme = { 'onedark' } },
+    dev = { path = '~/notas/', patterns = { 'notas' }, fallback = true },
+    install = { missing = true, colorscheme = { 'tokyonight' } },
 
     git = {
         log = { '--since=3 days ago' },
@@ -51,7 +51,7 @@ lazy.setup({
             loaded = icons.ui.CircleSmall,
             not_loaded = icons.ui.CircleSmallEmpty,
             plugin = icons.ui.Package,
-            runtime = icons.ui.NeoVim,
+            runtime = icons.ui.Neovim,
             source = icons.ui.Code,
             start = icons.ui.Play,
             task = icons.ui.Check,
