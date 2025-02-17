@@ -13660,3 +13660,77 @@ Dec 28 18:06 : player: played "The Tyets/Amics, Tiets i Coneguts.ogg"
 Dec 29 09:33 : player: played "The Tyets/Amics, Tiets i Coneguts.ogg"
 Dec 29 10:42 : player: played "The Tyets/Amics, Tiets i Coneguts.ogg"
 Dec 29 19:22 : player: played "The Tyets/Amics, Tiets i Coneguts.ogg"
+Dec 30 02:18 : player: played "The Tyets/Amics, Tiets i Coneguts.ogg"
+Dec 30 21:03 : exception: Failed to create /home/verodg/.mpd/mpdstate: Permission denied
+Dec 30 21:03 : player: played "The Tyets/Amics, Tiets i Coneguts.ogg"
+Dec 30 21:37 : player: played "The Tyets/Amics, Tiets i Coneguts.ogg"
+Jan 01 21:04 : player: played "The Tyets/Amics, Tiets i Coneguts.ogg"
+Jan 01 22:15 : player: played "The Tyets/Amics, Tiets i Coneguts.ogg"
+Jan 04 12:06 : exception: Failed to decode /home/verodg/Musica/The Tyets/Amics, Tiets i Coneguts.ogg; Failed to open '/home/verodg/Musica/The Tyets/Amics, Tiets i Coneguts.ogg': No such file or directory
+Jan 04 12:06 : exception: Failed to decode /home/verodg/Musica/Sopa De Cabra/Sopa de Cabra, The Tyets, Ginestà i Guillem Solé - Mai Trobaràs @ Palau Sant Jordi-2VOiyXBOz7g.ogg; Failed to open '/home/verodg/Musica/Sopa De Cabra/Sopa de Cabra, The Tyets, Ginestà i Guillem Solé - Mai Trobaràs @ Palau Sant Jordi-2VOiyXBOz7g.ogg': No such file or directory
+Jan 04 12:06 : player: played "The Tyets/Amics, Tiets i Coneguts.ogg"
+Feb 09 12:34 : ffmpeg/ogg: Header processing failed: Invalid data found when processing input
+Feb 09 12:34 : update: added Electronica/Miss Monique /Miss Monique at The Concourse Project ｜ Full Set (1 Sep 2023) [wSSDiS1A0f4].ogg
+Feb 09 12:34 : update: added Electronica/Miss Monique /Miss Monique - 1001Tracklists Exclusive Mix [Progressive House⧸Melodic Techno Live DJ Set] [GLnEv161WZM].ogg
+Feb 09 12:34 : update: added Electronica/Miss Monique /Miss Monique - BBC Radio 1 Essential Mix 2024 [Hw52amuu-l4].ogg
+Feb 09 12:34 : update: added Electronica/Miss Monique /Miss Monique - Look At You [Interstellar] [fPXdiEbeTtM].ogg
+Feb 09 12:34 : update: added Electronica/Miss Monique /Miss Monique - MiMo Podcast 042  [Melodic Techno & House DJ Mix] [0AhFghYZQ74].ogg
+Feb 09 12:34 : update: added Electronica/Miss Monique /Miss Monique - MiMo Weekly Podcast #1 04.09.2018 [Progressive Music] [5L2nBYFngZI].ogg
+Feb 09 12:34 : update: added Electronica/Miss Monique /Miss Monique at the Biosphere Museum, in Montreal, Canada for Cercle [QPPFM8NyuaQ].ogg
+Feb 09 12:34 : update: added Electronica/Miss Monique /Miss Monique - Special Spring Mix @ Saxon club [Progressive House, Melodic Techno 2018] [4D7vz6fQDqs].ogg
+Feb 09 12:34 : ffmpeg/ogg: Format ogg detected only with low score of 1, misdetection possible!
+Feb 09 12:34 : update: added Electronica/Miss Monique /Miss Monique - Yearmix 2023 @Miami, FL [Melodic Techno⧸Progressive House DJ Mix] [7MbyTJs3SAo].ogg
+Feb 09 12:34 : update: added Electronica/Miss Monique /Miss Monique for Cloudbeds @ ITB Berlin [t5S8TMX4e6I].ogg
+Feb 09 12:34 : update: added Electronica/Miss Monique /Miss Monique MiMo Weekly Podcast 020 [Progressive House⧸Melodic Techno DJ Mix] #DGTX 4K [fi6s9V5jC3s].ogg
+Feb 09 12:34 : update: added Electronica/Miss Monique /Tomorrowland - Friendship Mix - Miss Monique [_Vj8WEqvncA].ogg
+Feb 09 12:34 : ffmpeg/ogg: Format ogg detected only with low score of 1, misdetection possible!
+Feb 09 12:34 : ffmpeg/ogg: Format ogg detected only with low score of 1, misdetection possible!
+Feb 09 12:34 : update: added Electronica/Tasha&Co/YOUNA - Melodic Techno & Progressive House DJ Mix @ Dubai [ZbEhNFCHMQQ].ogg
+Feb 09 12:34 : update: added Els Catarres/Els Catarres - COMENÇAR A VIURE [V-7NQoTv7RM].ogg
+Feb 09 12:34 : update: added Els Catarres/Els Catarres - Fins que arribi l'alba (Live simfònic 2019) [Hu0m6uYSkAA].ogg
+Feb 09 12:34 : update: added Els Catarres/Els Catarres Feat Balkan Paradise Orchestra - Rock & Roll [7M_t7doaEio].ogg
+Feb 09 12:34 : update: added Els Catarres/Els Catarres Feat Escolania de Montserrat - Diamants [m5MynIVNtFc].ogg
+Feb 09 12:34 : update: added Els Catarres/Els Catarres Feat Joan Dausà - Tokyo [jfhcLSKJcjU].ogg
+Feb 09 12:34 : update: added Els Catarres/Els Catarres Feat Lluís Llach - Un Sostre fet d'Estrelles [sA_y1N8oklU].ogg
+Feb 09 12:34 : update: added Els Catarres/Els Catarres Feat Stay Homas & Zoo - Vull Estar Amb Tu (2023) [-spVarOHy84].ogg
+Feb 09 12:34 : update: added Els Catarres/Els Catarres Feat ZETAK - Invencibles [pk1heblGS9I].ogg
+Feb 09 12:34 : update: added Els Catarres/Els Catarres Ft Xavi Sarrià, La Fúmiga, Smoking Souls, El Diluvi i La Gossa Sorda - En Peu de Guerra [cXOax_0Tmyw].ogg
+Feb 09 12:34 : update: added Els Catarres/Els Catarres feat Els Amics de les Arts - Tintín [lp8F9iNfQYo].ogg
+Feb 09 12:34 : update: added Els Catarres/Els Catarres feat Figa Flawas - Jenifer [vFxNLm74wdQ].ogg
+Feb 09 12:34 : update: added Els Catarres/Els Catarres feat Sopa de Cabra - La Porta del Cel [SCpckoYbrDU].ogg
+Feb 09 12:34 : update: added Els Pets/Els Catarres Feat Stay Homas & Zoo - Vull Estar Amb Tu (2023) [-spVarOHy84].ogg
+Feb 09 12:34 : ffmpeg/ogg: Format ogg detected only with low score of 1, misdetection possible!
+Feb 09 12:34 : ffmpeg/ogg: Format ogg detected only with low score of 1, misdetection possible!
+Feb 09 12:34 : ffmpeg/ogg: Format ogg detected only with low score of 1, misdetection possible!
+Feb 09 12:34 : ffmpeg/ogg: Format ogg detected only with low score of 1, misdetection possible!
+Feb 09 12:34 : ffmpeg/ogg: Format ogg detected only with low score of 1, misdetection possible!
+Feb 09 12:34 : ffmpeg/ogg: Format ogg detected only with low score of 1, misdetection possible!
+Feb 09 12:34 : ffmpeg/ogg: Format ogg detected only with low score of 1, misdetection possible!
+Feb 09 12:34 : ffmpeg/ogg: Format ogg detected only with low score of 1, misdetection possible!
+Feb 09 12:34 : update: added The Tyets/TORNEM A CASA ｜ THE TYETS [7TiK1CTw3GA].ogg
+Feb 09 12:34 : update: added The Tyets/The Tyets - Summercat, de Billie the Vision and The Dancers [mPqrlGaOn5k].ogg
+Feb 09 12:34 : update: added Zetak/ARALARKO DAMA (LIVE) - ZETAK, Neomak, Kukai [paV7HWtVjCU].ogg
+Feb 09 12:34 : update: added Zetak/ZETAK - Akelarretan [GgT4z3iRm6g].ogg
+Feb 09 12:34 : update: added Zetak/ZETAK - Errepidean [7P9hrOOjV14].ogg
+Feb 09 12:34 : update: added Zetak/ZETAK - Hegan [ 90eko bi bala ｜ Gaztea ] [YusCN-L3sOM].ogg
+Feb 09 12:34 : update: added Zetak/ZETAK - Pater Noster [zJ4XLqQOTcQ].ogg
+Feb 09 12:34 : update: added Zetak/ZETAK - Su (ZUZENEAN⧸LIVE⧸DIRECTO) - Oialume 2019-11-16 [9ffwSbW2IZk].ogg
+Feb 09 12:34 : update: added Zetak/ZETAK - Zeinen Ederra Izango Den [8-N6K9H9SMk].ogg
+Feb 09 12:34 : update: added Zetak/ZETAK, Erramun Martikorena - Itzulera (Herri Urrats 2022) [ZErUMnB7aMk].ogg
+Feb 09 12:34 : update: added Zetak/ZETAK, Oques Grasses - Hitzeman [vKoIpMbbZZ0].ogg
+Feb 09 12:34 : update: added Zetak/ZETAK, SUU - Pa amb Oli I Sal [I4zBVfyEd5s].ogg
+Feb 09 12:34 : ffmpeg/ogg: Format ogg detected only with low score of 1, misdetection possible!
+Feb 09 12:34 : update: added Extremoduro/Ama, ama, ama y ensancha el alma - Extremoduro.ogg
+Feb 09 12:34 : update: added Extremoduro/Extremoduro - La ley innata (completo, letra) [e4Qm4L6pKI4].ogg
+Feb 09 12:37 : player: played "Extremoduro/Ama, ama, ama y ensancha el alma - Extremoduro.ogg"
+Feb 09 12:41 : player: played "Sopa De Cabra/Sopa De Cabra - Mai Trobaràs (30 anys) ft. Buhos, Ginestà, The Tyets.ogg"
+Feb 09 12:45 : player: played "new/TODAY IS THE DAY (Buhos and Mar Lucas.ogg"
+Feb 09 12:48 : player: played "new/Els teus ulls.ogg"
+Feb 09 13:49 : player: played "Buhos/Lluna Plena/El Cor M'apreta.ogg"
+Feb 09 13:52 : player: played "Buhos/Lluna Plena/Connectats.ogg"
+Feb 10 18:47 : player: played "Buhos/Lluna Plena/Connectats.ogg"
+Feb 10 21:45 : player: played "Buhos/Lluna Plena/Connectats.ogg"
+Feb 11 21:23 : player: played "Buhos/Lluna Plena/Connectats.ogg"
+Feb 13 21:30 : player: played "Buhos/Lluna Plena/Connectats.ogg"
+Feb 14 21:53 : player: played "Buhos/Lluna Plena/Connectats.ogg"
+Feb 16 21:39 : player: played "Buhos/Lluna Plena/Connectats.ogg"

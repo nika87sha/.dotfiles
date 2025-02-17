@@ -27,4 +27,4 @@ tmux send-keys -t DevOps:1 'k9s' Enter
 tmux send-keys -t DevOps:2 'nvim +"DBToggle"' Enter
 
 # Attach Session, on the Main window
-tmux -u attach -t 0
+tmux attach-session -t Work

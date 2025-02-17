@@ -2,8 +2,8 @@ sw_volume: 100
 audio_device_state:1:pulse audio
 audio_device_state:1:my_fifo
 state: pause
-current: 38
-time: 28.157000
+current: 13
+time: 3.353000
 random: 1
 repeat: 0
 single: 0
@@ -34,34 +34,34 @@ playlist_begin
 19:Buhos/Natura Salvatge/Toca Hamelin.ogg
 20:Buhos/Natura Salvatge/Ales Noves.ogg
 21:Buhos/Pompeia (En Directe)/Brama.ogg
-22:En tol Sarmiento/Sumendiak feat. Buhos.ogg
-23:Nil Moliner/Nil Moliner - Som Ocells feat. Gerard Sancho (Videoclip Oficial).ogg
-24:Nil Moliner/Nil Moliner, Ana Mena - Me Quedo (Videoclip Oficial).ogg
-25:Nil Moliner/Nil Moliner - Libertad.ogg
-26:Sara Roy/JA NO M'IMPORTA.ogg
-27:Sopa De Cabra/Sopa De Cabra - Mai Trobaràs (30 anys) ft. Buhos, Ginestà, The Tyets.ogg
-28:Sopa De Cabra/Sopa de Cabra & Els Amics de les Arts - Sota una estrella @ Palau Sant Jordi-Og4oeu9jZVw.ogg
-29:Sopa De Cabra/Sopa de Cabra & Els Catarres - Seguirem somiant @ Palau Sant Jordi-oIkbRhWcWck.ogg
-30:Sopa De Cabra/Sopa de Cabra & Ramon Mirabet - Els teus somnis @ Palau Sant Jordi-d7Y-jeote-8.ogg
-31:Sopa De Cabra/Sopa de Cabra, Alfred García & David Rosell - El boig de la ciutat @ Palau Sant Jordi-n-txYlOQlfQ.ogg
-32:Sopa De Cabra/Sopa de Cabra, The Tyets, Ginestà i Guillem Solé - Mai Trobaràs @ Palau Sant Jordi-2VOiyXBOz7g.ogg
-33:Stay Homas/Homa/LA NÒRIA.ogg
-34:Stay Homas/Homa/ESE BESO.ogg
-35:SUU/Postal Barata.ogg
-36:SUU/Barcelona Tropical.ogg
-37:SUU/Universal.ogg
-38:The Tyets/Amics, Tiets i Coneguts.ogg
-39:The Tyets/Èpic Solete/Bailoteo.ogg
-40:The Tyets/Èpic Solete/COTI X COTI.ogg
-41:Vicco/Nochentera.ogg
-42:Buhos/La nit esta que crema/Es Demasiado.ogg
-43:Buhos/La nit esta que crema/El món de veritat.ogg
-44:new/Els teus ulls.ogg
-45:new/Milers d’espurnes feat.Las Migas.ogg
-46:new/TODAY IS THE DAY (Buhos and Mar Lucas.ogg
-47:new/Els teus ulls.ogg
-48:new/Milers d’espurnes feat.Las Migas.ogg
-49:new/Els teus ulls.ogg
-50:new/Milers d’espurnes feat.Las Migas.ogg
-51:new/TODAY IS THE DAY (Buhos and Mar Lucas.ogg
+22:Nil Moliner/Nil Moliner - Som Ocells feat. Gerard Sancho (Videoclip Oficial).ogg
+23:Nil Moliner/Nil Moliner, Ana Mena - Me Quedo (Videoclip Oficial).ogg
+24:Nil Moliner/Nil Moliner - Libertad.ogg
+25:Sara Roy/JA NO M'IMPORTA.ogg
+26:Sopa De Cabra/Sopa De Cabra - Mai Trobaràs (30 anys) ft. Buhos, Ginestà, The Tyets.ogg
+27:Sopa De Cabra/Sopa de Cabra & Els Amics de les Arts - Sota una estrella @ Palau Sant Jordi-Og4oeu9jZVw.ogg
+28:Sopa De Cabra/Sopa de Cabra & Els Catarres - Seguirem somiant @ Palau Sant Jordi-oIkbRhWcWck.ogg
+29:Sopa De Cabra/Sopa de Cabra & Ramon Mirabet - Els teus somnis @ Palau Sant Jordi-d7Y-jeote-8.ogg
+30:Sopa De Cabra/Sopa de Cabra, Alfred García & David Rosell - El boig de la ciutat @ Palau Sant Jordi-n-txYlOQlfQ.ogg
+31:Sopa De Cabra/Sopa de Cabra, The Tyets, Ginestà i Guillem Solé - Mai Trobaràs @ Palau Sant Jordi-2VOiyXBOz7g.ogg
+32:Stay Homas/Homa/LA NÒRIA.ogg
+33:Stay Homas/Homa/ESE BESO.ogg
+34:SUU/Postal Barata.ogg
+35:SUU/Barcelona Tropical.ogg
+36:SUU/Universal.ogg
+37:The Tyets/Amics, Tiets i Coneguts.ogg
+38:The Tyets/Èpic Solete/Bailoteo.ogg
+39:The Tyets/Èpic Solete/COTI X COTI.ogg
+40:Vicco/Nochentera.ogg
+41:Buhos/La nit esta que crema/Es Demasiado.ogg
+42:Buhos/La nit esta que crema/El món de veritat.ogg
+43:new/Els teus ulls.ogg
+44:new/Milers d’espurnes feat.Las Migas.ogg
+45:new/TODAY IS THE DAY (Buhos and Mar Lucas.ogg
+46:new/Els teus ulls.ogg
+47:new/Milers d’espurnes feat.Las Migas.ogg
+48:new/Els teus ulls.ogg
+49:new/Milers d’espurnes feat.Las Migas.ogg
+50:new/TODAY IS THE DAY (Buhos and Mar Lucas.ogg
+51:Extremoduro/Ama, ama, ama y ensancha el alma - Extremoduro.ogg
 playlist_end

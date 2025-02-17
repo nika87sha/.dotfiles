@@ -26,7 +26,7 @@
 
 "custom/tty": {
 	"format": " ",
-	"on-click": "kitty",
+	"on-click": "alacritty",
 	"tooltip": true,
 	"tooltip-format": "Launch Terminal",
 },
@@ -195,4 +195,20 @@
 	"interval": "once",
 	"tooltip": false
 },
+
+"upower#keyboard": {
+    "native-path": "/org/freedesktop/UPower/devices/keyboard_dev_DF_87_BF_86_94_7B",
+    "tooltip": false,
+    "format": "{icon} {percentage}%",
+	"format-charging": " {percentage}%",
+	"format-plugged": "󱘖 {percentage}%",
+	"format-alt-click": "click",
+	"format-full": "{icon} Full",
+	"format-alt": "{icon} {time}",
+	"format-icons": [
+		"󰂎", "󰁺", "󰁻", "󰁼", "󰁽", "󰁾", "󰁿", "󰂀", "󰂁", "󰂂", "󰁹"
+	],
+    "show-icon": true
+},
+
 }

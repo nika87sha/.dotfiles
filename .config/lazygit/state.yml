@@ -1,10 +1,8 @@
 lastupdatecheck: 1722881197
 recentrepos:
-    - /home/verodg
-    - /mnt/privatedocs/Vero/Documents/2-Proyectos/scripts
-    - /home/verodg/.tmux
+    - /home/verodg/notas
 startuppopupversion: 5
-lastversion: 0.43.1
+lastversion: 0.45.2
 customcommandshistory: []
 hidecommandlog: false
 ignorewhitespaceindiffview: false

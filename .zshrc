@@ -10,7 +10,7 @@ export PATH=/home/verodg/bin:/usr/local/bin:/bin:/opt/bin:~/go/bin/:~/.local/bin
 export ZSH=$HOME/.config/zsh
 ###############################################################################
 # Neoftecth
-neofetch
+fastfetch
 # THE EDITOR
 ###############################################################################
 export EDITOR=/usr/bin/nvim
@@ -223,10 +223,14 @@ bindkey -e
 export PATH=/home/$USER/bin:$PATH
 #export DOCKER_HOST=unix:///run/user/10001/docker.sock
 
+export JAVA_HOME=/usr/lib/jvm/java-11-openjdk/bin/java
+export PATH=$JAVA_HOME/bin:$PATH
+
 export PATH=$HOME/.config/composer/vendor:$PATH
 
-export NOTES_DIR=/home/$USER/Projects/notes
+export NOTES_DIR=/home/$USER/notas
 
 # Tool configs
 if type dircolors >/dev/null 2>&1; then eval "$(dircolors ~/.dircolors)"; fi
+
 

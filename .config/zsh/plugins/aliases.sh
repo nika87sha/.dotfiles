@@ -13,6 +13,10 @@ alias ..='cd ..'
 alias cat='bat'
 alias du='dust'
 alias sshl='$HOME/.local/bin/ssh-select.sh'
+alias update='pacman -Syyu'
+
+# launch webpages from terminal
+alias sd='firefox http://slashdot.org/ &'
 
 #Docker
 alias dcu='docker compose up -d'

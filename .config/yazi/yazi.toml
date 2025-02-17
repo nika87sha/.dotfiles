@@ -131,7 +131,10 @@ previewers = [
     { name = "*/",   run = "eza-preview"},
     { name = "*.ipynb", run = "nbpreview" },
 ]
-prepend_previewers = [{ mime = "text/csv", run = "miller" }]
+prepend_previewers = [
+   { mime = "text/csv", run = "miller" },
+   { name = "*.md", run = "mdcat" },
+]
 
 [input]
 cursor_blink = false

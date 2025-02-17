@@ -1,0 +1,1653 @@
+2025/01/27 19:27:39 NOTICE: bisync is IN BETA. Don't use in production!
+2025/01/27 19:27:39 INFO  : Bisyncing with Comparison Settings: 
+{
+	"Modtime": true,
+	"Size": true,
+	"Checksum": true,
+	"HashType1": 1,
+	"HashType2": 1,
+	"NoSlowHash": false,
+	"SlowHashSyncOnly": false,
+	"SlowHashDetected": true,
+	"DownloadHash": false
+}
+2025/01/27 19:27:39 INFO  : Synching Path1 "VDrive{YoXec}:/" with Path2 "/mnt/gdrive/"
+2025/01/27 19:27:39 INFO  : Copying Path2 files to Path1
+2025/01/27 19:27:39 NOTICE: - Path2             Resync is copying files to                  - Path1
+2025/01/27 19:27:45 INFO  : There was nothing to transfer
+2025/01/27 19:27:45 NOTICE: - Path1             Resync is copying files to                  - Path2
+2025/01/27 19:27:45 NOTICE: Documents: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:45 NOTICE: Drone: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:45 NOTICE: Finanzas: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:45 NOTICE: Libros: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:45 NOTICE: Linux: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:45 NOTICE: Screenshot_20220309_163253.png: Skipped copy as --dry-run is set (size 81.560Ki)
+2025/01/27 19:27:45 NOTICE: Screenshot_20220309_163320.png: Skipped copy as --dry-run is set (size 54.965Ki)
+2025/01/27 19:27:45 NOTICE: Libros/As_a_Man_Thinketh_by_James_Allen.3.epub: Skipped copy as --dry-run is set (size 72.651Ki)
+2025/01/27 19:27:45 NOTICE: Libros/Siddhartha_by_Hermann_Hesse.3.epub: Skipped copy as --dry-run is set (size 263.470Ki)
+2025/01/27 19:27:45 NOTICE: Libros/The_Meditations_of_the_Emperor_Marcus_Aurelius_Antoninus_by_Marcus_Aurelius.3.epub: Skipped copy as --dry-run is set (size 164.124Ki)
+2025/01/27 19:27:45 NOTICE: Libros/The_Prophet_by_Kahlil_Gibran.3.epub: Skipped copy as --dry-run is set (size 9.981Mi)
+2025/01/27 19:27:45 NOTICE: Linux/Bootstrap: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:45 NOTICE: Linux/Latex: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:45 NOTICE: Linux/QEMU-KVM: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:45 NOTICE: Linux/02f9d3df-1097-4629-94ad-2f4c887967a3.pdf: Skipped copy as --dry-run is set (size 3.225Mi)
+2025/01/27 19:27:45 NOTICE: Linux/EjemploIntervalo.tex: Skipped copy as --dry-run is set (size 250)
+2025/01/27 19:27:45 NOTICE: Linux/Docker básico - primeros pasos.pdf: Skipped copy as --dry-run is set (size 1.600Mi)
+2025/01/27 19:27:45 NOTICE: Linux/The ssh Plumber's Handbook.pdf: Skipped copy as --dry-run is set (size 4.748Mi)
+2025/01/27 19:27:45 NOTICE: Linux/VIM: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:45 NOTICE: Linux/littlelink-server: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:45 NOTICE: Linux/common-ports.pdf: Skipped copy as --dry-run is set (size 19.359Ki)
+2025/01/27 19:27:45 NOTICE: Linux/mysql: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:45 NOTICE: Linux/Installing-Arch-on-a-ThinkPad-X1-Extreme-Gen-1.md: Skipped copy as --dry-run is set (size 42.662Ki)
+2025/01/27 19:27:45 NOTICE: Linux/docker-cheat-sheet.pdf: Skipped copy as --dry-run is set (size 270.753Ki)
+2025/01/27 19:27:45 NOTICE: Linux/hackear_con_kali.pdf: Skipped copy as --dry-run is set (size 1.104Mi)
+2025/01/27 19:27:45 NOTICE: Linux/python_book_01.pdf: Skipped copy as --dry-run is set (size 1.301Mi)
+2025/01/27 19:27:45 NOTICE: Linux/python_para_todos.epub: Skipped copy as --dry-run is set (size 2.678Mi)
+2025/01/27 19:27:45 NOTICE: Linux/servicios_acceso_remoto_ssh.pdf: Skipped copy as --dry-run is set (size 180.645Ki)
+2025/01/27 19:27:45 NOTICE: Linux/ssh-cheat-sheet-common-commands-and-secure-config.pdf: Skipped copy as --dry-run is set (size 71.609Ki)
+2025/01/27 19:27:45 NOTICE: Linux/vibreoffice-0.1.4.oxt: Skipped copy as --dry-run is set (size 11.274Ki)
+2025/01/27 19:27:45 NOTICE: Documents/Denuncia_Aliexpress: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:45 NOTICE: Documents/2021_12_27_amazon_beurer_po40_oximetro.pdf: Skipped copy as --dry-run is set (size 102.119Ki)
+2025/01/27 19:27:45 NOTICE: Documents/3014559420569722_payment.pdf: Skipped copy as --dry-run is set (size 38.264Ki)
+2025/01/27 19:27:45 NOTICE: Documents/3014153989329722_payment.pdf: Skipped copy as --dry-run is set (size 36.850Ki)
+2025/01/27 19:27:45 NOTICE: Documents/30440535353315.pdf: Skipped copy as --dry-run is set (size 144.644Ki)
+2025/01/27 19:27:45 NOTICE: Documents/FPVFreerider_Recharged_Linux - 2021-03-25.zip: Skipped copy as --dry-run is set (size 561.397Mi)
+2025/01/27 19:27:45 NOTICE: Documents/Multas: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:45 NOTICE: Documents/IMG_20200926_111913.jpg: Skipped copy as --dry-run is set (size 4.079Mi)
+2025/01/27 19:27:45 NOTICE: Documents/N30+F30_Manual_V4.pdf: Skipped copy as --dry-run is set (size 616.252Ki)
+2025/01/27 19:27:45 NOTICE: Documents/NESPi_CASE+_Manual.pdf: Skipped copy as --dry-run is set (size 801.984Ki)
+2025/01/27 19:27:45 NOTICE: Documents/Plantilla Básica para Seguimiento de Clientes.xlsx: Skipped copy as --dry-run is set (size 122.628Ki)
+2025/01/27 19:27:45 NOTICE: Documents/Qüestionari per al desenvolupament de teletreball.pdf: Skipped copy as --dry-run is set (size 1.757Mi)
+2025/01/27 19:27:45 NOTICE: Documents/Por fin vas a ponerte en forma.epub: Skipped copy as --dry-run is set (size 1.665Mi)
+2025/01/27 19:27:45 NOTICE: Documents/RESUM UF 1.pdf: Skipped copy as --dry-run is set (size 96.345Ki)
+2025/01/27 19:27:45 NOTICE: Documents/RPi_PiPico_Digital_v10.pdf: Skipped copy as --dry-run is set (size 18.047Mi)
+2025/01/27 19:27:45 NOTICE: Documents/curriculum vitae sergio duran gonzalez.doc: Skipped copy as --dry-run is set (size 73Ki)
+2025/01/27 19:27:45 NOTICE: Documents/curriculum vitae sergio duran gonzalez.pdf: Skipped copy as --dry-run is set (size 83.616Ki)
+2025/01/27 19:27:45 NOTICE: Documents/install-qemu-v1.sh: Skipped copy as --dry-run is set (size 1.876Ki)
+2025/01/27 19:27:45 NOTICE: Documents/hrrta_svpt.xlsx: Skipped copy as --dry-run is set (size 990.754Ki)
+2025/01/27 19:27:45 NOTICE: Documents/manual_ultrasonic_toothbrush.pdf: Skipped copy as --dry-run is set (size 1.291Mi)
+2025/01/27 19:27:45 NOTICE: Documents/make_vim_as_sexy.md: Skipped copy as --dry-run is set (size 2.529Ki)
+2025/01/27 19:27:45 NOTICE: Documents/pagament_notificacio_1723152.pdf: Skipped copy as --dry-run is set (size 23.999Ki)
+2025/01/27 19:27:45 NOTICE: Documents/mikrotik_fontvella.docx: Skipped copy as --dry-run is set (size 0)
+2025/01/27 19:27:45 NOTICE: Documents/pakages-pacman.list: Skipped copy as --dry-run is set (size 48.057Ki)
+2025/01/27 19:27:45 NOTICE: Documents/software_libre_para_una_sociedad_libre_Richard M. Stallman.pdf: Skipped copy as --dry-run is set (size 781.350Ki)
+2025/01/27 19:27:45 NOTICE: Documents/prescripio_ulleres_barraquer_2020.pdf: Skipped copy as --dry-run is set (size 458.478Ki)
+2025/01/27 19:27:45 NOTICE: Finanzas/Gestión Cartera VDG.xlsx: Skipped copy as --dry-run is set (size 103.724Ki)
+2025/01/27 19:27:45 NOTICE: Finanzas/PRESUPUESTO PERSONAL VDG 2023.xlsx: Skipped copy as --dry-run is set (size 58.488Ki)
+2025/01/27 19:27:45 NOTICE: Finanzas/PRESUPUESTO PERSONAL 2024.xlsx: Skipped copy as --dry-run is set (size 62.596Ki)
+2025/01/27 19:27:46 NOTICE: Linux/mysql/admin_productos: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:46 NOTICE: Linux/mysql/Introduccion_a_MariaDB1.pdf: Skipped copy as --dry-run is set (size 976.529Ki)
+2025/01/27 19:27:46 NOTICE: Linux/mysql/Introduccion_a_MariaDB1.epub: Skipped copy as --dry-run is set (size 411.930Ki)
+2025/01/27 19:27:46 NOTICE: Linux/mysql/escola_1.sql: Skipped copy as --dry-run is set (size 3.502Ki)
+2025/01/27 19:27:46 NOTICE: Linux/mysql/Presentació_mysql.ppt: Skipped copy as --dry-run is set (size 3.283Mi)
+2025/01/27 19:27:46 NOTICE: Linux/mysql/mi_empresa.sql: Skipped copy as --dry-run is set (size 2.865Ki)
+2025/01/27 19:27:46 NOTICE: Linux/mysql/mysql.rar: Skipped copy as --dry-run is set (size 2.354Mi)
+2025/01/27 19:27:46 NOTICE: Linux/VIM/capitulos: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:46 NOTICE: Linux/VIM/README.md: Skipped copy as --dry-run is set (size 727)
+2025/01/27 19:27:46 NOTICE: Linux/VIM/tutorial_dots: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:46 NOTICE: Linux/VIM/index.html: Skipped copy as --dry-run is set (size 7.903Ki)
+2025/01/27 19:27:46 NOTICE: Linux/VIM/photo_2021-01-05_15-36-17.jpg: Skipped copy as --dry-run is set (size 97.245Ki)
+2025/01/27 19:27:46 NOTICE: Linux/VIM/photo_2021-01-05_17-10-15.jpg: Skipped copy as --dry-run is set (size 96.321Ki)
+2025/01/27 19:27:46 NOTICE: Linux/VIM/que-vim-master.zip: Skipped copy as --dry-run is set (size 10.947Mi)
+2025/01/27 19:27:46 NOTICE: Linux/VIM/vim-es.epub: Skipped copy as --dry-run is set (size 1.539Mi)
+2025/01/27 19:27:46 NOTICE: Linux/VIM/vim-es.pdf: Skipped copy as --dry-run is set (size 2.234Mi)
+2025/01/27 19:27:46 NOTICE: Linux/VIM/vim-workshop-main.tar.gz: Skipped copy as --dry-run is set (size 193.634Ki)
+2025/01/27 19:27:46 NOTICE: Linux/VIM/vim.zip: Skipped copy as --dry-run is set (size 3.495Ki)
+2025/01/27 19:27:46 NOTICE: Documents/Denuncia_Aliexpress/Carta_tipo_Mercancia_no_recibida.pdf: Skipped copy as --dry-run is set (size 29.895Ki)
+2025/01/27 19:27:46 NOTICE: Documents/Denuncia_Aliexpress/Carta_explicativa.pdf: Skipped copy as --dry-run is set (size 28.603Ki)
+2025/01/27 19:27:46 NOTICE: Documents/Denuncia_Aliexpress/Carta_tipo_operacion_cajero_internet_comercio.pdf: Skipped copy as --dry-run is set (size 33.143Ki)
+2025/01/27 19:27:46 NOTICE: Documents/Denuncia_Aliexpress/Carta_tipo_operacion_cajero_internet_comercio_tarjeta_credito.pdf: Skipped copy as --dry-run is set (size 161.789Ki)
+2025/01/27 19:27:46 NOTICE: Documents/Denuncia_Aliexpress/Carta_tipo_operacion_cajero_internet_comercio_tarjeta_debito.pdf: Skipped copy as --dry-run is set (size 166.263Ki)
+2025/01/27 19:27:46 NOTICE: Documents/Denuncia_Aliexpress/extracto_mensual_Abril_2021.pdf: Skipped copy as --dry-run is set (size 67.660Ki)
+2025/01/27 19:27:46 NOTICE: Linux/littlelink-server/.git: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:46 NOTICE: Linux/littlelink-server/.editorconfig: Skipped copy as --dry-run is set (size 196)
+2025/01/27 19:27:46 NOTICE: Documents/Denuncia_Aliexpress/reclamacion_vendedor.png: Skipped copy as --dry-run is set (size 19.438Ki)
+2025/01/27 19:27:46 NOTICE: Linux/littlelink-server/.github: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:46 NOTICE: Linux/littlelink-server/.gitignore: Skipped copy as --dry-run is set (size 349)
+2025/01/27 19:27:46 NOTICE: Linux/littlelink-server/.nvmrc: Skipped copy as --dry-run is set (size 9)
+2025/01/27 19:27:46 NOTICE: Linux/littlelink-server/Dockerfile: Skipped copy as --dry-run is set (size 405)
+2025/01/27 19:27:46 NOTICE: Linux/littlelink-server/README.md: Skipped copy as --dry-run is set (size 4.842Ki)
+2025/01/27 19:27:46 NOTICE: Linux/littlelink-server/app.js: Skipped copy as --dry-run is set (size 851)
+2025/01/27 19:27:46 NOTICE: Linux/littlelink-server/docker-compose.yml: Skipped copy as --dry-run is set (size 1.364Ki)
+2025/01/27 19:27:46 NOTICE: Linux/littlelink-server/template: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:46 NOTICE: Linux/littlelink-server/entrypoint.sh: Skipped copy as --dry-run is set (size 204)
+2025/01/27 19:27:46 NOTICE: Linux/littlelink-server/env.js: Skipped copy as --dry-run is set (size 9.591Ki)
+2025/01/27 19:27:46 NOTICE: Linux/littlelink-server/www: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:46 NOTICE: Linux/littlelink-server/package.json: Skipped copy as --dry-run is set (size 843)
+2025/01/27 19:27:46 NOTICE: Linux/littlelink-server/yarn.lock: Skipped copy as --dry-run is set (size 32.516Ki)
+2025/01/27 19:27:46 NOTICE: Documents/Multas/Notificacio-1013275.pdf: Skipped copy as --dry-run is set (size 130.080Ki)
+2025/01/27 19:27:46 NOTICE: Linux/Bootstrap/css: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:46 NOTICE: Documents/Multas/Notificacio-1619737.PDF: Skipped copy as --dry-run is set (size 119.659Ki)
+2025/01/27 19:27:46 NOTICE: Documents/Multas/infraccio_circulacio_2020sacr0944480_mazda_7662jzl.pdf: Skipped copy as --dry-run is set (size 101.745Ki)
+2025/01/27 19:27:46 NOTICE: Documents/Multas/justificant_pagament_infraccio_circulacio_2020sacr0944480_mazda_7662jzl.pdf: Skipped copy as --dry-run is set (size 75.289Ki)
+2025/01/27 19:27:46 NOTICE: Documents/Multas/pagament_notificacio_1316326.pdf: Skipped copy as --dry-run is set (size 24Ki)
+2025/01/27 19:27:46 NOTICE: Linux/Bootstrap/ejemplo.html: Skipped copy as --dry-run is set (size 1.604Ki)
+2025/01/27 19:27:46 NOTICE: Documents/Multas/Notificacio-1192597.pdf: Skipped copy as --dry-run is set (size 96.398Ki)
+2025/01/27 19:27:46 NOTICE: Documents/Multas/Notificacio-1066073.pdf: Skipped copy as --dry-run is set (size 130.040Ki)
+2025/01/27 19:27:46 NOTICE: Documents/Multas/Notificacio-1316326.pdf: Skipped copy as --dry-run is set (size 128.211Ki)
+2025/01/27 19:27:46 NOTICE: Linux/Bootstrap/img: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:46 NOTICE: Linux/Bootstrap/formOK.html: Skipped copy as --dry-run is set (size 3.842Ki)
+2025/01/27 19:27:46 NOTICE: Linux/Bootstrap/formulario.html: Skipped copy as --dry-run is set (size 7.177Ki)
+2025/01/27 19:27:46 NOTICE: Linux/Bootstrap/galeria.html: Skipped copy as --dry-run is set (size 4.578Ki)
+2025/01/27 19:27:46 NOTICE: Linux/Bootstrap/index.html: Skipped copy as --dry-run is set (size 5.952Ki)
+2025/01/27 19:27:46 NOTICE: Linux/Bootstrap/slider.html: Skipped copy as --dry-run is set (size 5.453Ki)
+2025/01/27 19:27:46 NOTICE: Linux/Bootstrap/sources.md: Skipped copy as --dry-run is set (size 100)
+2025/01/27 19:27:46 NOTICE: Linux/Bootstrap/tablas.html: Skipped copy as --dry-run is set (size 4.839Ki)
+2025/01/27 19:27:46 NOTICE: Linux/Latex/02_business_card: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:46 NOTICE: Linux/Latex/CV: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:46 NOTICE: Linux/Latex/cv_14: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:46 NOTICE: Linux/Latex/cv_16: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:46 NOTICE: Linux/Latex/Jemai_Hassen_s_CV.epub: Skipped copy as --dry-run is set (size 69.357Ki)
+2025/01/27 19:27:46 NOTICE: Linux/Latex/LATEXBASICO.PDF: Skipped copy as --dry-run is set (size 1.418Mi)
+2025/01/27 19:27:46 NOTICE: Linux/Latex/LATEXBASICO.PDF.epub: Skipped copy as --dry-run is set (size 8.234Mi)
+2025/01/27 19:27:46 NOTICE: Linux/Latex/invoice: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:46 NOTICE: Linux/Latex/invoice-class: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:46 NOTICE: Linux/Latex/Jemai_Hassen_s_CV.pdf: Skipped copy as --dry-run is set (size 123.047Ki)
+2025/01/27 19:27:46 NOTICE: Linux/Latex/invoice-class.zip: Skipped copy as --dry-run is set (size 147.873Ki)
+2025/01/27 19:27:46 NOTICE: Linux/Latex/invoice.zip: Skipped copy as --dry-run is set (size 108.264Ki)
+2025/01/27 19:27:46 NOTICE: Linux/Latex/latex.epub: Skipped copy as --dry-run is set (size 385.203Ki)
+2025/01/27 19:27:46 NOTICE: Linux/Latex/latex.pdf: Skipped copy as --dry-run is set (size 1.937Mi)
+2025/01/27 19:27:46 NOTICE: Linux/Latex/modernfancycv.epub: Skipped copy as --dry-run is set (size 1.257Mi)
+2025/01/27 19:27:46 NOTICE: Linux/Latex/modernfancycv.pdf: Skipped copy as --dry-run is set (size 1.124Mi)
+2025/01/27 19:27:46 NOTICE: Linux/littlelink-server/.github/FUNDING.yml: Skipped copy as --dry-run is set (size 42)
+2025/01/27 19:27:46 NOTICE: Linux/VIM/tutorial_dots/.git: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:46 NOTICE: Linux/mysql/admin_productos/get_productos.php: Skipped copy as --dry-run is set (size 1.488Ki)
+2025/01/27 19:27:46 NOTICE: Linux/VIM/tutorial_dots/cpp2: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:46 NOTICE: Linux/VIM/tutorial_dots/README.md: Skipped copy as --dry-run is set (size 127)
+2025/01/27 19:27:46 NOTICE: Linux/VIM/tutorial_dots/tmux: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:46 NOTICE: Linux/VIM/tutorial_dots/vimwiki_2: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:46 NOTICE: Linux/littlelink-server/.github/workflows: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:46 NOTICE: Linux/mysql/admin_productos/list_productos.php: Skipped copy as --dry-run is set (size 1.870Ki)
+2025/01/27 19:27:46 NOTICE: Linux/mysql/admin_productos/show_producto.php: Skipped copy as --dry-run is set (size 98)
+2025/01/27 19:27:46 NOTICE: Linux/VIM/capitulos/vim1.md: Skipped copy as --dry-run is set (size 5.296Ki)
+2025/01/27 19:27:46 NOTICE: Linux/VIM/capitulos/vim10.md: Skipped copy as --dry-run is set (size 4.053Ki)
+2025/01/27 19:27:46 NOTICE: Linux/VIM/capitulos/vim11.md: Skipped copy as --dry-run is set (size 5.569Ki)
+2025/01/27 19:27:46 NOTICE: Linux/VIM/capitulos/vim12.md: Skipped copy as --dry-run is set (size 5.167Ki)
+2025/01/27 19:27:46 NOTICE: Linux/VIM/capitulos/vim13.md: Skipped copy as --dry-run is set (size 5.045Ki)
+2025/01/27 19:27:46 NOTICE: Linux/VIM/capitulos/vim14.md: Skipped copy as --dry-run is set (size 6.414Ki)
+2025/01/27 19:27:46 NOTICE: Linux/VIM/capitulos/vim15.md: Skipped copy as --dry-run is set (size 5.055Ki)
+2025/01/27 19:27:46 NOTICE: Linux/VIM/capitulos/vim2.md: Skipped copy as --dry-run is set (size 3.831Ki)
+2025/01/27 19:27:46 NOTICE: Linux/VIM/capitulos/vim16.md: Skipped copy as --dry-run is set (size 4.856Ki)
+2025/01/27 19:27:46 NOTICE: Linux/VIM/capitulos/vim3.md: Skipped copy as --dry-run is set (size 3.716Ki)
+2025/01/27 19:27:46 NOTICE: Linux/VIM/capitulos/vim4.md: Skipped copy as --dry-run is set (size 4.254Ki)
+2025/01/27 19:27:46 NOTICE: Linux/VIM/capitulos/vim5.md: Skipped copy as --dry-run is set (size 6.720Ki)
+2025/01/27 19:27:46 NOTICE: Linux/VIM/capitulos/vim6.md: Skipped copy as --dry-run is set (size 4.764Ki)
+2025/01/27 19:27:46 NOTICE: Linux/VIM/capitulos/vim7.md: Skipped copy as --dry-run is set (size 4.331Ki)
+2025/01/27 19:27:46 NOTICE: Linux/VIM/capitulos/vim8.md: Skipped copy as --dry-run is set (size 5.135Ki)
+2025/01/27 19:27:46 NOTICE: Linux/VIM/capitulos/vim9.md: Skipped copy as --dry-run is set (size 4.530Ki)
+2025/01/27 19:27:46 NOTICE: Linux/littlelink-server/.git/branches: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:46 NOTICE: Linux/littlelink-server/.git/hooks: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:46 NOTICE: Linux/littlelink-server/.git/info: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:46 NOTICE: Linux/littlelink-server/.git/logs: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:46 NOTICE: Linux/littlelink-server/.git/objects: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:46 NOTICE: Linux/littlelink-server/.git/config: Skipped copy as --dry-run is set (size 276)
+2025/01/27 19:27:46 NOTICE: Linux/littlelink-server/.git/refs: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:46 NOTICE: Linux/littlelink-server/.git/description: Skipped copy as --dry-run is set (size 73)
+2025/01/27 19:27:46 NOTICE: Linux/littlelink-server/.git/HEAD: Skipped copy as --dry-run is set (size 23)
+2025/01/27 19:27:46 NOTICE: Linux/littlelink-server/.git/packed-refs: Skipped copy as --dry-run is set (size 180)
+2025/01/27 19:27:46 NOTICE: Linux/littlelink-server/.git/index: Skipped copy as --dry-run is set (size 4.645Ki)
+2025/01/27 19:27:46 NOTICE: Linux/littlelink-server/www/css: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:46 NOTICE: Linux/littlelink-server/www/icons: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:46 NOTICE: Linux/littlelink-server/www/images: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:46 NOTICE: Linux/littlelink-server/www/index.html: Skipped copy as --dry-run is set (size 11.330Ki)
+2025/01/27 19:27:46 NOTICE: Linux/littlelink-server/template/index.html: Skipped copy as --dry-run is set (size 11.647Ki)
+2025/01/27 19:27:46 NOTICE: Linux/Bootstrap/css/index.css: Skipped copy as --dry-run is set (size 686)
+2025/01/27 19:27:46 NOTICE: Linux/Latex/02_business_card/busines card_2.epub: Skipped copy as --dry-run is set (size 40.957Ki)
+2025/01/27 19:27:46 NOTICE: Linux/Latex/02_business_card/busines card_2.sla: Skipped copy as --dry-run is set (size 58.991Ki)
+2025/01/27 19:27:46 NOTICE: Linux/Latex/02_business_card/busines card_2.pdf: Skipped copy as --dry-run is set (size 44.261Ki)
+2025/01/27 19:27:46 NOTICE: Linux/Latex/CV/cv_10: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:46 NOTICE: Linux/Latex/CV/cv_14: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:46 NOTICE: Linux/Latex/CV/cv_10.zip: Skipped copy as --dry-run is set (size 24.196Ki)
+2025/01/27 19:27:46 NOTICE: Linux/Latex/cv_14/awesome-cv.cls: Skipped copy as --dry-run is set (size 24.839Ki)
+2025/01/27 19:27:46 NOTICE: Linux/Latex/CV/cv_16: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:46 NOTICE: Linux/Latex/CV/cv_14.zip: Skipped copy as --dry-run is set (size 1.533Mi)
+2025/01/27 19:27:46 NOTICE: Linux/Latex/CV/cv_16.zip: Skipped copy as --dry-run is set (size 28.073Ki)
+2025/01/27 19:27:46 NOTICE: Linux/Latex/cv_14/cv-sections: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:46 NOTICE: Linux/Latex/cv_14/cover_letter.tex: Skipped copy as --dry-run is set (size 5.723Ki)
+2025/01/27 19:27:46 NOTICE: Linux/Latex/cv_14/cv_10.zip: Skipped copy as --dry-run is set (size 24.196Ki)
+2025/01/27 19:27:46 NOTICE: Linux/Latex/cv_14/fonts: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:46 NOTICE: Linux/Latex/cv_14/cv_14.zip: Skipped copy as --dry-run is set (size 1.533Mi)
+2025/01/27 19:27:46 NOTICE: Linux/Latex/cv_14/cv_16.zip: Skipped copy as --dry-run is set (size 28.073Ki)
+2025/01/27 19:27:46 NOTICE: Linux/Latex/cv_14/fontawesome.sty: Skipped copy as --dry-run is set (size 82.077Ki)
+2025/01/27 19:27:46 NOTICE: Linux/Latex/cv_14/invoice-class.zip: Skipped copy as --dry-run is set (size 147.873Ki)
+2025/01/27 19:27:46 NOTICE: Linux/Latex/cv_14/invoice.zip: Skipped copy as --dry-run is set (size 108.264Ki)
+2025/01/27 19:27:46 NOTICE: Linux/Latex/cv_14/resume_cv.tex: Skipped copy as --dry-run is set (size 3.575Ki)
+2025/01/27 19:27:46 NOTICE: Linux/Bootstrap/img/bs4.jpeg: Skipped copy as --dry-run is set (size 3.174Ki)
+2025/01/27 19:27:46 NOTICE: Linux/Bootstrap/img/bs4.png: Skipped copy as --dry-run is set (size 250.006Ki)
+2025/01/27 19:27:46 NOTICE: Linux/Bootstrap/img/chicago.jpg: Skipped copy as --dry-run is set (size 27.309Ki)
+2025/01/27 19:27:46 NOTICE: Linux/Bootstrap/img/la.jpg: Skipped copy as --dry-run is set (size 14.381Ki)
+2025/01/27 19:27:46 NOTICE: Linux/Bootstrap/img/ny.jpg: Skipped copy as --dry-run is set (size 27.069Ki)
+2025/01/27 19:27:46 NOTICE: Linux/Latex/invoice-class/README.md: Skipped copy as --dry-run is set (size 253)
+2025/01/27 19:27:46 NOTICE: Linux/Latex/invoice/README: Skipped copy as --dry-run is set (size 631)
+2025/01/27 19:27:46 NOTICE: Linux/Latex/invoice-class/doc: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:46 NOTICE: Linux/Latex/invoice/invoice.epub: Skipped copy as --dry-run is set (size 163.896Ki)
+2025/01/27 19:27:46 NOTICE: Linux/Latex/invoice-class/invoice-class.cls: Skipped copy as --dry-run is set (size 6.083Ki)
+2025/01/27 19:27:46 NOTICE: Linux/Latex/cv_16/LICENSE: Skipped copy as --dry-run is set (size 1.059Ki)
+2025/01/27 19:27:46 NOTICE: Linux/Latex/cv_16/alice.jpeg: Skipped copy as --dry-run is set (size 9.673Ki)
+2025/01/27 19:27:46 NOTICE: Linux/Latex/cv_16/template.aux: Skipped copy as --dry-run is set (size 706)
+2025/01/27 19:27:46 NOTICE: Linux/Latex/cv_16/template.epub: Skipped copy as --dry-run is set (size 49.855Ki)
+2025/01/27 19:27:46 NOTICE: Linux/Latex/invoice/invoice.pdf: Skipped copy as --dry-run is set (size 94.431Ki)
+2025/01/27 19:27:46 NOTICE: Linux/Latex/invoice/invoice.sty: Skipped copy as --dry-run is set (size 29.691Ki)
+2025/01/27 19:27:46 NOTICE: Linux/Latex/invoice/invoice.tex: Skipped copy as --dry-run is set (size 26.167Ki)
+2025/01/27 19:27:46 NOTICE: Linux/Latex/invoice/invoicelabels.sty: Skipped copy as --dry-run is set (size 16.202Ki)
+2025/01/27 19:27:46 NOTICE: Linux/Latex/cv_16/template.fdb_latexmk: Skipped copy as --dry-run is set (size 17.228Ki)
+2025/01/27 19:27:46 NOTICE: Linux/Latex/cv_16/template.fls: Skipped copy as --dry-run is set (size 17.207Ki)
+2025/01/27 19:27:46 NOTICE: Linux/Latex/cv_16/template.log: Skipped copy as --dry-run is set (size 30.639Ki)
+2025/01/27 19:27:46 NOTICE: Linux/Latex/cv_16/template.synctex.gz: Skipped copy as --dry-run is set (size 14.102Ki)
+2025/01/27 19:27:46 NOTICE: Linux/Latex/cv_16/template.pdf: Skipped copy as --dry-run is set (size 61.598Ki)
+2025/01/27 19:27:46 NOTICE: Linux/Latex/cv_16/template.out: Skipped copy as --dry-run is set (size 0)
+2025/01/27 19:27:46 NOTICE: Linux/Latex/cv_16/twentysecondcv.cls: Skipped copy as --dry-run is set (size 8.205Ki)
+2025/01/27 19:27:46 NOTICE: Linux/Latex/cv_16/template.tex: Skipped copy as --dry-run is set (size 8.727Ki)
+2025/01/27 19:27:46 NOTICE: Linux/VIM/tutorial_dots/vimwiki_2/nvim: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:47 NOTICE: Linux/VIM/tutorial_dots/tmux/.tmux.conf: Skipped copy as --dry-run is set (size 1.601Ki)
+2025/01/27 19:27:47 NOTICE: Linux/VIM/tutorial_dots/.git/branches: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:47 NOTICE: Linux/VIM/tutorial_dots/.git/HEAD: Skipped copy as --dry-run is set (size 21)
+2025/01/27 19:27:47 NOTICE: Linux/VIM/tutorial_dots/cpp2/CMakeLists.txt: Skipped copy as --dry-run is set (size 284)
+2025/01/27 19:27:47 NOTICE: Linux/VIM/tutorial_dots/cpp2/.ccls: Skipped copy as --dry-run is set (size 27)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/.github/workflows/main.yml: Skipped copy as --dry-run is set (size 1.342Ki)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/.github/workflows/pull-request.yml: Skipped copy as --dry-run is set (size 597)
+2025/01/27 19:27:47 NOTICE: Linux/VIM/tutorial_dots/.git/config: Skipped copy as --dry-run is set (size 266)
+2025/01/27 19:27:47 NOTICE: Linux/VIM/tutorial_dots/.git/hooks: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:47 NOTICE: Linux/VIM/tutorial_dots/.git/description: Skipped copy as --dry-run is set (size 73)
+2025/01/27 19:27:47 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:47 NOTICE: Linux/VIM/tutorial_dots/.git/info: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:47 NOTICE: Linux/VIM/tutorial_dots/.git/index: Skipped copy as --dry-run is set (size 18.937Ki)
+2025/01/27 19:27:47 NOTICE: Linux/VIM/tutorial_dots/cpp2/README.md: Skipped copy as --dry-run is set (size 96)
+2025/01/27 19:27:47 NOTICE: Linux/VIM/tutorial_dots/.git/logs: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:47 NOTICE: Linux/VIM/tutorial_dots/.git/objects: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:47 NOTICE: Linux/VIM/tutorial_dots/.git/refs: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:47 NOTICE: Linux/VIM/tutorial_dots/cpp2/include: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:47 NOTICE: Linux/VIM/tutorial_dots/.git/packed-refs: Skipped copy as --dry-run is set (size 112)
+2025/01/27 19:27:47 NOTICE: Linux/VIM/tutorial_dots/cpp2/src: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:47 NOTICE: Linux/VIM/tutorial_dots/cpp2/tst: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/www/css/brands.css: Skipped copy as --dry-run is set (size 6.982Ki)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/www/css/normalize.css: Skipped copy as --dry-run is set (size 7.614Ki)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/www/css/skeleton-dark.css: Skipped copy as --dry-run is set (size 3.969Ki)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/www/css/skeleton-light.css: Skipped copy as --dry-run is set (size 3.931Ki)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/.git/info/exclude: Skipped copy as --dry-run is set (size 240)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/.git/hooks/applypatch-msg.sample: Skipped copy as --dry-run is set (size 478)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/.git/hooks/fsmonitor-watchman.sample: Skipped copy as --dry-run is set (size 4.546Ki)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/.git/hooks/commit-msg.sample: Skipped copy as --dry-run is set (size 896)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/.git/hooks/post-update.sample: Skipped copy as --dry-run is set (size 189)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/.git/hooks/pre-applypatch.sample: Skipped copy as --dry-run is set (size 424)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/.git/hooks/pre-commit.sample: Skipped copy as --dry-run is set (size 1.604Ki)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/.git/hooks/pre-merge-commit.sample: Skipped copy as --dry-run is set (size 416)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/.git/hooks/pre-push.sample: Skipped copy as --dry-run is set (size 1.342Ki)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/.git/hooks/pre-rebase.sample: Skipped copy as --dry-run is set (size 4.783Ki)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/.git/hooks/pre-receive.sample: Skipped copy as --dry-run is set (size 544)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/.git/hooks/push-to-checkout.sample: Skipped copy as --dry-run is set (size 2.718Ki)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/.git/hooks/prepare-commit-msg.sample: Skipped copy as --dry-run is set (size 1.457Ki)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/.git/hooks/update.sample: Skipped copy as --dry-run is set (size 3.564Ki)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/.git/logs/refs: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/.git/logs/HEAD: Skipped copy as --dry-run is set (size 187)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/www/images/nuxlogo.png: Skipped copy as --dry-run is set (size 18.194Ki)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/www/icons/discord.svg: Skipped copy as --dry-run is set (size 1.932Ki)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/www/icons/email_alt.svg: Skipped copy as --dry-run is set (size 677)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/www/icons/email.svg: Skipped copy as --dry-run is set (size 314)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/www/icons/facebook.svg: Skipped copy as --dry-run is set (size 482)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/www/icons/figma.svg: Skipped copy as --dry-run is set (size 1.090Ki)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/www/icons/github.svg: Skipped copy as --dry-run is set (size 1.464Ki)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/www/icons/goodreads.svg: Skipped copy as --dry-run is set (size 2.503Ki)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/www/icons/kit.svg: Skipped copy as --dry-run is set (size 4.305Ki)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/www/icons/linkedin.svg: Skipped copy as --dry-run is set (size 642)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/www/icons/mastodon.svg: Skipped copy as --dry-run is set (size 1.365Ki)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/www/icons/medium.svg: Skipped copy as --dry-run is set (size 736)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/www/icons/instagram.svg: Skipped copy as --dry-run is set (size 2.275Ki)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/www/icons/messenger.svg: Skipped copy as --dry-run is set (size 907)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/www/icons/microblog.svg: Skipped copy as --dry-run is set (size 722)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/www/icons/pinterest.svg: Skipped copy as --dry-run is set (size 1.544Ki)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/www/icons/producthunt.svg: Skipped copy as --dry-run is set (size 729)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/www/icons/snapchat.svg: Skipped copy as --dry-run is set (size 5.918Ki)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/www/icons/soundcloud.svg: Skipped copy as --dry-run is set (size 2.257Ki)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/www/icons/spotify.svg: Skipped copy as --dry-run is set (size 1005)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/www/icons/steam.svg: Skipped copy as --dry-run is set (size 944)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/www/icons/telegram.svg: Skipped copy as --dry-run is set (size 458)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/www/icons/tiktok.svg: Skipped copy as --dry-run is set (size 2.559Ki)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/www/icons/tumblr.svg: Skipped copy as --dry-run is set (size 579)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/www/icons/twitch.svg: Skipped copy as --dry-run is set (size 454)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/www/icons/reddit.svg: Skipped copy as --dry-run is set (size 2.029Ki)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/www/icons/twitter.svg: Skipped copy as --dry-run is set (size 1.085Ki)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/www/icons/vimeo.svg: Skipped copy as --dry-run is set (size 1.057Ki)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/www/icons/whatsapp.svg: Skipped copy as --dry-run is set (size 1.053Ki)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/www/icons/skoob.svg: Skipped copy as --dry-run is set (size 2.283Ki)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/www/icons/wordpress.svg: Skipped copy as --dry-run is set (size 1.541Ki)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/www/icons/youtube.svg: Skipped copy as --dry-run is set (size 816)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/.git/objects/info: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/.git/objects/pack: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:47 NOTICE: Linux/Latex/CV/cv_10/Readme.md: Skipped copy as --dry-run is set (size 1.398Ki)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/CV/cv_10/cv_10.aux: Skipped copy as --dry-run is set (size 8)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/CV/cv_10/cv_10.fdb_latexmk: Skipped copy as --dry-run is set (size 249)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/CV/cv_10/cv_10.fls: Skipped copy as --dry-run is set (size 1.421Ki)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/CV/cv_10/cv_10.log: Skipped copy as --dry-run is set (size 3.865Ki)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/CV/cv_10/cv_10.tex: Skipped copy as --dry-run is set (size 7.248Ki)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/CV/cv_10/friggeri-cv.cls: Skipped copy as --dry-run is set (size 6.945Ki)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/CV/cv_10/bibliography.bib: Skipped copy as --dry-run is set (size 8.203Ki)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/cv_14/cv-sections/committees.tex: Skipped copy as --dry-run is set (size 1.188Ki)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/cv_14/cv-sections/education.tex: Skipped copy as --dry-run is set (size 901)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/cv_14/cv-sections/extracurricular.tex: Skipped copy as --dry-run is set (size 3.368Ki)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/cv_14/cv-sections/experience.tex: Skipped copy as --dry-run is set (size 3.872Ki)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/cv_14/cv-sections/presentation.tex: Skipped copy as --dry-run is set (size 1.187Ki)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/cv_14/cv-sections/skills.tex: Skipped copy as --dry-run is set (size 919)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/cv_14/cv-sections/honors.tex: Skipped copy as --dry-run is set (size 2.771Ki)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/cv_14/cv-sections/writing.tex: Skipped copy as --dry-run is set (size 1.127Ki)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/CV/cv_14/cv-sections: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:47 NOTICE: Linux/Latex/CV/cv_14/fonts: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:47 NOTICE: Linux/Latex/CV/cv_14/awesome-cv.cls: Skipped copy as --dry-run is set (size 24.839Ki)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/CV/cv_14/cover_letter.tex: Skipped copy as --dry-run is set (size 5.723Ki)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/CV/cv_14/cv_10.zip: Skipped copy as --dry-run is set (size 24.196Ki)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/CV/cv_14/cv_14.zip: Skipped copy as --dry-run is set (size 1.533Mi)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/CV/cv_14/cv_16.zip: Skipped copy as --dry-run is set (size 28.073Ki)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/CV/cv_14/fontawesome.sty: Skipped copy as --dry-run is set (size 82.077Ki)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/CV/cv_14/invoice-class.zip: Skipped copy as --dry-run is set (size 147.873Ki)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/CV/cv_14/invoice.zip: Skipped copy as --dry-run is set (size 108.264Ki)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/CV/cv_14/resume_cv.tex: Skipped copy as --dry-run is set (size 3.575Ki)
+2025/01/27 19:27:47 NOTICE: Linux/VIM/tutorial_dots/vimwiki_2/nvim/after: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:47 NOTICE: Linux/Latex/invoice-class/doc/duck-invoice.csv: Skipped copy as --dry-run is set (size 973)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/invoice-class/doc/duck-invoice.cfg: Skipped copy as --dry-run is set (size 175)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/invoice-class/doc/duck-invoice.pdf: Skipped copy as --dry-run is set (size 36.663Ki)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/invoice-class/doc/duck-invoice.epub: Skipped copy as --dry-run is set (size 40.491Ki)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/invoice-class/doc/duck-invoice.tex: Skipped copy as --dry-run is set (size 340)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/invoice-class/doc/ducks.csv: Skipped copy as --dry-run is set (size 201)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/invoice-class/doc/ducks.epub: Skipped copy as --dry-run is set (size 34.843Ki)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/invoice-class/doc/ducks.pdf: Skipped copy as --dry-run is set (size 33.640Ki)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/CV/cv_16/LICENSE: Skipped copy as --dry-run is set (size 1.059Ki)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/CV/cv_16/alice.jpeg: Skipped copy as --dry-run is set (size 9.673Ki)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/CV/cv_16/template.epub: Skipped copy as --dry-run is set (size 35.806Ki)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/CV/cv_16/template.aux: Skipped copy as --dry-run is set (size 706)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/CV/cv_16/template.fdb_latexmk: Skipped copy as --dry-run is set (size 17.228Ki)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/CV/cv_16/template.fls: Skipped copy as --dry-run is set (size 17.207Ki)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/CV/cv_16/template.pdf: Skipped copy as --dry-run is set (size 61.598Ki)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/CV/cv_16/template.log: Skipped copy as --dry-run is set (size 30.639Ki)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/CV/cv_16/template.out: Skipped copy as --dry-run is set (size 0)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/CV/cv_16/template.synctex.gz: Skipped copy as --dry-run is set (size 14.102Ki)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/.git/refs/heads: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/.git/refs/remotes: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/.git/refs/tags: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:47 NOTICE: Linux/Latex/cv_14/fonts/FontAwesome.otf: Skipped copy as --dry-run is set (size 103.770Ki)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/cv_14/fonts/Roboto-Bold.ttf: Skipped copy as --dry-run is set (size 159.617Ki)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/cv_14/fonts/Roboto-BoldItalic.ttf: Skipped copy as --dry-run is set (size 161.977Ki)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/cv_14/fonts/Roboto-Italic.ttf: Skipped copy as --dry-run is set (size 156.969Ki)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/cv_14/fonts/Roboto-Light.ttf: Skipped copy as --dry-run is set (size 158.824Ki)
+2025/01/27 19:27:47 NOTICE: Linux/VIM/tutorial_dots/vimwiki_2/nvim/init.vim: Skipped copy as --dry-run is set (size 796)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/invoice-class/doc/ducks.tex: Skipped copy as --dry-run is set (size 312)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/invoice-class/doc/invoice-class.epub: Skipped copy as --dry-run is set (size 37.633Ki)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/invoice-class/doc/invoice-class.pdf: Skipped copy as --dry-run is set (size 75.074Ki)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/CV/cv_16/template.tex: Skipped copy as --dry-run is set (size 8.727Ki)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/CV/cv_16/twentysecondcv.cls: Skipped copy as --dry-run is set (size 8.205Ki)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/cv_14/fonts/Roboto-LightItalic.ttf: Skipped copy as --dry-run is set (size 159.422Ki)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/cv_14/fonts/Roboto-Medium.ttf: Skipped copy as --dry-run is set (size 156.930Ki)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/cv_14/fonts/Roboto-MediumItalic.ttf: Skipped copy as --dry-run is set (size 160.098Ki)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/cv_14/fonts/Roboto-Regular.ttf: Skipped copy as --dry-run is set (size 154.887Ki)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/cv_14/fonts/Roboto-Thin.ttf: Skipped copy as --dry-run is set (size 119.641Ki)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/cv_14/fonts/Roboto-ThinItalic.ttf: Skipped copy as --dry-run is set (size 122.934Ki)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/cv_14/fonts/SourceSansPro-BoldIt.otf: Skipped copy as --dry-run is set (size 78.508Ki)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/invoice-class/doc/invoice-class.tex: Skipped copy as --dry-run is set (size 4.747Ki)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/cv_14/fonts/SourceSansPro-It.otf: Skipped copy as --dry-run is set (size 77.855Ki)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/cv_14/fonts/SourceSansPro-Light.otf: Skipped copy as --dry-run is set (size 220.734Ki)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/cv_14/fonts/SourceSansPro-LightIt.otf: Skipped copy as --dry-run is set (size 75.992Ki)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/cv_14/fonts/SourceSansPro-Regular.otf: Skipped copy as --dry-run is set (size 224.207Ki)
+2025/01/27 19:27:47 NOTICE: Linux/Latex/cv_14/fonts/SourceSansPro-SemiboldIt.otf: Skipped copy as --dry-run is set (size 78.434Ki)
+2025/01/27 19:27:47 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:47 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/CMakeCache.txt: Skipped copy as --dry-run is set (size 19.316Ki)
+2025/01/27 19:27:47 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/Makefile: Skipped copy as --dry-run is set (size 9.269Ki)
+2025/01/27 19:27:47 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:47 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/compile_commands.json: Skipped copy as --dry-run is set (size 2.983Ki)
+2025/01/27 19:27:47 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/hello: Skipped copy as --dry-run is set (size 33.109Ki)
+2025/01/27 19:27:47 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/tst: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:47 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/cmake_install.cmake: Skipped copy as --dry-run is set (size 1.767Ki)
+2025/01/27 19:27:47 NOTICE: Linux/VIM/tutorial_dots/.git/hooks/commit-msg.sample: Skipped copy as --dry-run is set (size 896)
+2025/01/27 19:27:47 NOTICE: Linux/VIM/tutorial_dots/.git/hooks/fsmonitor-watchman.sample: Skipped copy as --dry-run is set (size 4.546Ki)
+2025/01/27 19:27:47 NOTICE: Linux/VIM/tutorial_dots/.git/hooks/post-update.sample: Skipped copy as --dry-run is set (size 189)
+2025/01/27 19:27:47 NOTICE: Linux/VIM/tutorial_dots/.git/hooks/applypatch-msg.sample: Skipped copy as --dry-run is set (size 478)
+2025/01/27 19:27:47 NOTICE: Linux/VIM/tutorial_dots/.git/hooks/pre-applypatch.sample: Skipped copy as --dry-run is set (size 424)
+2025/01/27 19:27:47 NOTICE: Linux/VIM/tutorial_dots/.git/hooks/pre-commit.sample: Skipped copy as --dry-run is set (size 1.604Ki)
+2025/01/27 19:27:47 NOTICE: Linux/VIM/tutorial_dots/.git/hooks/pre-merge-commit.sample: Skipped copy as --dry-run is set (size 416)
+2025/01/27 19:27:47 NOTICE: Linux/VIM/tutorial_dots/.git/hooks/pre-push.sample: Skipped copy as --dry-run is set (size 1.342Ki)
+2025/01/27 19:27:47 NOTICE: Linux/VIM/tutorial_dots/.git/hooks/pre-rebase.sample: Skipped copy as --dry-run is set (size 4.783Ki)
+2025/01/27 19:27:47 NOTICE: Linux/VIM/tutorial_dots/.git/hooks/pre-receive.sample: Skipped copy as --dry-run is set (size 544)
+2025/01/27 19:27:47 NOTICE: Linux/VIM/tutorial_dots/.git/hooks/prepare-commit-msg.sample: Skipped copy as --dry-run is set (size 1.457Ki)
+2025/01/27 19:27:47 NOTICE: Linux/VIM/tutorial_dots/.git/hooks/push-to-checkout.sample: Skipped copy as --dry-run is set (size 2.718Ki)
+2025/01/27 19:27:47 NOTICE: Linux/VIM/tutorial_dots/.git/hooks/update.sample: Skipped copy as --dry-run is set (size 3.564Ki)
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/.git/logs/refs/heads: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:47 NOTICE: Linux/littlelink-server/.git/logs/refs/remotes: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:47 NOTICE: Linux/VIM/tutorial_dots/cpp2/include/Blah.h: Skipped copy as --dry-run is set (size 190)
+2025/01/27 19:27:47 NOTICE: Linux/VIM/tutorial_dots/.git/info/exclude: Skipped copy as --dry-run is set (size 240)
+2025/01/27 19:27:47 NOTICE: Linux/VIM/tutorial_dots/cpp2/tst/BlahTest.cpp: Skipped copy as --dry-run is set (size 189)
+2025/01/27 19:27:47 NOTICE: Linux/VIM/tutorial_dots/cpp2/tst/CMakeLists.txt: Skipped copy as --dry-run is set (size 352)
+2025/01/27 19:27:47 NOTICE: Linux/VIM/tutorial_dots/cpp2/tst/main.cpp: Skipped copy as --dry-run is set (size 134)
+2025/01/27 19:27:47 NOTICE: Linux/VIM/tutorial_dots/.git/logs/refs: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:47 NOTICE: Linux/VIM/tutorial_dots/.git/logs/HEAD: Skipped copy as --dry-run is set (size 198)
+2025/01/27 19:27:48 NOTICE: Linux/VIM/tutorial_dots/cpp2/src/main.cpp: Skipped copy as --dry-run is set (size 131)
+2025/01/27 19:27:48 NOTICE: Linux/VIM/tutorial_dots/.git/objects/info: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:48 NOTICE: Linux/VIM/tutorial_dots/.git/objects/pack: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:48 NOTICE: Linux/Latex/CV/cv_14/cv-sections/committees.tex: Skipped copy as --dry-run is set (size 1.188Ki)
+2025/01/27 19:27:48 NOTICE: Linux/Latex/CV/cv_14/cv-sections/education.tex: Skipped copy as --dry-run is set (size 901)
+2025/01/27 19:27:48 NOTICE: Linux/Latex/CV/cv_14/cv-sections/experience.tex: Skipped copy as --dry-run is set (size 3.872Ki)
+2025/01/27 19:27:48 NOTICE: Linux/Latex/CV/cv_14/cv-sections/honors.tex: Skipped copy as --dry-run is set (size 2.771Ki)
+2025/01/27 19:27:48 NOTICE: Linux/Latex/CV/cv_14/cv-sections/extracurricular.tex: Skipped copy as --dry-run is set (size 3.368Ki)
+2025/01/27 19:27:48 NOTICE: Linux/Latex/CV/cv_14/cv-sections/skills.tex: Skipped copy as --dry-run is set (size 919)
+2025/01/27 19:27:48 NOTICE: Linux/Latex/CV/cv_14/cv-sections/presentation.tex: Skipped copy as --dry-run is set (size 1.187Ki)
+2025/01/27 19:27:48 NOTICE: Linux/Latex/CV/cv_14/cv-sections/writing.tex: Skipped copy as --dry-run is set (size 1.127Ki)
+2025/01/27 19:27:48 NOTICE: Linux/littlelink-server/.git/refs/heads/master: Skipped copy as --dry-run is set (size 41)
+2025/01/27 19:27:48 NOTICE: Linux/VIM/tutorial_dots/.git/refs/heads: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:48 NOTICE: Linux/VIM/tutorial_dots/.git/refs/remotes: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:48 NOTICE: Linux/VIM/tutorial_dots/.git/refs/tags: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:48 NOTICE: Linux/littlelink-server/.git/objects/pack/pack-657f7f935364d03f5ca47518c9becc469fc71ca1.idx: Skipped copy as --dry-run is set (size 0)
+2025/01/27 19:27:48 NOTICE: Linux/littlelink-server/.git/objects/pack/pack-657f7f935364d03f5ca47518c9becc469fc71ca1.pack: Skipped copy as --dry-run is set (size 0)
+2025/01/27 19:27:48 NOTICE: Linux/littlelink-server/.git/refs/remotes/origin: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:48 NOTICE: Linux/VIM/tutorial_dots/vimwiki_2/nvim/after/syntax: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:48 NOTICE: Linux/Latex/CV/cv_14/fonts/FontAwesome.otf: Skipped copy as --dry-run is set (size 103.770Ki)
+2025/01/27 19:27:48 NOTICE: Linux/Latex/CV/cv_14/fonts/Roboto-Bold.ttf: Skipped copy as --dry-run is set (size 159.617Ki)
+2025/01/27 19:27:48 NOTICE: Linux/Latex/CV/cv_14/fonts/Roboto-BoldItalic.ttf: Skipped copy as --dry-run is set (size 161.977Ki)
+2025/01/27 19:27:48 NOTICE: Linux/Latex/CV/cv_14/fonts/Roboto-Italic.ttf: Skipped copy as --dry-run is set (size 156.969Ki)
+2025/01/27 19:27:48 NOTICE: Linux/Latex/CV/cv_14/fonts/Roboto-Light.ttf: Skipped copy as --dry-run is set (size 158.824Ki)
+2025/01/27 19:27:48 NOTICE: Linux/Latex/CV/cv_14/fonts/Roboto-LightItalic.ttf: Skipped copy as --dry-run is set (size 159.422Ki)
+2025/01/27 19:27:48 NOTICE: Linux/Latex/CV/cv_14/fonts/Roboto-Medium.ttf: Skipped copy as --dry-run is set (size 156.930Ki)
+2025/01/27 19:27:48 NOTICE: Linux/Latex/CV/cv_14/fonts/Roboto-MediumItalic.ttf: Skipped copy as --dry-run is set (size 160.098Ki)
+2025/01/27 19:27:48 NOTICE: Linux/Latex/CV/cv_14/fonts/Roboto-Regular.ttf: Skipped copy as --dry-run is set (size 154.887Ki)
+2025/01/27 19:27:48 NOTICE: Linux/Latex/CV/cv_14/fonts/Roboto-Thin.ttf: Skipped copy as --dry-run is set (size 119.641Ki)
+2025/01/27 19:27:48 NOTICE: Linux/Latex/CV/cv_14/fonts/Roboto-ThinItalic.ttf: Skipped copy as --dry-run is set (size 122.934Ki)
+2025/01/27 19:27:48 NOTICE: Linux/Latex/CV/cv_14/fonts/SourceSansPro-BoldIt.otf: Skipped copy as --dry-run is set (size 78.508Ki)
+2025/01/27 19:27:48 NOTICE: Linux/Latex/CV/cv_14/fonts/SourceSansPro-It.otf: Skipped copy as --dry-run is set (size 77.855Ki)
+2025/01/27 19:27:48 NOTICE: Linux/Latex/CV/cv_14/fonts/SourceSansPro-Light.otf: Skipped copy as --dry-run is set (size 220.734Ki)
+2025/01/27 19:27:48 NOTICE: Linux/Latex/CV/cv_14/fonts/SourceSansPro-LightIt.otf: Skipped copy as --dry-run is set (size 75.992Ki)
+2025/01/27 19:27:48 NOTICE: Linux/Latex/CV/cv_14/fonts/SourceSansPro-Regular.otf: Skipped copy as --dry-run is set (size 224.207Ki)
+2025/01/27 19:27:48 NOTICE: Linux/Latex/CV/cv_14/fonts/SourceSansPro-Semibold.otf: Skipped copy as --dry-run is set (size 227.227Ki)
+2025/01/27 19:27:48 NOTICE: Linux/Latex/CV/cv_14/fonts/SourceSansPro-SemiboldIt.otf: Skipped copy as --dry-run is set (size 78.434Ki)
+2025/01/27 19:27:48 NOTICE: Linux/littlelink-server/.git/logs/refs/heads/master: Skipped copy as --dry-run is set (size 187)
+2025/01/27 19:27:48 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:48 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/libgmock_maind.a: Skipped copy as --dry-run is set (size 58.480Ki)
+2025/01/27 19:27:48 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/libgtest_maind.a: Skipped copy as --dry-run is set (size 57.434Ki)
+2025/01/27 19:27:48 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/libgtestd.a: Skipped copy as --dry-run is set (size 3.605Mi)
+2025/01/27 19:27:48 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/3.19.2: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:48 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/CMakeDirectoryInformation.cmake: Skipped copy as --dry-run is set (size 598)
+2025/01/27 19:27:48 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/CMakeError.log: Skipped copy as --dry-run is set (size 2.663Ki)
+2025/01/27 19:27:48 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/CMakeOutput.log: Skipped copy as --dry-run is set (size 38.007Ki)
+2025/01/27 19:27:48 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/Makefile.cmake: Skipped copy as --dry-run is set (size 4.009Ki)
+2025/01/27 19:27:48 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/TargetDirectories.txt: Skipped copy as --dry-run is set (size 2.040Ki)
+2025/01/27 19:27:48 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/cmake.check_cache: Skipped copy as --dry-run is set (size 85)
+2025/01/27 19:27:48 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/hello.dir: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:48 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/Makefile2: Skipped copy as --dry-run is set (size 13.681Ki)
+2025/01/27 19:27:48 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/progress.marks: Skipped copy as --dry-run is set (size 3)
+2025/01/27 19:27:48 NOTICE: Linux/VIM/tutorial_dots/.git/logs/refs/heads: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:48 NOTICE: Linux/VIM/tutorial_dots/.git/logs/refs/remotes: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:48 NOTICE: Linux/littlelink-server/.git/logs/refs/remotes/origin: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:48 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:48 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/tst/Makefile: Skipped copy as --dry-run is set (size 8.049Ki)
+2025/01/27 19:27:48 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/tst/cmake_install.cmake: Skipped copy as --dry-run is set (size 1.202Ki)
+2025/01/27 19:27:48 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/tst/hello_tst: Skipped copy as --dry-run is set (size 2.602Mi)
+2025/01/27 19:27:48 NOTICE: Linux/VIM/tutorial_dots/.git/refs/heads/main: Skipped copy as --dry-run is set (size 41)
+2025/01/27 19:27:48 NOTICE: Linux/VIM/tutorial_dots/.git/objects/pack/pack-c992d5a0c806a25e561d4d2d73c59d8d8f695dfb.idx: Skipped copy as --dry-run is set (size 6.434Ki)
+2025/01/27 19:27:48 NOTICE: Linux/VIM/tutorial_dots/.git/objects/pack/pack-c992d5a0c806a25e561d4d2d73c59d8d8f695dfb.pack: Skipped copy as --dry-run is set (size 2.584Mi)
+2025/01/27 19:27:49 NOTICE: Linux/VIM/tutorial_dots/.git/refs/remotes/origin: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:50 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/3.19.2/CompilerIdC: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:50 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/3.19.2/CMakeCCompiler.cmake: Skipped copy as --dry-run is set (size 2.326Ki)
+2025/01/27 19:27:50 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/3.19.2/CMakeCXXCompiler.cmake: Skipped copy as --dry-run is set (size 5.297Ki)
+2025/01/27 19:27:50 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_C.bin: Skipped copy as --dry-run is set (size 16.070Ki)
+2025/01/27 19:27:50 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/3.19.2/CompilerIdCXX: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:50 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_CXX.bin: Skipped copy as --dry-run is set (size 16.078Ki)
+2025/01/27 19:27:50 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/3.19.2/CMakeSystem.cmake: Skipped copy as --dry-run is set (size 398)
+2025/01/27 19:27:50 NOTICE: Linux/VIM/tutorial_dots/vimwiki_2/nvim/after/syntax/vimwiki.vim: Skipped copy as --dry-run is set (size 190)
+2025/01/27 19:27:50 NOTICE: Linux/littlelink-server/.git/logs/refs/remotes/origin/HEAD: Skipped copy as --dry-run is set (size 187)
+2025/01/27 19:27:50 NOTICE: Linux/VIM/tutorial_dots/.git/logs/refs/remotes/origin: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:50 NOTICE: Linux/littlelink-server/.git/refs/remotes/origin/HEAD: Skipped copy as --dry-run is set (size 32)
+2025/01/27 19:27:50 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/CMakeFiles: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:50 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:50 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:50 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/CTestTestfile.cmake: Skipped copy as --dry-run is set (size 287)
+2025/01/27 19:27:50 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/Makefile: Skipped copy as --dry-run is set (size 6.020Ki)
+2025/01/27 19:27:50 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/cmake_install.cmake: Skipped copy as --dry-run is set (size 1.380Ki)
+2025/01/27 19:27:50 NOTICE: Linux/VIM/tutorial_dots/.git/logs/refs/heads/main: Skipped copy as --dry-run is set (size 198)
+2025/01/27 19:27:50 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/hello.dir/CXX.includecache: Skipped copy as --dry-run is set (size 244)
+2025/01/27 19:27:50 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/hello.dir/build.make: Skipped copy as --dry-run is set (size 3.669Ki)
+2025/01/27 19:27:50 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/hello.dir/DependInfo.cmake: Skipped copy as --dry-run is set (size 555)
+2025/01/27 19:27:50 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/hello.dir/cmake_clean.cmake: Skipped copy as --dry-run is set (size 238)
+2025/01/27 19:27:50 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/hello.dir/depend.internal: Skipped copy as --dry-run is set (size 178)
+2025/01/27 19:27:50 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/hello.dir/depend.make: Skipped copy as --dry-run is set (size 209)
+2025/01/27 19:27:50 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/hello.dir/src: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:50 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/hello.dir/flags.make: Skipped copy as --dry-run is set (size 212)
+2025/01/27 19:27:50 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/hello.dir/link.txt: Skipped copy as --dry-run is set (size 62)
+2025/01/27 19:27:50 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/hello.dir/progress.make: Skipped copy as --dry-run is set (size 44)
+2025/01/27 19:27:50 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp: Skipped copy as --dry-run is set (size 20.062Ki)
+2025/01/27 19:27:50 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/3.19.2/CompilerIdCXX/a.out: Skipped copy as --dry-run is set (size 16.227Ki)
+2025/01/27 19:27:50 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c: Skipped copy as --dry-run is set (size 20.238Ki)
+2025/01/27 19:27:50 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/3.19.2/CompilerIdC/a.out: Skipped copy as --dry-run is set (size 16.219Ki)
+2025/01/27 19:27:50 NOTICE: Linux/VIM/tutorial_dots/.git/logs/refs/remotes/origin/HEAD: Skipped copy as --dry-run is set (size 198)
+2025/01/27 19:27:50 NOTICE: Linux/VIM/tutorial_dots/.git/refs/remotes/origin/HEAD: Skipped copy as --dry-run is set (size 30)
+2025/01/27 19:27:50 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_lib.dir: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:50 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/CMakeDirectoryInformation.cmake: Skipped copy as --dry-run is set (size 598)
+2025/01/27 19:27:50 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_run.dir: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:50 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_tst.dir: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:50 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/progress.marks: Skipped copy as --dry-run is set (size 2)
+2025/01/27 19:27:50 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/CMakeFiles/CMakeDirectoryInformation.cmake: Skipped copy as --dry-run is set (size 598)
+2025/01/27 19:27:50 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/CMakeFiles/progress.marks: Skipped copy as --dry-run is set (size 2)
+2025/01/27 19:27:50 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:50 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/Makefile: Skipped copy as --dry-run is set (size 9.419Ki)
+2025/01/27 19:27:50 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CTestTestfile.cmake: Skipped copy as --dry-run is set (size 312)
+2025/01/27 19:27:50 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/cmake_install.cmake: Skipped copy as --dry-run is set (size 2.528Ki)
+2025/01/27 19:27:50 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:50 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/generated: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:50 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CTestTestfile.cmake: Skipped copy as --dry-run is set (size 287)
+2025/01/27 19:27:50 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/Makefile: Skipped copy as --dry-run is set (size 9.419Ki)
+2025/01/27 19:27:50 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/cmake_install.cmake: Skipped copy as --dry-run is set (size 3.963Ki)
+2025/01/27 19:27:51 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/hello.dir/src/main.cpp.o: Skipped copy as --dry-run is set (size 21.258Ki)
+2025/01/27 19:27:51 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_tst.dir/CXX.includecache: Skipped copy as --dry-run is set (size 7.341Ki)
+2025/01/27 19:27:51 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_tst.dir/DependInfo.cmake: Skipped copy as --dry-run is set (size 814)
+2025/01/27 19:27:51 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock.dir: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:51 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/CMakeDirectoryInformation.cmake: Skipped copy as --dry-run is set (size 598)
+2025/01/27 19:27:51 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/generated/GTestConfig.cmake: Skipped copy as --dry-run is set (size 1.048Ki)
+2025/01/27 19:27:51 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock_main.dir: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:51 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/progress.marks: Skipped copy as --dry-run is set (size 2)
+2025/01/27 19:27:51 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/generated/GTestConfigVersion.cmake: Skipped copy as --dry-run is set (size 1.932Ki)
+2025/01/27 19:27:51 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/generated/gmock.pc: Skipped copy as --dry-run is set (size 280)
+2025/01/27 19:27:51 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/generated/gmock_main.pc: Skipped copy as --dry-run is set (size 287)
+2025/01/27 19:27:51 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/generated/gtest.pc: Skipped copy as --dry-run is set (size 255)
+2025/01/27 19:27:51 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/generated/gtest_main.pc: Skipped copy as --dry-run is set (size 287)
+2025/01/27 19:27:51 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_tst.dir/build.make: Skipped copy as --dry-run is set (size 5.298Ki)
+2025/01/27 19:27:51 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_tst.dir/cmake_clean.cmake: Skipped copy as --dry-run is set (size 294)
+2025/01/27 19:27:51 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_tst.dir/depend.internal: Skipped copy as --dry-run is set (size 2.831Ki)
+2025/01/27 19:27:51 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_tst.dir/depend.make: Skipped copy as --dry-run is set (size 4.505Ki)
+2025/01/27 19:27:51 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_tst.dir/flags.make: Skipped copy as --dry-run is set (size 315)
+2025/01/27 19:27:51 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_tst.dir/link.txt: Skipped copy as --dry-run is set (size 136)
+2025/01/27 19:27:51 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_tst.dir/main.cpp.o: Skipped copy as --dry-run is set (size 57.148Ki)
+2025/01/27 19:27:51 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_tst.dir/progress.make: Skipped copy as --dry-run is set (size 67)
+2025/01/27 19:27:51 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_lib.dir/CXX.includecache: Skipped copy as --dry-run is set (size 153)
+2025/01/27 19:27:51 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_lib.dir/build.make: Skipped copy as --dry-run is set (size 4.167Ki)
+2025/01/27 19:27:51 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_lib.dir/DependInfo.cmake: Skipped copy as --dry-run is set (size 552)
+2025/01/27 19:27:51 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_lib.dir/cmake_clean.cmake: Skipped copy as --dry-run is set (size 262)
+2025/01/27 19:27:51 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_lib.dir/cmake_clean_target.cmake: Skipped copy as --dry-run is set (size 41)
+2025/01/27 19:27:51 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_lib.dir/depend.internal: Skipped copy as --dry-run is set (size 171)
+2025/01/27 19:27:51 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_lib.dir/depend.make: Skipped copy as --dry-run is set (size 166)
+2025/01/27 19:27:51 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_lib.dir/flags.make: Skipped copy as --dry-run is set (size 194)
+2025/01/27 19:27:51 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_lib.dir/link.txt: Skipped copy as --dry-run is set (size 101)
+2025/01/27 19:27:51 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_lib.dir/progress.make: Skipped copy as --dry-run is set (size 45)
+2025/01/27 19:27:51 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/Export: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:51 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest.dir: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:51 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/CMakeDirectoryInformation.cmake: Skipped copy as --dry-run is set (size 598)
+2025/01/27 19:27:51 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest_main.dir: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:51 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/progress.marks: Skipped copy as --dry-run is set (size 2)
+2025/01/27 19:27:51 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_run.dir/build.make: Skipped copy as --dry-run is set (size 4.045Ki)
+2025/01/27 19:27:51 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_run.dir/DependInfo.cmake: Skipped copy as --dry-run is set (size 552)
+2025/01/27 19:27:51 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_run.dir/depend.make: Skipped copy as --dry-run is set (size 93)
+2025/01/27 19:27:51 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_run.dir/flags.make: Skipped copy as --dry-run is set (size 194)
+2025/01/27 19:27:51 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_run.dir/cmake_clean.cmake: Skipped copy as --dry-run is set (size 254)
+2025/01/27 19:27:51 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_run.dir/progress.make: Skipped copy as --dry-run is set (size 45)
+2025/01/27 19:27:51 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_run.dir/link.txt: Skipped copy as --dry-run is set (size 70)
+2025/01/27 19:27:52 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/Export/lib: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:52 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock.dir/CXX.includecache: Skipped copy as --dry-run is set (size 14.348Ki)
+2025/01/27 19:27:52 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock.dir/DependInfo.cmake: Skipped copy as --dry-run is set (size 831)
+2025/01/27 19:27:52 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock.dir/build.make: Skipped copy as --dry-run is set (size 4.762Ki)
+2025/01/27 19:27:52 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock.dir/cmake_clean.cmake: Skipped copy as --dry-run is set (size 271)
+2025/01/27 19:27:52 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock.dir/cmake_clean_target.cmake: Skipped copy as --dry-run is set (size 44)
+2025/01/27 19:27:52 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest_main.dir/DependInfo.cmake: Skipped copy as --dry-run is set (size 764)
+2025/01/27 19:27:52 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest_main.dir/build.make: Skipped copy as --dry-run is set (size 4.958Ki)
+2025/01/27 19:27:52 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest_main.dir/CXX.includecache: Skipped copy as --dry-run is set (size 7.346Ki)
+2025/01/27 19:27:52 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest_main.dir/cmake_clean.cmake: Skipped copy as --dry-run is set (size 292)
+2025/01/27 19:27:52 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest_main.dir/cmake_clean_target.cmake: Skipped copy as --dry-run is set (size 49)
+2025/01/27 19:27:52 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest_main.dir/depend.internal: Skipped copy as --dry-run is set (size 1.513Ki)
+2025/01/27 19:27:52 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/CXX.includecache: Skipped copy as --dry-run is set (size 12.495Ki)
+2025/01/27 19:27:52 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest_main.dir/depend.make: Skipped copy as --dry-run is set (size 2.914Ki)
+2025/01/27 19:27:52 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock.dir/depend.internal: Skipped copy as --dry-run is set (size 2.758Ki)
+2025/01/27 19:27:52 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock.dir/depend.make: Skipped copy as --dry-run is set (size 5.331Ki)
+2025/01/27 19:27:52 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock.dir/flags.make: Skipped copy as --dry-run is set (size 514)
+2025/01/27 19:27:52 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock.dir/link.txt: Skipped copy as --dry-run is set (size 107)
+2025/01/27 19:27:52 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock.dir/progress.make: Skipped copy as --dry-run is set (size 43)
+2025/01/27 19:27:52 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/DependInfo.cmake: Skipped copy as --dry-run is set (size 921)
+2025/01/27 19:27:52 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest_main.dir/src: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:52 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest_main.dir/link.txt: Skipped copy as --dry-run is set (size 123)
+2025/01/27 19:27:52 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest_main.dir/progress.make: Skipped copy as --dry-run is set (size 43)
+2025/01/27 19:27:52 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest_main.dir/flags.make: Skipped copy as --dry-run is set (size 432)
+2025/01/27 19:27:52 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock.dir/src: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:52 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/build.make: Skipped copy as --dry-run is set (size 4.958Ki)
+2025/01/27 19:27:52 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/cmake_clean.cmake: Skipped copy as --dry-run is set (size 292)
+2025/01/27 19:27:52 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/cmake_clean_target.cmake: Skipped copy as --dry-run is set (size 49)
+2025/01/27 19:27:52 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/depend.internal: Skipped copy as --dry-run is set (size 2.504Ki)
+2025/01/27 19:27:52 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/flags.make: Skipped copy as --dry-run is set (size 528)
+2025/01/27 19:27:52 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/depend.make: Skipped copy as --dry-run is set (size 4.960Ki)
+2025/01/27 19:27:52 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/src: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:52 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/link.txt: Skipped copy as --dry-run is set (size 123)
+2025/01/27 19:27:52 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/progress.make: Skipped copy as --dry-run is set (size 43)
+2025/01/27 19:27:52 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest.dir/DependInfo.cmake: Skipped copy as --dry-run is set (size 674)
+2025/01/27 19:27:52 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest.dir/CXX.includecache: Skipped copy as --dry-run is set (size 13.104Ki)
+2025/01/27 19:27:52 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest.dir/cmake_clean.cmake: Skipped copy as --dry-run is set (size 271)
+2025/01/27 19:27:52 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest.dir/cmake_clean_target.cmake: Skipped copy as --dry-run is set (size 44)
+2025/01/27 19:27:52 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest.dir/depend.internal: Skipped copy as --dry-run is set (size 2.079Ki)
+2025/01/27 19:27:52 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest.dir/depend.make: Skipped copy as --dry-run is set (size 4.072Ki)
+2025/01/27 19:27:52 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest.dir/flags.make: Skipped copy as --dry-run is set (size 418)
+2025/01/27 19:27:52 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest.dir/link.txt: Skipped copy as --dry-run is set (size 107)
+2025/01/27 19:27:52 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest.dir/src: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:52 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest.dir/progress.make: Skipped copy as --dry-run is set (size 43)
+2025/01/27 19:27:52 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest.dir/build.make: Skipped copy as --dry-run is set (size 4.762Ki)
+2025/01/27 19:27:52 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o: Skipped copy as --dry-run is set (size 57.273Ki)
+2025/01/27 19:27:52 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/Export/lib/cmake: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:52 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o: Skipped copy as --dry-run is set (size 58.320Ki)
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/Export/lib/cmake/GTest: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/Export/lib/cmake/GTest/GTestTargets-debug.cmake: Skipped copy as --dry-run is set (size 2.135Ki)
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/Export/lib/cmake/GTest/GTestTargets.cmake: Skipped copy as --dry-run is set (size 4.580Ki)
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/Export/lib/cmake/GTest: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/Export/lib/cmake: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest.dir/src: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/Export/lib: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/src: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest_main.dir/src: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock.dir/src: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest_main.dir: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock.dir: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest.dir: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock_main.dir: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/Export: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/generated: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_lib.dir: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_run.dir: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_tst.dir: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/3.19.2/CompilerIdC: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/3.19.2/CompilerIdCXX: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/.git/logs/refs/remotes/origin: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/CMakeFiles: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/hello.dir/src: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/vimwiki_2/nvim/after/syntax: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/.git/refs/remotes/origin: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/3.19.2: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/hello.dir: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/.git/logs/refs/heads: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/.git/logs/refs/remotes: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/littlelink-server/.git/logs/refs/remotes/origin: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/vimwiki_2/nvim/after: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/.git/objects/info: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/.git/objects/pack: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/.git/refs/heads: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/lib: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/.git/refs/remotes: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/.git/refs/tags: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/littlelink-server/.git/refs/remotes/origin: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/littlelink-server/.git/logs/refs/heads: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug/tst: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/.git/logs/refs: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/littlelink-server/.git/logs/refs/remotes: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/.git/refs: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/cpp2/include: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/cpp2/src: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/cpp2/tst: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/littlelink-server/.git/logs/refs: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/littlelink-server/.git/objects/info: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/.git/objects: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/littlelink-server/.git/objects/pack: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/Latex/CV/cv_14/cv-sections: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/vimwiki_2/nvim: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/Latex/CV/cv_14/fonts: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/.git/logs: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/littlelink-server/.git/refs/heads: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/littlelink-server/.git/refs/tags: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/littlelink-server/.git/refs/remotes: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/.git/hooks: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/.git/branches: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/.git/info: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/cpp2/Debug: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/littlelink-server/.git/info: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/littlelink-server/.git/logs: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/.git: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/tmux: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/littlelink-server/.git/hooks: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/littlelink-server/.git/objects: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/cpp2: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/littlelink-server/www/images: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/Latex/CV/cv_10: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/Latex/CV/cv_14: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/littlelink-server/www/css: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/Latex/cv_14/cv-sections: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/littlelink-server/www/icons: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/Latex/CV/cv_16: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/Latex/invoice-class/doc: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/Latex/cv_14/fonts: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/littlelink-server/.git/branches: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/littlelink-server/.github/workflows: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots/vimwiki_2: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/littlelink-server/.git/refs: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/Bootstrap/css: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/Bootstrap/img: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/littlelink-server/.git: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/Latex/02_business_card: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/Latex/CV: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/Latex/cv_14: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/capitulos: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM/tutorial_dots: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/littlelink-server/template: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/Latex/invoice: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/mysql/admin_productos: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/littlelink-server/.github: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/littlelink-server/www: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/Latex/invoice-class: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/Latex/cv_16: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Documents/Multas: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/littlelink-server: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/VIM: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Documents/Denuncia_Aliexpress: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/Latex: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/QEMU-KVM: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/Bootstrap: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux/mysql: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Linux: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Finanzas: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Documents: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Drone: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 NOTICE: Libros: Skipped update directory metadata as --dry-run is set
+2025/01/27 19:27:53 INFO  : Resync updating listings
+2025/01/27 19:28:04 INFO  : Bisync successful
+2025/01/27 19:28:04 NOTICE: 
+Transferred:   	  678.511 MiB / 678.511 MiB, 100%, 37.272 MiB/s, ETA 0s
+Transferred:          494 / 494, 100%
+Elapsed time:        24.6s
+
+2025/01/27 19:28:44 NOTICE: bisync is IN BETA. Don't use in production!
+2025/01/27 19:28:44 INFO  : Bisyncing with Comparison Settings: 
+{
+	"Modtime": true,
+	"Size": true,
+	"Checksum": true,
+	"HashType1": 1,
+	"HashType2": 1,
+	"NoSlowHash": false,
+	"SlowHashSyncOnly": false,
+	"SlowHashDetected": true,
+	"DownloadHash": false
+}
+2025/01/27 19:28:44 INFO  : Synching Path1 "VDrive{YoXec}:/" with Path2 "/mnt/gdrive/"
+2025/01/27 19:28:44 INFO  : Copying Path2 files to Path1
+2025/01/27 19:28:44 INFO  : - Path2             Resync is copying files to                  - Path1
+2025/01/27 19:28:50 INFO  : There was nothing to transfer
+2025/01/27 19:28:50 INFO  : - Path1             Resync is copying files to                  - Path2
+2025/01/27 19:28:51 ERROR : Screenshot_20220309_163320.png: Failed to copy: open /mnt/gdrive/Screenshot_20220309_163320.png.64c8670f.partial: permission denied
+2025/01/27 19:28:51 ERROR : Screenshot_20220309_163253.png: Failed to copy: open /mnt/gdrive/Screenshot_20220309_163253.png.662e7049.partial: permission denied
+2025/01/27 19:28:51 ERROR : Libros/As_a_Man_Thinketh_by_James_Allen.3.epub: Failed to copy: mkdir /mnt/gdrive/Libros: permission denied
+2025/01/27 19:28:52 ERROR : Libros/Siddhartha_by_Hermann_Hesse.3.epub: Failed to copy: mkdir /mnt/gdrive/Libros: permission denied
+2025/01/27 19:28:52 ERROR : Libros/The_Meditations_of_the_Emperor_Marcus_Aurelius_Antoninus_by_Marcus_Aurelius.3.epub: Failed to copy: mkdir /mnt/gdrive/Libros: permission denied
+2025/01/27 19:28:53 ERROR : Finanzas/Gestión Cartera VDG.xlsx: Failed to copy: mkdir /mnt/gdrive/Finanzas: permission denied
+2025/01/27 19:28:54 ERROR : Finanzas/PRESUPUESTO PERSONAL 2024.xlsx: Failed to copy: mkdir /mnt/gdrive/Finanzas: permission denied
+2025/01/27 19:28:56 ERROR : Finanzas/PRESUPUESTO PERSONAL VDG 2023.xlsx: Failed to copy: mkdir /mnt/gdrive/Finanzas: permission denied
+2025/01/27 19:28:56 ERROR : Libros/The_Prophet_by_Kahlil_Gibran.3.epub: Failed to copy: mkdir /mnt/gdrive/Libros: permission denied
+2025/01/27 19:28:57 ERROR : Linux/Docker básico - primeros pasos.pdf: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:28:57 ERROR : Linux/02f9d3df-1097-4629-94ad-2f4c887967a3.pdf: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:28:58 ERROR : Linux/Installing-Arch-on-a-ThinkPad-X1-Extreme-Gen-1.md: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:28:58 ERROR : Linux/EjemploIntervalo.tex: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:28:59 ERROR : Linux/common-ports.pdf: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:28:59 ERROR : Linux/docker-cheat-sheet.pdf: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:00 ERROR : Linux/The ssh Plumber's Handbook.pdf: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:01 ERROR : Linux/python_book_01.pdf: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:02 ERROR : Linux/servicios_acceso_remoto_ssh.pdf: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:03 ERROR : Linux/hackear_con_kali.pdf: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:03 ERROR : Linux/ssh-cheat-sheet-common-commands-and-secure-config.pdf: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:03 ERROR : Linux/vibreoffice-0.1.4.oxt: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:03 ERROR : Linux/python_para_todos.epub: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:04 ERROR : Documents/3014153989329722_payment.pdf: Failed to copy: mkdir /mnt/gdrive/Documents: permission denied
+2025/01/27 19:29:04 ERROR : Documents/FPVFreerider_Recharged_Linux - 2021-03-25.zip: Failed to copy: multi-thread copy: failed to open chunk writer: mkdir /mnt/gdrive/Documents: permission denied
+2025/01/27 19:29:04 ERROR : Documents/3014559420569722_payment.pdf: Failed to copy: mkdir /mnt/gdrive/Documents: permission denied
+2025/01/27 19:29:04 ERROR : Documents/2021_12_27_amazon_beurer_po40_oximetro.pdf: Failed to copy: mkdir /mnt/gdrive/Documents: permission denied
+2025/01/27 19:29:05 ERROR : Documents/30440535353315.pdf: Failed to copy: mkdir /mnt/gdrive/Documents: permission denied
+2025/01/27 19:29:06 ERROR : Documents/NESPi_CASE+_Manual.pdf: Failed to copy: mkdir /mnt/gdrive/Documents: permission denied
+2025/01/27 19:29:06 ERROR : Documents/N30+F30_Manual_V4.pdf: Failed to copy: mkdir /mnt/gdrive/Documents: permission denied
+2025/01/27 19:29:06 ERROR : Documents/IMG_20200926_111913.jpg: Failed to copy: mkdir /mnt/gdrive/Documents: permission denied
+2025/01/27 19:29:07 ERROR : Documents/Plantilla Básica para Seguimiento de Clientes.xlsx: Failed to copy: mkdir /mnt/gdrive/Documents: permission denied
+2025/01/27 19:29:07 ERROR : Documents/RESUM UF 1.pdf: Failed to copy: mkdir /mnt/gdrive/Documents: permission denied
+2025/01/27 19:29:09 ERROR : Documents/curriculum vitae sergio duran gonzalez.doc: Failed to copy: mkdir /mnt/gdrive/Documents: permission denied
+2025/01/27 19:29:09 ERROR : Documents/Qüestionari per al desenvolupament de teletreball.pdf: Failed to copy: mkdir /mnt/gdrive/Documents: permission denied
+2025/01/27 19:29:09 ERROR : Documents/Por fin vas a ponerte en forma.epub: Failed to copy: mkdir /mnt/gdrive/Documents: permission denied
+2025/01/27 19:29:10 ERROR : Documents/curriculum vitae sergio duran gonzalez.pdf: Failed to copy: mkdir /mnt/gdrive/Documents: permission denied
+2025/01/27 19:29:10 ERROR : Documents/install-qemu-v1.sh: Failed to copy: mkdir /mnt/gdrive/Documents: permission denied
+2025/01/27 19:29:10 ERROR : Documents/make_vim_as_sexy.md: Failed to copy: mkdir /mnt/gdrive/Documents: permission denied
+2025/01/27 19:29:11 ERROR : Documents/mikrotik_fontvella.docx: Failed to copy: mkdir /mnt/gdrive/Documents: permission denied
+2025/01/27 19:29:12 ERROR : Documents/manual_ultrasonic_toothbrush.pdf: Failed to copy: mkdir /mnt/gdrive/Documents: permission denied
+2025/01/27 19:29:12 ERROR : Documents/pagament_notificacio_1723152.pdf: Failed to copy: mkdir /mnt/gdrive/Documents: permission denied
+2025/01/27 19:29:13 ERROR : Documents/pakages-pacman.list: Failed to copy: mkdir /mnt/gdrive/Documents: permission denied
+2025/01/27 19:29:13 ERROR : Documents/hrrta_svpt.xlsx: Failed to copy: mkdir /mnt/gdrive/Documents: permission denied
+2025/01/27 19:29:13 ERROR : Documents/prescripio_ulleres_barraquer_2020.pdf: Failed to copy: mkdir /mnt/gdrive/Documents: permission denied
+2025/01/27 19:29:14 ERROR : Documents/RPi_PiPico_Digital_v10.pdf: Failed to copy: mkdir /mnt/gdrive/Documents: permission denied
+2025/01/27 19:29:14 ERROR : Linux/littlelink-server/.editorconfig: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:14 ERROR : Linux/littlelink-server/.gitignore: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:14 ERROR : Linux/littlelink-server/.nvmrc: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:15 ERROR : Documents/software_libre_para_una_sociedad_libre_Richard M. Stallman.pdf: Failed to copy: mkdir /mnt/gdrive/Documents: permission denied
+2025/01/27 19:29:15 ERROR : Linux/littlelink-server/README.md: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:16 ERROR : Linux/littlelink-server/Dockerfile: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:16 ERROR : Linux/littlelink-server/app.js: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:16 ERROR : Linux/littlelink-server/docker-compose.yml: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:16 ERROR : Linux/littlelink-server/entrypoint.sh: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:17 ERROR : Linux/littlelink-server/env.js: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:17 ERROR : Linux/littlelink-server/package.json: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:18 ERROR : Linux/VIM/index.html: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:18 ERROR : Linux/littlelink-server/yarn.lock: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:18 ERROR : Linux/VIM/README.md: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:18 ERROR : Linux/VIM/photo_2021-01-05_15-36-17.jpg: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:19 ERROR : Linux/VIM/photo_2021-01-05_17-10-15.jpg: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:20 ERROR : Linux/VIM/vim-es.epub: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:20 ERROR : Linux/VIM/vim-workshop-main.tar.gz: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:21 ERROR : Linux/VIM/vim.zip: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:21 ERROR : Linux/VIM/vim-es.pdf: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:23 ERROR : Linux/mysql/Introduccion_a_MariaDB1.epub: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:24 ERROR : Linux/mysql/Introduccion_a_MariaDB1.pdf: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:24 ERROR : Linux/mysql/Presentació_mysql.ppt: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:24 ERROR : Linux/mysql/escola_1.sql: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:25 ERROR : Linux/Latex/Jemai_Hassen_s_CV.epub: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:25 ERROR : Linux/mysql/mi_empresa.sql: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:26 ERROR : Linux/VIM/que-vim-master.zip: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:26 ERROR : Linux/mysql/mysql.rar: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:27 ERROR : Linux/Latex/Jemai_Hassen_s_CV.pdf: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:28 ERROR : Linux/Latex/LATEXBASICO.PDF: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:28 ERROR : Linux/Latex/invoice-class.zip: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:29 ERROR : Linux/Latex/invoice.zip: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:30 ERROR : Linux/Latex/modernfancycv.epub: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:30 ERROR : Linux/Latex/LATEXBASICO.PDF.epub: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:30 ERROR : Linux/Latex/latex.pdf: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:31 ERROR : Documents/Multas/Notificacio-1013275.pdf: Failed to copy: mkdir /mnt/gdrive/Documents: permission denied
+2025/01/27 19:29:32 ERROR : Documents/Multas/Notificacio-1066073.pdf: Failed to copy: mkdir /mnt/gdrive/Documents: permission denied
+2025/01/27 19:29:32 ERROR : Linux/Latex/modernfancycv.pdf: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:33 ERROR : Documents/Multas/Notificacio-1192597.pdf: Failed to copy: mkdir /mnt/gdrive/Documents: permission denied
+2025/01/27 19:29:33 ERROR : Documents/Multas/Notificacio-1316326.pdf: Failed to copy: mkdir /mnt/gdrive/Documents: permission denied
+2025/01/27 19:29:33 ERROR : Documents/Multas/Notificacio-1619737.PDF: Failed to copy: mkdir /mnt/gdrive/Documents: permission denied
+2025/01/27 19:29:33 ERROR : Linux/Latex/latex.epub: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:34 ERROR : Documents/Multas/infraccio_circulacio_2020sacr0944480_mazda_7662jzl.pdf: Failed to copy: mkdir /mnt/gdrive/Documents: permission denied
+2025/01/27 19:29:34 ERROR : Documents/Multas/justificant_pagament_infraccio_circulacio_2020sacr0944480_mazda_7662jzl.pdf: Failed to copy: mkdir /mnt/gdrive/Documents: permission denied
+2025/01/27 19:29:34 ERROR : Documents/Multas/pagament_notificacio_1316326.pdf: Failed to copy: mkdir /mnt/gdrive/Documents: permission denied
+2025/01/27 19:29:34 ERROR : Linux/Bootstrap/ejemplo.html: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:35 ERROR : Linux/Bootstrap/formOK.html: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:35 ERROR : Linux/Bootstrap/formulario.html: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:35 ERROR : Linux/Bootstrap/galeria.html: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:35 ERROR : Linux/Bootstrap/index.html: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:36 ERROR : Linux/Bootstrap/slider.html: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:36 ERROR : Linux/Bootstrap/sources.md: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:36 ERROR : Linux/Bootstrap/tablas.html: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:36 ERROR : Documents/Denuncia_Aliexpress/Carta_explicativa.pdf: Failed to copy: mkdir /mnt/gdrive/Documents: permission denied
+2025/01/27 19:29:37 ERROR : Documents/Denuncia_Aliexpress/Carta_tipo_Mercancia_no_recibida.pdf: Failed to copy: mkdir /mnt/gdrive/Documents: permission denied
+2025/01/27 19:29:38 ERROR : Documents/Denuncia_Aliexpress/Carta_tipo_operacion_cajero_internet_comercio.pdf: Failed to copy: mkdir /mnt/gdrive/Documents: permission denied
+2025/01/27 19:29:38 ERROR : Documents/Denuncia_Aliexpress/Carta_tipo_operacion_cajero_internet_comercio_tarjeta_credito.pdf: Failed to copy: mkdir /mnt/gdrive/Documents: permission denied
+2025/01/27 19:29:38 ERROR : Documents/Denuncia_Aliexpress/Carta_tipo_operacion_cajero_internet_comercio_tarjeta_debito.pdf: Failed to copy: mkdir /mnt/gdrive/Documents: permission denied
+2025/01/27 19:29:38 ERROR : Documents/Denuncia_Aliexpress/extracto_mensual_Abril_2021.pdf: Failed to copy: mkdir /mnt/gdrive/Documents: permission denied
+2025/01/27 19:29:39 ERROR : Documents/Denuncia_Aliexpress/reclamacion_vendedor.png: Failed to copy: mkdir /mnt/gdrive/Documents: permission denied
+2025/01/27 19:29:39 ERROR : Linux/littlelink-server/template/index.html: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:39 ERROR : Linux/littlelink-server/www/index.html: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:39 ERROR : Linux/littlelink-server/.github/FUNDING.yml: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:40 ERROR : Linux/Latex/02_business_card/busines card_2.pdf: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:40 ERROR : Linux/VIM/tutorial_dots/README.md: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:40 ERROR : Linux/Latex/02_business_card/busines card_2.epub: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:41 ERROR : Linux/littlelink-server/.git/HEAD: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:41 ERROR : Linux/Latex/02_business_card/busines card_2.sla: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:41 ERROR : Linux/littlelink-server/.git/config: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:41 ERROR : Linux/littlelink-server/.git/description: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:42 ERROR : Linux/littlelink-server/.git/packed-refs: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:42 ERROR : Linux/mysql/admin_productos/get_productos.php: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:42 ERROR : Linux/littlelink-server/.git/index: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:43 ERROR : Linux/VIM/capitulos/vim1.md: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:43 ERROR : Linux/mysql/admin_productos/list_productos.php: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:43 ERROR : Linux/VIM/capitulos/vim10.md: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:44 ERROR : Linux/mysql/admin_productos/show_producto.php: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:44 ERROR : Linux/VIM/capitulos/vim11.md: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:44 ERROR : Linux/VIM/capitulos/vim13.md: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:44 ERROR : Linux/VIM/capitulos/vim12.md: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:45 ERROR : Linux/VIM/capitulos/vim14.md: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:45 ERROR : Linux/VIM/capitulos/vim16.md: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:45 ERROR : Linux/VIM/capitulos/vim15.md: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:45 ERROR : Linux/VIM/capitulos/vim2.md: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:45 ERROR : Linux/VIM/capitulos/vim3.md: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:29:46 ERROR : Linux/VIM/capitulos/vim4.md: Failed to copy: mkdir /mnt/gdrive/Linux: permission denied
+2025/01/27 19:30:13 INFO  : Signal received: interrupt
+2025/01/27 19:30:13 NOTICE: No need to gracefully shutdown during --resync (just run it again.)
+2025/01/27 19:30:13 INFO  : Exiting...
+2025/01/27 19:30:43 NOTICE: bisync is IN BETA. Don't use in production!
+2025/01/27 19:30:43 INFO  : Bisyncing with Comparison Settings: 
+{
+	"Modtime": true,
+	"Size": true,
+	"Checksum": true,
+	"HashType1": 1,
+	"HashType2": 1,
+	"NoSlowHash": false,
+	"SlowHashSyncOnly": false,
+	"SlowHashDetected": true,
+	"DownloadHash": false
+}
+2025/01/27 19:30:43 INFO  : Synching Path1 "VDrive{YoXec}:/" with Path2 "/mnt/gdrive/"
+2025/01/27 19:30:43 INFO  : Copying Path2 files to Path1
+2025/01/27 19:30:43 INFO  : - Path2             Resync is copying files to                  - Path1
+2025/01/27 19:30:49 INFO  : There was nothing to transfer
+2025/01/27 19:30:49 INFO  : - Path1             Resync is copying files to                  - Path2
+2025/01/27 19:30:49 INFO  : Documents: Updated directory metadata
+2025/01/27 19:30:49 INFO  : Drone: Updated directory metadata
+2025/01/27 19:30:49 INFO  : Finanzas: Updated directory metadata
+2025/01/27 19:30:49 INFO  : Libros: Updated directory metadata
+2025/01/27 19:30:49 INFO  : Linux: Updated directory metadata
+2025/01/27 19:30:50 INFO  : Documents/Denuncia_Aliexpress: Updated directory metadata
+2025/01/27 19:30:50 INFO  : Documents/Multas: Updated directory metadata
+2025/01/27 19:30:50 INFO  : Linux/Bootstrap: Updated directory metadata
+2025/01/27 19:30:50 INFO  : Linux/Latex: Updated directory metadata
+2025/01/27 19:30:50 INFO  : Linux/QEMU-KVM: Updated directory metadata
+2025/01/27 19:30:50 INFO  : Linux/VIM: Updated directory metadata
+2025/01/27 19:30:50 INFO  : Linux/littlelink-server: Updated directory metadata
+2025/01/27 19:30:50 INFO  : Linux/mysql: Updated directory metadata
+2025/01/27 19:30:50 INFO  : Linux/mysql/admin_productos: Updated directory metadata
+2025/01/27 19:30:50 INFO  : Linux/Bootstrap/css: Updated directory metadata
+2025/01/27 19:30:50 INFO  : Linux/Bootstrap/img: Updated directory metadata
+2025/01/27 19:30:50 INFO  : Linux/Latex/02_business_card: Updated directory metadata
+2025/01/27 19:30:50 INFO  : Linux/Latex/CV: Updated directory metadata
+2025/01/27 19:30:50 INFO  : Linux/Latex/cv_14: Updated directory metadata
+2025/01/27 19:30:50 INFO  : Linux/Latex/cv_16: Updated directory metadata
+2025/01/27 19:30:50 INFO  : Linux/Latex/invoice: Updated directory metadata
+2025/01/27 19:30:50 INFO  : Linux/Latex/invoice-class: Updated directory metadata
+2025/01/27 19:30:50 INFO  : Linux/VIM/capitulos: Updated directory metadata
+2025/01/27 19:30:50 INFO  : Linux/littlelink-server/.git: Updated directory metadata
+2025/01/27 19:30:50 INFO  : Linux/littlelink-server/.github: Updated directory metadata
+2025/01/27 19:30:50 INFO  : Linux/VIM/tutorial_dots: Updated directory metadata
+2025/01/27 19:30:50 INFO  : Linux/littlelink-server/template: Updated directory metadata
+2025/01/27 19:30:50 INFO  : Linux/littlelink-server/www: Updated directory metadata
+2025/01/27 19:30:50 INFO  : Screenshot_20220309_163253.png: Copied (new)
+2025/01/27 19:30:50 INFO  : Linux/Latex/CV/cv_10: Updated directory metadata
+2025/01/27 19:30:50 INFO  : Linux/Latex/cv_14/cv-sections: Updated directory metadata
+2025/01/27 19:30:50 INFO  : Linux/Latex/CV/cv_14: Updated directory metadata
+2025/01/27 19:30:50 INFO  : Linux/Latex/cv_14/fonts: Updated directory metadata
+2025/01/27 19:30:50 INFO  : Linux/Latex/CV/cv_16: Updated directory metadata
+2025/01/27 19:30:50 INFO  : Screenshot_20220309_163320.png: Copied (new)
+2025/01/27 19:30:50 INFO  : Linux/Latex/invoice-class/doc: Updated directory metadata
+2025/01/27 19:30:50 INFO  : Libros/As_a_Man_Thinketh_by_James_Allen.3.epub: Copied (new)
+2025/01/27 19:30:50 INFO  : Linux/VIM/tutorial_dots/.git: Updated directory metadata
+2025/01/27 19:30:50 INFO  : Linux/VIM/tutorial_dots/cpp2: Updated directory metadata
+2025/01/27 19:30:50 INFO  : Linux/VIM/tutorial_dots/tmux: Updated directory metadata
+2025/01/27 19:30:50 INFO  : Linux/VIM/tutorial_dots/vimwiki_2: Updated directory metadata
+2025/01/27 19:30:51 INFO  : Linux/littlelink-server/.git/branches: Updated directory metadata
+2025/01/27 19:30:51 INFO  : Linux/littlelink-server/.git/hooks: Updated directory metadata
+2025/01/27 19:30:51 INFO  : Linux/littlelink-server/.git/info: Updated directory metadata
+2025/01/27 19:30:51 INFO  : Linux/littlelink-server/.git/logs: Updated directory metadata
+2025/01/27 19:30:51 INFO  : Linux/littlelink-server/.git/objects: Updated directory metadata
+2025/01/27 19:30:51 INFO  : Linux/littlelink-server/.git/refs: Updated directory metadata
+2025/01/27 19:30:51 INFO  : Linux/littlelink-server/www/css: Updated directory metadata
+2025/01/27 19:30:51 INFO  : Linux/littlelink-server/www/icons: Updated directory metadata
+2025/01/27 19:30:51 INFO  : Linux/littlelink-server/www/images: Updated directory metadata
+2025/01/27 19:30:51 INFO  : Linux/littlelink-server/.github/workflows: Updated directory metadata
+2025/01/27 19:30:51 INFO  : Libros/Siddhartha_by_Hermann_Hesse.3.epub: Copied (new)
+2025/01/27 19:30:51 INFO  : Linux/Latex/CV/cv_14/cv-sections: Updated directory metadata
+2025/01/27 19:30:51 INFO  : Linux/Latex/CV/cv_14/fonts: Updated directory metadata
+2025/01/27 19:30:51 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug: Updated directory metadata
+2025/01/27 19:30:51 INFO  : Linux/VIM/tutorial_dots/cpp2/include: Updated directory metadata
+2025/01/27 19:30:51 INFO  : Linux/VIM/tutorial_dots/cpp2/src: Updated directory metadata
+2025/01/27 19:30:51 INFO  : Linux/VIM/tutorial_dots/cpp2/tst: Updated directory metadata
+2025/01/27 19:30:51 INFO  : Linux/VIM/tutorial_dots/vimwiki_2/nvim: Updated directory metadata
+2025/01/27 19:30:51 INFO  : Linux/VIM/tutorial_dots/.git/branches: Updated directory metadata
+2025/01/27 19:30:51 INFO  : Linux/VIM/tutorial_dots/.git/hooks: Updated directory metadata
+2025/01/27 19:30:51 INFO  : Linux/VIM/tutorial_dots/.git/info: Updated directory metadata
+2025/01/27 19:30:51 INFO  : Linux/VIM/tutorial_dots/.git/logs: Updated directory metadata
+2025/01/27 19:30:51 INFO  : Linux/VIM/tutorial_dots/.git/objects: Updated directory metadata
+2025/01/27 19:30:51 INFO  : Linux/VIM/tutorial_dots/.git/refs: Updated directory metadata
+2025/01/27 19:30:51 INFO  : Linux/littlelink-server/.git/logs/refs: Updated directory metadata
+2025/01/27 19:30:51 INFO  : Libros/The_Meditations_of_the_Emperor_Marcus_Aurelius_Antoninus_by_Marcus_Aurelius.3.epub: Copied (new)
+2025/01/27 19:30:51 INFO  : Linux/littlelink-server/.git/objects/info: Updated directory metadata
+2025/01/27 19:30:51 INFO  : Linux/littlelink-server/.git/objects/pack: Updated directory metadata
+2025/01/27 19:30:51 INFO  : Linux/littlelink-server/.git/refs/heads: Updated directory metadata
+2025/01/27 19:30:51 INFO  : Linux/littlelink-server/.git/refs/remotes: Updated directory metadata
+2025/01/27 19:30:51 INFO  : Linux/littlelink-server/.git/refs/tags: Updated directory metadata
+2025/01/27 19:30:51 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles: Updated directory metadata
+2025/01/27 19:30:51 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib: Updated directory metadata
+2025/01/27 19:30:51 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/tst: Updated directory metadata
+2025/01/27 19:30:52 INFO  : Linux/VIM/tutorial_dots/vimwiki_2/nvim/after: Updated directory metadata
+2025/01/27 19:30:52 INFO  : Linux/littlelink-server/.git/logs/refs/heads: Updated directory metadata
+2025/01/27 19:30:52 INFO  : Linux/littlelink-server/.git/logs/refs/remotes: Updated directory metadata
+2025/01/27 19:30:52 INFO  : Finanzas/PRESUPUESTO PERSONAL 2024.xlsx: Copied (new)
+2025/01/27 19:30:52 INFO  : Linux/VIM/tutorial_dots/.git/logs/refs: Updated directory metadata
+2025/01/27 19:30:52 INFO  : Linux/VIM/tutorial_dots/.git/objects/info: Updated directory metadata
+2025/01/27 19:30:52 INFO  : Linux/VIM/tutorial_dots/.git/objects/pack: Updated directory metadata
+2025/01/27 19:30:52 INFO  : Finanzas/Gestión Cartera VDG.xlsx: Copied (new)
+2025/01/27 19:30:52 INFO  : Linux/VIM/tutorial_dots/.git/refs/heads: Updated directory metadata
+2025/01/27 19:30:52 INFO  : Linux/VIM/tutorial_dots/.git/refs/remotes: Updated directory metadata
+2025/01/27 19:30:52 INFO  : Linux/VIM/tutorial_dots/.git/refs/tags: Updated directory metadata
+2025/01/27 19:30:52 INFO  : Finanzas/PRESUPUESTO PERSONAL VDG 2023.xlsx: Copied (new)
+2025/01/27 19:30:52 INFO  : Linux/littlelink-server/.git/refs/remotes/origin: Updated directory metadata
+2025/01/27 19:30:52 INFO  : Libros/The_Prophet_by_Kahlil_Gibran.3.epub: Copied (new)
+2025/01/27 19:30:54 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/3.19.2: Updated directory metadata
+2025/01/27 19:30:54 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/hello.dir: Updated directory metadata
+2025/01/27 19:30:54 INFO  : Linux/VIM/tutorial_dots/vimwiki_2/nvim/after/syntax: Updated directory metadata
+2025/01/27 19:30:54 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest: Updated directory metadata
+2025/01/27 19:30:54 INFO  : Linux/littlelink-server/.git/logs/refs/remotes/origin: Updated directory metadata
+2025/01/27 19:30:54 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles: Updated directory metadata
+2025/01/27 19:30:54 INFO  : Linux/VIM/tutorial_dots/.git/logs/refs/heads: Updated directory metadata
+2025/01/27 19:30:54 INFO  : Linux/VIM/tutorial_dots/.git/logs/refs/remotes: Updated directory metadata
+2025/01/27 19:30:55 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/3.19.2/CompilerIdC: Updated directory metadata
+2025/01/27 19:30:55 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/3.19.2/CompilerIdCXX: Updated directory metadata
+2025/01/27 19:30:55 INFO  : Linux/VIM/tutorial_dots/.git/refs/remotes/origin: Updated directory metadata
+2025/01/27 19:30:55 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/hello.dir/src: Updated directory metadata
+2025/01/27 19:30:55 INFO  : Documents/2021_12_27_amazon_beurer_po40_oximetro.pdf: Copied (new)
+2025/01/27 19:30:55 INFO  : Documents/3014559420569722_payment.pdf: Copied (new)
+2025/01/27 19:30:55 INFO  : Linux/VIM/tutorial_dots/.git/logs/refs/remotes/origin: Updated directory metadata
+2025/01/27 19:30:55 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/CMakeFiles: Updated directory metadata
+2025/01/27 19:30:55 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock: Updated directory metadata
+2025/01/27 19:30:55 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest: Updated directory metadata
+2025/01/27 19:30:55 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_lib.dir: Updated directory metadata
+2025/01/27 19:30:55 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_run.dir: Updated directory metadata
+2025/01/27 19:30:55 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_tst.dir: Updated directory metadata
+2025/01/27 19:30:55 INFO  : Documents/3014153989329722_payment.pdf: Copied (new)
+2025/01/27 19:30:56 INFO  : Documents/30440535353315.pdf: Copied (new)
+2025/01/27 19:30:57 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles: Updated directory metadata
+2025/01/27 19:30:57 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/generated: Updated directory metadata
+2025/01/27 19:30:57 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles: Updated directory metadata
+2025/01/27 19:30:57 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock.dir: Updated directory metadata
+2025/01/27 19:30:57 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/Export: Updated directory metadata
+2025/01/27 19:30:57 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock_main.dir: Updated directory metadata
+2025/01/27 19:30:57 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest.dir: Updated directory metadata
+2025/01/27 19:30:57 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest_main.dir: Updated directory metadata
+2025/01/27 19:30:57 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/src: Updated directory metadata
+2025/01/27 19:30:58 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock.dir/src: Updated directory metadata
+2025/01/27 19:30:58 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest_main.dir/src: Updated directory metadata
+2025/01/27 19:30:58 INFO  : Documents/N30+F30_Manual_V4.pdf: Copied (new)
+2025/01/27 19:30:58 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest.dir/src: Updated directory metadata
+2025/01/27 19:30:58 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/Export/lib: Updated directory metadata
+2025/01/27 19:30:58 INFO  : Linux/02f9d3df-1097-4629-94ad-2f4c887967a3.pdf: Copied (new)
+2025/01/27 19:30:58 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/Export/lib/cmake: Updated directory metadata
+2025/01/27 19:30:59 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/Export/lib/cmake/GTest: Updated directory metadata
+2025/01/27 19:30:59 INFO  : Documents/NESPi_CASE+_Manual.pdf: Copied (new)
+2025/01/27 19:30:59 INFO  : Documents/IMG_20200926_111913.jpg: Copied (new)
+2025/01/27 19:31:00 INFO  : Documents/Plantilla Básica para Seguimiento de Clientes.xlsx: Copied (new)
+2025/01/27 19:31:01 INFO  : Documents/RESUM UF 1.pdf: Copied (new)
+2025/01/27 19:31:01 INFO  : Documents/Por fin vas a ponerte en forma.epub: Copied (new)
+2025/01/27 19:31:02 INFO  : Documents/Qüestionari per al desenvolupament de teletreball.pdf: Copied (new)
+2025/01/27 19:31:02 INFO  : Documents/curriculum vitae sergio duran gonzalez.doc: Copied (new)
+2025/01/27 19:31:03 INFO  : Documents/curriculum vitae sergio duran gonzalez.pdf: Copied (new)
+2025/01/27 19:31:04 INFO  : Documents/install-qemu-v1.sh: Copied (new)
+2025/01/27 19:31:04 INFO  : Documents/make_vim_as_sexy.md: Copied (new)
+2025/01/27 19:31:06 INFO  : Documents/manual_ultrasonic_toothbrush.pdf: Copied (new)
+2025/01/27 19:31:06 INFO  : Documents/FPVFreerider_Recharged_Linux - 2021-03-25.zip: Multi-thread Copied (new)
+2025/01/27 19:31:06 INFO  : Documents/mikrotik_fontvella.docx: Copied (new)
+2025/01/27 19:31:07 INFO  : Documents/pakages-pacman.list: Copied (new)
+2025/01/27 19:31:07 INFO  : Documents/pagament_notificacio_1723152.pdf: Copied (new)
+2025/01/27 19:31:07 INFO  : Documents/hrrta_svpt.xlsx: Copied (new)
+2025/01/27 19:31:08 INFO  : Documents/RPi_PiPico_Digital_v10.pdf: Copied (new)
+2025/01/27 19:31:08 INFO  : Documents/prescripio_ulleres_barraquer_2020.pdf: Copied (new)
+2025/01/27 19:31:08 INFO  : Documents/software_libre_para_una_sociedad_libre_Richard M. Stallman.pdf: Copied (new)
+2025/01/27 19:31:09 INFO  : Linux/EjemploIntervalo.tex: Copied (new)
+2025/01/27 19:31:09 INFO  : Linux/Installing-Arch-on-a-ThinkPad-X1-Extreme-Gen-1.md: Copied (new)
+2025/01/27 19:31:09 INFO  : Linux/Docker básico - primeros pasos.pdf: Copied (new)
+2025/01/27 19:31:09 INFO  : Linux/common-ports.pdf: Copied (new)
+2025/01/27 19:31:10 INFO  : Linux/docker-cheat-sheet.pdf: Copied (new)
+2025/01/27 19:31:10 INFO  : Linux/hackear_con_kali.pdf: Copied (new)
+2025/01/27 19:31:11 INFO  : Linux/The ssh Plumber's Handbook.pdf: Copied (new)
+2025/01/27 19:31:11 INFO  : Linux/python_book_01.pdf: Copied (new)
+2025/01/27 19:31:11 INFO  : Linux/servicios_acceso_remoto_ssh.pdf: Copied (new)
+2025/01/27 19:31:12 INFO  : Linux/ssh-cheat-sheet-common-commands-and-secure-config.pdf: Copied (new)
+2025/01/27 19:31:12 INFO  : Linux/python_para_todos.epub: Copied (new)
+2025/01/27 19:31:12 INFO  : Linux/vibreoffice-0.1.4.oxt: Copied (new)
+2025/01/27 19:31:13 INFO  : Documents/Multas/Notificacio-1013275.pdf: Copied (new)
+2025/01/27 19:31:13 INFO  : Documents/Multas/Notificacio-1316326.pdf: Copied (new)
+2025/01/27 19:31:14 INFO  : Documents/Multas/Notificacio-1192597.pdf: Copied (new)
+2025/01/27 19:31:14 INFO  : Documents/Multas/Notificacio-1066073.pdf: Copied (new)
+2025/01/27 19:31:14 INFO  : Documents/Multas/Notificacio-1619737.PDF: Copied (new)
+2025/01/27 19:31:15 INFO  : Documents/Multas/justificant_pagament_infraccio_circulacio_2020sacr0944480_mazda_7662jzl.pdf: Copied (new)
+2025/01/27 19:31:15 INFO  : Documents/Multas/pagament_notificacio_1316326.pdf: Copied (new)
+2025/01/27 19:31:15 INFO  : Documents/Multas/infraccio_circulacio_2020sacr0944480_mazda_7662jzl.pdf: Copied (new)
+2025/01/27 19:31:16 INFO  : Linux/mysql/escola_1.sql: Copied (new)
+2025/01/27 19:31:16 INFO  : Linux/mysql/Introduccion_a_MariaDB1.epub: Copied (new)
+2025/01/27 19:31:16 INFO  : Linux/mysql/Introduccion_a_MariaDB1.pdf: Copied (new)
+2025/01/27 19:31:17 INFO  : Linux/mysql/mi_empresa.sql: Copied (new)
+2025/01/27 19:31:17 INFO  : Linux/Bootstrap/ejemplo.html: Copied (new)
+2025/01/27 19:31:18 INFO  : Linux/Bootstrap/formOK.html: Copied (new)
+2025/01/27 19:31:18 INFO  : Linux/mysql/mysql.rar: Copied (new)
+2025/01/27 19:31:18 INFO  : Linux/Bootstrap/formulario.html: Copied (new)
+2025/01/27 19:31:18 INFO  : Linux/mysql/Presentació_mysql.ppt: Copied (new)
+2025/01/27 19:31:18 INFO  : Linux/Bootstrap/galeria.html: Copied (new)
+2025/01/27 19:31:18 INFO  : Linux/Bootstrap/index.html: Copied (new)
+2025/01/27 19:31:19 INFO  : Linux/Bootstrap/slider.html: Copied (new)
+2025/01/27 19:31:19 INFO  : Linux/Bootstrap/sources.md: Copied (new)
+2025/01/27 19:31:19 INFO  : Linux/Bootstrap/tablas.html: Copied (new)
+2025/01/27 19:31:20 INFO  : Documents/Denuncia_Aliexpress/Carta_tipo_Mercancia_no_recibida.pdf: Copied (new)
+2025/01/27 19:31:20 INFO  : Documents/Denuncia_Aliexpress/Carta_tipo_operacion_cajero_internet_comercio.pdf: Copied (new)
+2025/01/27 19:31:20 INFO  : Documents/Denuncia_Aliexpress/Carta_explicativa.pdf: Copied (new)
+2025/01/27 19:31:21 INFO  : Documents/Denuncia_Aliexpress/Carta_tipo_operacion_cajero_internet_comercio_tarjeta_credito.pdf: Copied (new)
+2025/01/27 19:31:21 INFO  : Documents/Denuncia_Aliexpress/reclamacion_vendedor.png: Copied (new)
+2025/01/27 19:31:21 INFO  : Documents/Denuncia_Aliexpress/Carta_tipo_operacion_cajero_internet_comercio_tarjeta_debito.pdf: Copied (new)
+2025/01/27 19:31:21 INFO  : Documents/Denuncia_Aliexpress/extracto_mensual_Abril_2021.pdf: Copied (new)
+2025/01/27 19:31:22 INFO  : Linux/Latex/Jemai_Hassen_s_CV.epub: Copied (new)
+2025/01/27 19:31:22 INFO  : Linux/Latex/Jemai_Hassen_s_CV.pdf: Copied (new)
+2025/01/27 19:31:23 INFO  : Linux/Latex/invoice-class.zip: Copied (new)
+2025/01/27 19:31:24 INFO  : Linux/Latex/LATEXBASICO.PDF: Copied (new)
+2025/01/27 19:31:24 INFO  : Linux/Latex/LATEXBASICO.PDF.epub: Copied (new)
+2025/01/27 19:31:24 INFO  : Linux/Latex/invoice.zip: Copied (new)
+2025/01/27 19:31:25 INFO  : Linux/Latex/latex.epub: Copied (new)
+2025/01/27 19:31:26 INFO  : Linux/Latex/modernfancycv.pdf: Copied (new)
+2025/01/27 19:31:26 INFO  : Linux/Latex/latex.pdf: Copied (new)
+2025/01/27 19:31:26 INFO  : Linux/Latex/modernfancycv.epub: Copied (new)
+2025/01/27 19:31:26 INFO  : Linux/VIM/README.md: Copied (new)
+2025/01/27 19:31:27 INFO  : Linux/littlelink-server/.editorconfig: Copied (new)
+2025/01/27 19:31:27 INFO  : Linux/VIM/photo_2021-01-05_17-10-15.jpg: Copied (new)
+2025/01/27 19:31:27 INFO  : Linux/VIM/index.html: Copied (new)
+2025/01/27 19:31:27 INFO  : Linux/VIM/photo_2021-01-05_15-36-17.jpg: Copied (new)
+2025/01/27 19:31:28 INFO  : Linux/littlelink-server/.gitignore: Copied (new)
+2025/01/27 19:31:28 INFO  : Linux/littlelink-server/Dockerfile: Copied (new)
+2025/01/27 19:31:28 INFO  : Linux/littlelink-server/.nvmrc: Copied (new)
+2025/01/27 19:31:28 INFO  : Linux/littlelink-server/app.js: Copied (new)
+2025/01/27 19:31:28 INFO  : Linux/littlelink-server/README.md: Copied (new)
+2025/01/27 19:31:28 INFO  : Linux/littlelink-server/docker-compose.yml: Copied (new)
+2025/01/27 19:31:29 INFO  : Linux/VIM/que-vim-master.zip: Copied (new)
+2025/01/27 19:31:29 INFO  : Linux/littlelink-server/env.js: Copied (new)
+2025/01/27 19:31:29 INFO  : Linux/littlelink-server/entrypoint.sh: Copied (new)
+2025/01/27 19:31:30 INFO  : Linux/VIM/vim.zip: Copied (new)
+2025/01/27 19:31:30 INFO  : Linux/VIM/vim-workshop-main.tar.gz: Copied (new)
+2025/01/27 19:31:30 INFO  : Linux/VIM/vim-es.epub: Copied (new)
+2025/01/27 19:31:31 INFO  : Linux/littlelink-server/package.json: Copied (new)
+2025/01/27 19:31:31 INFO  : Linux/littlelink-server/yarn.lock: Copied (new)
+2025/01/27 19:31:31 INFO  : Linux/VIM/vim-es.pdf: Copied (new)
+2025/01/27 19:31:31 INFO  : Linux/Bootstrap/img/bs4.jpeg: Copied (new)
+2025/01/27 19:31:32 INFO  : Linux/Bootstrap/img/chicago.jpg: Copied (new)
+2025/01/27 19:31:32 INFO  : Linux/Bootstrap/img/la.jpg: Copied (new)
+2025/01/27 19:31:32 INFO  : Linux/Bootstrap/img/bs4.png: Copied (new)
+2025/01/27 19:31:32 INFO  : Linux/Bootstrap/img/ny.jpg: Copied (new)
+2025/01/27 19:31:33 INFO  : Linux/mysql/admin_productos/get_productos.php: Copied (new)
+2025/01/27 19:31:33 INFO  : Linux/mysql/admin_productos/list_productos.php: Copied (new)
+2025/01/27 19:31:33 INFO  : Linux/mysql/admin_productos/show_producto.php: Copied (new)
+2025/01/27 19:31:33 INFO  : Linux/Bootstrap/css/index.css: Copied (new)
+2025/01/27 19:31:34 INFO  : Linux/Latex/02_business_card/busines card_2.epub: Copied (new)
+2025/01/27 19:31:34 INFO  : Linux/Latex/02_business_card/busines card_2.pdf: Copied (new)
+2025/01/27 19:31:34 INFO  : Linux/Latex/02_business_card/busines card_2.sla: Copied (new)
+2025/01/27 19:31:34 INFO  : Linux/Latex/cv_14/awesome-cv.cls: Copied (new)
+2025/01/27 19:31:34 INFO  : Linux/Latex/cv_14/cover_letter.tex: Copied (new)
+2025/01/27 19:31:35 INFO  : Linux/Latex/CV/cv_10.zip: Copied (new)
+2025/01/27 19:31:35 INFO  : Linux/Latex/cv_14/cv_10.zip: Copied (new)
+2025/01/27 19:31:35 INFO  : Linux/Latex/cv_14/fontawesome.sty: Copied (new)
+2025/01/27 19:31:35 INFO  : Linux/Latex/cv_14/cv_16.zip: Copied (new)
+2025/01/27 19:31:36 INFO  : Linux/Latex/cv_14/invoice.zip: Copied (new)
+2025/01/27 19:31:37 INFO  : Linux/Latex/cv_14/invoice-class.zip: Copied (new)
+2025/01/27 19:31:37 INFO  : Linux/Latex/cv_14/cv_14.zip: Copied (new)
+2025/01/27 19:31:37 INFO  : Linux/Latex/cv_14/resume_cv.tex: Copied (new)
+2025/01/27 19:31:37 INFO  : Linux/Latex/CV/cv_14.zip: Copied (new)
+2025/01/27 19:31:37 INFO  : Linux/Latex/CV/cv_16.zip: Copied (new)
+2025/01/27 19:31:38 INFO  : Linux/Latex/invoice/README: Copied (new)
+2025/01/27 19:31:38 INFO  : Linux/Latex/invoice/invoice.tex: Copied (new)
+2025/01/27 19:31:39 INFO  : Linux/Latex/invoice/invoice.sty: Copied (new)
+2025/01/27 19:31:39 INFO  : Linux/Latex/invoice/invoice.pdf: Copied (new)
+2025/01/27 19:31:39 INFO  : Linux/Latex/invoice/invoice.epub: Copied (new)
+2025/01/27 19:31:39 INFO  : Linux/Latex/invoice/invoicelabels.sty: Copied (new)
+2025/01/27 19:31:39 INFO  : Linux/Latex/cv_16/LICENSE: Copied (new)
+2025/01/27 19:31:40 INFO  : Linux/Latex/cv_16/template.aux: Copied (new)
+2025/01/27 19:31:40 INFO  : Linux/Latex/cv_16/alice.jpeg: Copied (new)
+2025/01/27 19:31:40 INFO  : Linux/Latex/cv_16/template.fdb_latexmk: Copied (new)
+2025/01/27 19:31:41 INFO  : Linux/Latex/cv_16/template.fls: Copied (new)
+2025/01/27 19:31:41 INFO  : Linux/Latex/cv_16/template.out: Copied (new)
+2025/01/27 19:31:41 INFO  : Linux/Latex/cv_16/template.log: Copied (new)
+2025/01/27 19:31:41 INFO  : Linux/Latex/cv_16/template.epub: Copied (new)
+2025/01/27 19:31:42 INFO  : Linux/Latex/cv_16/template.synctex.gz: Copied (new)
+2025/01/27 19:31:42 INFO  : Linux/Latex/cv_16/template.pdf: Copied (new)
+2025/01/27 19:31:42 INFO  : Linux/Latex/cv_16/twentysecondcv.cls: Copied (new)
+2025/01/27 19:31:42 INFO  : Linux/Latex/cv_16/template.tex: Copied (new)
+2025/01/27 19:31:42 INFO  : Linux/Latex/invoice-class/invoice-class.cls: Copied (new)
+2025/01/27 19:31:43 INFO  : Linux/Latex/invoice-class/README.md: Copied (new)
+2025/01/27 19:31:43 INFO  : Linux/VIM/tutorial_dots/README.md: Copied (new)
+2025/01/27 19:31:43 INFO  : Linux/VIM/capitulos/vim1.md: Copied (new)
+2025/01/27 19:31:43 INFO  : Linux/VIM/capitulos/vim13.md: Copied (new)
+2025/01/27 19:31:43 INFO  : Linux/VIM/capitulos/vim10.md: Copied (new)
+2025/01/27 19:31:44 INFO  : Linux/VIM/capitulos/vim12.md: Copied (new)
+2025/01/27 19:31:44 INFO  : Linux/VIM/capitulos/vim15.md: Copied (new)
+2025/01/27 19:31:44 INFO  : Linux/VIM/capitulos/vim14.md: Copied (new)
+2025/01/27 19:31:44 INFO  : Linux/VIM/capitulos/vim11.md: Copied (new)
+2025/01/27 19:31:44 INFO  : Linux/VIM/capitulos/vim16.md: Copied (new)
+2025/01/27 19:31:45 INFO  : Linux/VIM/capitulos/vim3.md: Copied (new)
+2025/01/27 19:31:45 INFO  : Linux/VIM/capitulos/vim2.md: Copied (new)
+2025/01/27 19:31:45 INFO  : Linux/VIM/capitulos/vim4.md: Copied (new)
+2025/01/27 19:31:45 INFO  : Linux/VIM/capitulos/vim5.md: Copied (new)
+2025/01/27 19:31:46 INFO  : Linux/VIM/capitulos/vim7.md: Copied (new)
+2025/01/27 19:31:46 INFO  : Linux/VIM/capitulos/vim6.md: Copied (new)
+2025/01/27 19:31:46 INFO  : Linux/VIM/capitulos/vim9.md: Copied (new)
+2025/01/27 19:31:46 INFO  : Linux/VIM/capitulos/vim8.md: Copied (new)
+2025/01/27 19:31:47 INFO  : Linux/littlelink-server/.git/HEAD: Copied (new)
+2025/01/27 19:31:47 INFO  : Linux/littlelink-server/template/index.html: Copied (new)
+2025/01/27 19:31:47 INFO  : Linux/littlelink-server/.git/config: Copied (new)
+2025/01/27 19:31:47 INFO  : Linux/littlelink-server/.git/description: Copied (new)
+2025/01/27 19:31:47 INFO  : Linux/littlelink-server/.git/index: Copied (new)
+2025/01/27 19:31:48 INFO  : Linux/littlelink-server/.git/packed-refs: Copied (new)
+2025/01/27 19:31:48 INFO  : Linux/littlelink-server/www/index.html: Copied (new)
+2025/01/27 19:31:48 INFO  : Linux/littlelink-server/.github/FUNDING.yml: Copied (new)
+2025/01/27 19:31:48 INFO  : Linux/Latex/cv_14/cv-sections/committees.tex: Copied (new)
+2025/01/27 19:31:48 INFO  : Linux/Latex/cv_14/cv-sections/education.tex: Copied (new)
+2025/01/27 19:31:49 INFO  : Linux/Latex/cv_14/cv-sections/extracurricular.tex: Copied (new)
+2025/01/27 19:31:49 INFO  : Linux/Latex/cv_14/cv-sections/honors.tex: Copied (new)
+2025/01/27 19:31:49 INFO  : Linux/Latex/cv_14/cv-sections/experience.tex: Copied (new)
+2025/01/27 19:31:50 INFO  : Linux/Latex/cv_14/cv-sections/presentation.tex: Copied (new)
+2025/01/27 19:31:50 INFO  : Linux/Latex/cv_14/cv-sections/skills.tex: Copied (new)
+2025/01/27 19:31:50 INFO  : Linux/Latex/cv_14/cv-sections/writing.tex: Copied (new)
+2025/01/27 19:31:51 INFO  : Linux/Latex/cv_14/fonts/FontAwesome.otf: Copied (new)
+2025/01/27 19:31:51 INFO  : Linux/Latex/cv_14/fonts/Roboto-BoldItalic.ttf: Copied (new)
+2025/01/27 19:31:51 INFO  : Linux/Latex/cv_14/fonts/Roboto-Italic.ttf: Copied (new)
+2025/01/27 19:31:51 INFO  : Linux/Latex/cv_14/fonts/Roboto-Bold.ttf: Copied (new)
+2025/01/27 19:31:52 INFO  : Linux/Latex/cv_14/fonts/Roboto-Light.ttf: Copied (new)
+2025/01/27 19:31:52 INFO  : Linux/Latex/cv_14/fonts/Roboto-LightItalic.ttf: Copied (new)
+2025/01/27 19:31:52 INFO  : Linux/Latex/cv_14/fonts/Roboto-MediumItalic.ttf: Copied (new)
+2025/01/27 19:31:52 INFO  : Linux/Latex/cv_14/fonts/Roboto-Medium.ttf: Copied (new)
+2025/01/27 19:31:53 INFO  : Linux/Latex/cv_14/fonts/Roboto-Regular.ttf: Copied (new)
+2025/01/27 19:31:53 INFO  : Linux/Latex/cv_14/fonts/Roboto-Thin.ttf: Copied (new)
+2025/01/27 19:31:53 INFO  : Linux/Latex/cv_14/fonts/SourceSansPro-BoldIt.otf: Copied (new)
+2025/01/27 19:31:53 INFO  : Linux/Latex/cv_14/fonts/Roboto-ThinItalic.ttf: Copied (new)
+2025/01/27 19:31:53 INFO  : Linux/Latex/cv_14/fonts/SourceSansPro-It.otf: Copied (new)
+2025/01/27 19:31:54 INFO  : Linux/Latex/cv_14/fonts/SourceSansPro-LightIt.otf: Copied (new)
+2025/01/27 19:31:54 INFO  : Linux/Latex/cv_14/fonts/SourceSansPro-SemiboldIt.otf: Copied (new)
+2025/01/27 19:31:54 INFO  : Linux/Latex/cv_14/fonts/SourceSansPro-Light.otf: Copied (new)
+2025/01/27 19:31:55 INFO  : Linux/Latex/cv_14/fonts/SourceSansPro-Regular.otf: Copied (new)
+2025/01/27 19:31:55 INFO  : Linux/Latex/CV/cv_14/cover_letter.tex: Copied (new)
+2025/01/27 19:31:55 INFO  : Linux/Latex/CV/cv_14/cv_10.zip: Copied (new)
+2025/01/27 19:31:55 INFO  : Linux/Latex/CV/cv_14/awesome-cv.cls: Copied (new)
+2025/01/27 19:31:56 INFO  : Linux/Latex/CV/cv_14/cv_16.zip: Copied (new)
+2025/01/27 19:31:56 INFO  : Linux/Latex/CV/cv_14/invoice-class.zip: Copied (new)
+2025/01/27 19:31:56 INFO  : Linux/Latex/CV/cv_14/fontawesome.sty: Copied (new)
+2025/01/27 19:31:56 INFO  : Linux/Latex/CV/cv_14/invoice.zip: Copied (new)
+2025/01/27 19:31:56 INFO  : Linux/Latex/CV/cv_14/resume_cv.tex: Copied (new)
+2025/01/27 19:31:57 INFO  : Linux/Latex/CV/cv_10/Readme.md: Copied (new)
+2025/01/27 19:31:57 INFO  : Linux/Latex/CV/cv_10/bibliography.bib: Copied (new)
+2025/01/27 19:31:57 INFO  : Linux/Latex/CV/cv_10/cv_10.aux: Copied (new)
+2025/01/27 19:31:58 INFO  : Linux/Latex/CV/cv_14/cv_14.zip: Copied (new)
+2025/01/27 19:31:58 INFO  : Linux/Latex/CV/cv_10/cv_10.fdb_latexmk: Copied (new)
+2025/01/27 19:31:58 INFO  : Linux/Latex/CV/cv_10/cv_10.log: Copied (new)
+2025/01/27 19:31:58 INFO  : Linux/Latex/CV/cv_10/cv_10.tex: Copied (new)
+2025/01/27 19:31:58 INFO  : Linux/Latex/CV/cv_10/cv_10.fls: Copied (new)
+2025/01/27 19:31:59 INFO  : Linux/Latex/invoice-class/doc/duck-invoice.cfg: Copied (new)
+2025/01/27 19:31:59 INFO  : Linux/Latex/CV/cv_10/friggeri-cv.cls: Copied (new)
+2025/01/27 19:31:59 INFO  : Linux/Latex/invoice-class/doc/duck-invoice.csv: Copied (new)
+2025/01/27 19:32:00 INFO  : Linux/Latex/invoice-class/doc/ducks.csv: Copied (new)
+2025/01/27 19:32:00 INFO  : Linux/Latex/invoice-class/doc/duck-invoice.tex: Copied (new)
+2025/01/27 19:32:00 INFO  : Linux/Latex/invoice-class/doc/duck-invoice.pdf: Copied (new)
+2025/01/27 19:32:01 INFO  : Linux/Latex/invoice-class/doc/duck-invoice.epub: Copied (new)
+2025/01/27 19:32:01 INFO  : Linux/Latex/CV/cv_16/alice.jpeg: Copied (new)
+2025/01/27 19:32:01 INFO  : Linux/Latex/CV/cv_16/LICENSE: Copied (new)
+2025/01/27 19:32:02 INFO  : Linux/Latex/CV/cv_16/template.aux: Copied (new)
+2025/01/27 19:32:02 INFO  : Linux/Latex/CV/cv_16/template.epub: Copied (new)
+2025/01/27 19:32:02 INFO  : Linux/Latex/CV/cv_16/template.fls: Copied (new)
+2025/01/27 19:32:02 INFO  : Linux/Latex/CV/cv_16/template.fdb_latexmk: Copied (new)
+2025/01/27 19:32:02 INFO  : Linux/Latex/CV/cv_16/template.out: Copied (new)
+2025/01/27 19:32:03 INFO  : Linux/Latex/CV/cv_16/template.log: Copied (new)
+2025/01/27 19:32:03 INFO  : Linux/Latex/CV/cv_16/template.tex: Copied (new)
+2025/01/27 19:32:03 INFO  : Linux/Latex/CV/cv_16/template.pdf: Copied (new)
+2025/01/27 19:32:03 INFO  : Linux/Latex/CV/cv_16/template.synctex.gz: Copied (new)
+2025/01/27 19:32:04 INFO  : Linux/Latex/CV/cv_16/twentysecondcv.cls: Copied (new)
+2025/01/27 19:32:04 INFO  : Linux/Latex/invoice-class/doc/ducks.epub: Copied (new)
+2025/01/27 19:32:04 INFO  : Linux/Latex/invoice-class/doc/ducks.pdf: Copied (new)
+2025/01/27 19:32:04 INFO  : Linux/Latex/invoice-class/doc/ducks.tex: Copied (new)
+2025/01/27 19:32:05 INFO  : Linux/Latex/invoice-class/doc/invoice-class.epub: Copied (new)
+2025/01/27 19:32:05 INFO  : Linux/Latex/invoice-class/doc/invoice-class.tex: Copied (new)
+2025/01/27 19:32:05 INFO  : Linux/VIM/tutorial_dots/cpp2/.ccls: Copied (new)
+2025/01/27 19:32:05 INFO  : Linux/Latex/invoice-class/doc/invoice-class.pdf: Copied (new)
+2025/01/27 19:32:06 INFO  : Linux/VIM/tutorial_dots/cpp2/CMakeLists.txt: Copied (new)
+2025/01/27 19:32:06 INFO  : Linux/VIM/tutorial_dots/cpp2/README.md: Copied (new)
+2025/01/27 19:32:06 INFO  : Linux/VIM/tutorial_dots/.git/HEAD: Copied (new)
+2025/01/27 19:32:07 INFO  : Linux/VIM/tutorial_dots/tmux/.tmux.conf: Copied (new)
+2025/01/27 19:32:07 INFO  : Linux/littlelink-server/.git/hooks/applypatch-msg.sample: Copied (new)
+2025/01/27 19:32:07 INFO  : Linux/littlelink-server/.git/hooks/post-update.sample: Copied (new)
+2025/01/27 19:32:07 INFO  : Linux/littlelink-server/.git/hooks/fsmonitor-watchman.sample: Copied (new)
+2025/01/27 19:32:08 INFO  : Linux/littlelink-server/.git/hooks/pre-applypatch.sample: Copied (new)
+2025/01/27 19:32:08 INFO  : Linux/littlelink-server/.git/hooks/commit-msg.sample: Copied (new)
+2025/01/27 19:32:08 INFO  : Linux/littlelink-server/.git/hooks/pre-commit.sample: Copied (new)
+2025/01/27 19:32:08 INFO  : Linux/littlelink-server/.git/hooks/pre-merge-commit.sample: Copied (new)
+2025/01/27 19:32:09 INFO  : Linux/littlelink-server/.git/hooks/pre-rebase.sample: Copied (new)
+2025/01/27 19:32:09 INFO  : Linux/littlelink-server/.git/hooks/pre-push.sample: Copied (new)
+2025/01/27 19:32:09 INFO  : Linux/littlelink-server/.git/hooks/pre-receive.sample: Copied (new)
+2025/01/27 19:32:09 INFO  : Linux/littlelink-server/.git/hooks/prepare-commit-msg.sample: Copied (new)
+2025/01/27 19:32:10 INFO  : Linux/littlelink-server/.git/hooks/push-to-checkout.sample: Copied (new)
+2025/01/27 19:32:10 INFO  : Linux/VIM/tutorial_dots/.git/config: Copied (new)
+2025/01/27 19:32:10 INFO  : Linux/VIM/tutorial_dots/.git/description: Copied (new)
+2025/01/27 19:32:10 INFO  : Linux/littlelink-server/.git/hooks/update.sample: Copied (new)
+2025/01/27 19:32:10 INFO  : Linux/VIM/tutorial_dots/.git/index: Copied (new)
+2025/01/27 19:32:11 INFO  : Linux/littlelink-server/.git/logs/HEAD: Copied (new)
+2025/01/27 19:32:11 INFO  : Linux/littlelink-server/.git/info/exclude: Copied (new)
+2025/01/27 19:32:11 INFO  : Linux/VIM/tutorial_dots/.git/packed-refs: Copied (new)
+2025/01/27 19:32:11 INFO  : Linux/littlelink-server/www/css/normalize.css: Copied (new)
+2025/01/27 19:32:12 INFO  : Linux/littlelink-server/www/css/skeleton-dark.css: Copied (new)
+2025/01/27 19:32:12 INFO  : Linux/littlelink-server/www/css/brands.css: Copied (new)
+2025/01/27 19:32:12 INFO  : Linux/littlelink-server/www/css/skeleton-light.css: Copied (new)
+2025/01/27 19:32:13 INFO  : Linux/littlelink-server/www/icons/email.svg: Copied (new)
+2025/01/27 19:32:13 INFO  : Linux/littlelink-server/www/icons/discord.svg: Copied (new)
+2025/01/27 19:32:13 INFO  : Linux/littlelink-server/www/icons/email_alt.svg: Copied (new)
+2025/01/27 19:32:13 INFO  : Linux/littlelink-server/www/icons/facebook.svg: Copied (new)
+2025/01/27 19:32:14 INFO  : Linux/littlelink-server/www/icons/figma.svg: Copied (new)
+2025/01/27 19:32:14 INFO  : Linux/littlelink-server/www/icons/github.svg: Copied (new)
+2025/01/27 19:32:14 INFO  : Linux/littlelink-server/www/icons/goodreads.svg: Copied (new)
+2025/01/27 19:32:14 INFO  : Linux/littlelink-server/www/icons/instagram.svg: Copied (new)
+2025/01/27 19:32:15 INFO  : Linux/littlelink-server/www/icons/kit.svg: Copied (new)
+2025/01/27 19:32:15 INFO  : Linux/littlelink-server/www/icons/linkedin.svg: Copied (new)
+2025/01/27 19:32:15 INFO  : Linux/littlelink-server/www/icons/mastodon.svg: Copied (new)
+2025/01/27 19:32:16 INFO  : Linux/littlelink-server/www/icons/medium.svg: Copied (new)
+2025/01/27 19:32:16 INFO  : Linux/littlelink-server/www/icons/microblog.svg: Copied (new)
+2025/01/27 19:32:16 INFO  : Linux/littlelink-server/www/icons/pinterest.svg: Copied (new)
+2025/01/27 19:32:16 INFO  : Linux/littlelink-server/www/icons/messenger.svg: Copied (new)
+2025/01/27 19:32:17 INFO  : Linux/littlelink-server/www/icons/producthunt.svg: Copied (new)
+2025/01/27 19:32:17 INFO  : Linux/littlelink-server/www/icons/skoob.svg: Copied (new)
+2025/01/27 19:32:17 INFO  : Linux/littlelink-server/www/icons/reddit.svg: Copied (new)
+2025/01/27 19:32:17 INFO  : Linux/littlelink-server/www/icons/snapchat.svg: Copied (new)
+2025/01/27 19:32:18 INFO  : Linux/littlelink-server/www/icons/spotify.svg: Copied (new)
+2025/01/27 19:32:18 INFO  : Linux/littlelink-server/www/icons/steam.svg: Copied (new)
+2025/01/27 19:32:18 INFO  : Linux/littlelink-server/www/icons/soundcloud.svg: Copied (new)
+2025/01/27 19:32:18 INFO  : Linux/littlelink-server/www/icons/telegram.svg: Copied (new)
+2025/01/27 19:32:19 INFO  : Linux/littlelink-server/www/icons/tiktok.svg: Copied (new)
+2025/01/27 19:32:19 INFO  : Linux/littlelink-server/www/icons/twitch.svg: Copied (new)
+2025/01/27 19:32:20 INFO  : Linux/littlelink-server/www/icons/vimeo.svg: Copied (new)
+2025/01/27 19:32:20 INFO  : Linux/littlelink-server/www/icons/twitter.svg: Copied (new)
+2025/01/27 19:32:20 INFO  : Linux/littlelink-server/www/icons/tumblr.svg: Copied (new)
+2025/01/27 19:32:20 INFO  : Linux/littlelink-server/www/icons/wordpress.svg: Copied (new)
+2025/01/27 19:32:21 INFO  : Linux/littlelink-server/www/icons/youtube.svg: Copied (new)
+2025/01/27 19:32:21 INFO  : Linux/littlelink-server/www/icons/whatsapp.svg: Copied (new)
+2025/01/27 19:32:21 INFO  : Linux/littlelink-server/.github/workflows/main.yml: Copied (new)
+2025/01/27 19:32:21 INFO  : Linux/littlelink-server/.github/workflows/pull-request.yml: Copied (new)
+2025/01/27 19:32:22 INFO  : Linux/littlelink-server/www/images/nuxlogo.png: Copied (new)
+2025/01/27 19:32:22 INFO  : Linux/Latex/CV/cv_14/cv-sections/committees.tex: Copied (new)
+2025/01/27 19:32:22 INFO  : Linux/Latex/CV/cv_14/cv-sections/education.tex: Copied (new)
+2025/01/27 19:32:22 INFO  : Linux/Latex/CV/cv_14/cv-sections/experience.tex: Copied (new)
+2025/01/27 19:32:23 INFO  : Linux/Latex/CV/cv_14/cv-sections/extracurricular.tex: Copied (new)
+2025/01/27 19:32:23 INFO  : Linux/Latex/CV/cv_14/cv-sections/honors.tex: Copied (new)
+2025/01/27 19:32:23 INFO  : Linux/Latex/CV/cv_14/cv-sections/skills.tex: Copied (new)
+2025/01/27 19:32:23 INFO  : Linux/Latex/CV/cv_14/cv-sections/writing.tex: Copied (new)
+2025/01/27 19:32:23 INFO  : Linux/Latex/CV/cv_14/cv-sections/presentation.tex: Copied (new)
+2025/01/27 19:32:24 INFO  : Linux/Latex/CV/cv_14/fonts/FontAwesome.otf: Copied (new)
+2025/01/27 19:32:24 INFO  : Linux/Latex/CV/cv_14/fonts/Roboto-BoldItalic.ttf: Copied (new)
+2025/01/27 19:32:24 INFO  : Linux/Latex/CV/cv_14/fonts/Roboto-Italic.ttf: Copied (new)
+2025/01/27 19:32:24 INFO  : Linux/Latex/CV/cv_14/fonts/Roboto-Light.ttf: Copied (new)
+2025/01/27 19:32:25 INFO  : Linux/Latex/CV/cv_14/fonts/Roboto-LightItalic.ttf: Copied (new)
+2025/01/27 19:32:25 INFO  : Linux/Latex/CV/cv_14/fonts/Roboto-Bold.ttf: Copied (new)
+2025/01/27 19:32:25 INFO  : Linux/Latex/CV/cv_14/fonts/Roboto-MediumItalic.ttf: Copied (new)
+2025/01/27 19:32:25 INFO  : Linux/Latex/CV/cv_14/fonts/Roboto-Medium.ttf: Copied (new)
+2025/01/27 19:32:26 INFO  : Linux/Latex/CV/cv_14/fonts/Roboto-Thin.ttf: Copied (new)
+2025/01/27 19:32:26 INFO  : Linux/Latex/CV/cv_14/fonts/Roboto-Regular.ttf: Copied (new)
+2025/01/27 19:32:28 INFO  : Linux/Latex/CV/cv_14/fonts/SourceSansPro-It.otf: Copied (new)
+2025/01/27 19:32:28 INFO  : Linux/Latex/CV/cv_14/fonts/Roboto-ThinItalic.ttf: Copied (new)
+2025/01/27 19:32:28 INFO  : Linux/Latex/CV/cv_14/fonts/SourceSansPro-Light.otf: Copied (new)
+2025/01/27 19:32:32 INFO  : Linux/Latex/CV/cv_14/fonts/SourceSansPro-LightIt.otf: Copied (new)
+2025/01/27 19:32:32 INFO  : Linux/Latex/CV/cv_14/fonts/SourceSansPro-Semibold.otf: Copied (new)
+2025/01/27 19:32:33 INFO  : Linux/Latex/CV/cv_14/fonts/SourceSansPro-BoldIt.otf: Copied (new)
+2025/01/27 19:32:33 INFO  : Linux/Latex/CV/cv_14/fonts/SourceSansPro-Regular.otf: Copied (new)
+2025/01/27 19:32:34 INFO  : Linux/VIM/tutorial_dots/cpp2/src/main.cpp: Copied (new)
+2025/01/27 19:32:34 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/CMakeCache.txt: Copied (new)
+2025/01/27 19:32:34 INFO  : Linux/Latex/CV/cv_14/fonts/SourceSansPro-SemiboldIt.otf: Copied (new)
+2025/01/27 19:32:35 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/compile_commands.json: Copied (new)
+2025/01/27 19:32:35 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/cmake_install.cmake: Copied (new)
+2025/01/27 19:32:35 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/Makefile: Copied (new)
+2025/01/27 19:32:35 INFO  : Linux/VIM/tutorial_dots/cpp2/include/Blah.h: Copied (new)
+2025/01/27 19:32:36 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/hello: Copied (new)
+2025/01/27 19:32:36 INFO  : Linux/VIM/tutorial_dots/cpp2/tst/BlahTest.cpp: Copied (new)
+2025/01/27 19:32:36 INFO  : Linux/VIM/tutorial_dots/cpp2/tst/CMakeLists.txt: Copied (new)
+2025/01/27 19:32:37 INFO  : Linux/VIM/tutorial_dots/vimwiki_2/nvim/init.vim: Copied (new)
+2025/01/27 19:32:37 INFO  : Linux/VIM/tutorial_dots/cpp2/tst/main.cpp: Copied (new)
+2025/01/27 19:32:37 INFO  : Linux/VIM/tutorial_dots/.git/info/exclude: Copied (new)
+2025/01/27 19:32:37 INFO  : Linux/VIM/tutorial_dots/.git/hooks/applypatch-msg.sample: Copied (new)
+2025/01/27 19:32:37 INFO  : Linux/VIM/tutorial_dots/.git/hooks/commit-msg.sample: Copied (new)
+2025/01/27 19:32:38 INFO  : Linux/VIM/tutorial_dots/.git/hooks/fsmonitor-watchman.sample: Copied (new)
+2025/01/27 19:32:38 INFO  : Linux/VIM/tutorial_dots/.git/hooks/pre-applypatch.sample: Copied (new)
+2025/01/27 19:32:38 INFO  : Linux/VIM/tutorial_dots/.git/hooks/post-update.sample: Copied (new)
+2025/01/27 19:32:38 INFO  : Linux/VIM/tutorial_dots/.git/hooks/pre-commit.sample: Copied (new)
+2025/01/27 19:32:38 INFO  : Linux/VIM/tutorial_dots/.git/hooks/pre-merge-commit.sample: Copied (new)
+2025/01/27 19:32:39 INFO  : Linux/VIM/tutorial_dots/.git/hooks/pre-rebase.sample: Copied (new)
+2025/01/27 19:32:39 INFO  : Linux/VIM/tutorial_dots/.git/hooks/pre-receive.sample: Copied (new)
+2025/01/27 19:32:39 INFO  : Linux/VIM/tutorial_dots/.git/hooks/pre-push.sample: Copied (new)
+2025/01/27 19:32:40 INFO  : Linux/VIM/tutorial_dots/.git/hooks/update.sample: Copied (new)
+2025/01/27 19:32:40 INFO  : Linux/VIM/tutorial_dots/.git/logs/HEAD: Copied (new)
+2025/01/27 19:32:40 INFO  : Linux/VIM/tutorial_dots/.git/hooks/push-to-checkout.sample: Copied (new)
+2025/01/27 19:32:40 INFO  : Linux/VIM/tutorial_dots/.git/hooks/prepare-commit-msg.sample: Copied (new)
+2025/01/27 19:32:40 INFO  : Linux/littlelink-server/.git/objects/pack/pack-657f7f935364d03f5ca47518c9becc469fc71ca1.idx: Copied (new)
+2025/01/27 19:32:40 INFO  : Linux/littlelink-server/.git/objects/pack/pack-657f7f935364d03f5ca47518c9becc469fc71ca1.pack: Copied (new)
+2025/01/27 19:32:41 INFO  : Linux/littlelink-server/.git/refs/heads/master: Copied (new)
+2025/01/27 19:32:41 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/CMakeDirectoryInformation.cmake: Copied (new)
+2025/01/27 19:32:41 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/CMakeError.log: Copied (new)
+2025/01/27 19:32:42 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/CMakeOutput.log: Copied (new)
+2025/01/27 19:32:42 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/TargetDirectories.txt: Copied (new)
+2025/01/27 19:32:42 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/Makefile.cmake: Copied (new)
+2025/01/27 19:32:42 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/Makefile2: Copied (new)
+2025/01/27 19:32:43 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/cmake.check_cache: Copied (new)
+2025/01/27 19:32:43 INFO  : Linux/littlelink-server/.git/logs/refs/heads/master: Copied (new)
+2025/01/27 19:32:43 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/progress.marks: Copied (new)
+2025/01/27 19:32:45 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/libgmock_maind.a: Copied (new)
+2025/01/27 19:32:45 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/libgtest_maind.a: Copied (new)
+2025/01/27 19:32:45 INFO  : Linux/VIM/tutorial_dots/.git/objects/pack/pack-c992d5a0c806a25e561d4d2d73c59d8d8f695dfb.idx: Copied (new)
+2025/01/27 19:32:46 INFO  : Linux/VIM/tutorial_dots/.git/objects/pack/pack-c992d5a0c806a25e561d4d2d73c59d8d8f695dfb.pack: Copied (new)
+2025/01/27 19:32:46 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/tst/cmake_install.cmake: Copied (new)
+2025/01/27 19:32:47 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/tst/Makefile: Copied (new)
+2025/01/27 19:32:47 INFO  : Linux/VIM/tutorial_dots/vimwiki_2/nvim/after/syntax/vimwiki.vim: Copied (new)
+2025/01/27 19:32:47 INFO  : Linux/littlelink-server/.git/refs/remotes/origin/HEAD: Copied (new)
+2025/01/27 19:32:47 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/tst/hello_tst: Copied (new)
+2025/01/27 19:32:48 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/3.19.2/CMakeCCompiler.cmake: Copied (new)
+2025/01/27 19:32:48 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/3.19.2/CMakeCXXCompiler.cmake: Copied (new)
+2025/01/27 19:32:48 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/libgtestd.a: Copied (new)
+2025/01/27 19:32:48 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_C.bin: Copied (new)
+2025/01/27 19:32:49 INFO  : Linux/littlelink-server/.git/logs/refs/remotes/origin/HEAD: Copied (new)
+2025/01/27 19:32:49 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_CXX.bin: Copied (new)
+2025/01/27 19:32:49 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/3.19.2/CMakeSystem.cmake: Copied (new)
+2025/01/27 19:32:49 INFO  : Linux/VIM/tutorial_dots/.git/refs/heads/main: Copied (new)
+2025/01/27 19:32:50 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/hello.dir/DependInfo.cmake: Copied (new)
+2025/01/27 19:32:50 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/hello.dir/build.make: Copied (new)
+2025/01/27 19:32:50 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/hello.dir/CXX.includecache: Copied (new)
+2025/01/27 19:32:50 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/hello.dir/cmake_clean.cmake: Copied (new)
+2025/01/27 19:32:51 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/hello.dir/depend.internal: Copied (new)
+2025/01/27 19:32:51 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/hello.dir/depend.make: Copied (new)
+2025/01/27 19:32:51 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/hello.dir/flags.make: Copied (new)
+2025/01/27 19:32:51 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/hello.dir/link.txt: Copied (new)
+2025/01/27 19:32:52 INFO  : Linux/VIM/tutorial_dots/.git/logs/refs/heads/main: Copied (new)
+2025/01/27 19:32:52 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/Makefile: Copied (new)
+2025/01/27 19:32:52 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/hello.dir/progress.make: Copied (new)
+2025/01/27 19:32:53 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/CTestTestfile.cmake: Copied (new)
+2025/01/27 19:32:53 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/3.19.2/CompilerIdC/a.out: Copied (new)
+2025/01/27 19:32:53 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c: Copied (new)
+2025/01/27 19:32:53 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/cmake_install.cmake: Copied (new)
+2025/01/27 19:32:54 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/CMakeDirectoryInformation.cmake: Copied (new)
+2025/01/27 19:32:54 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/3.19.2/CompilerIdCXX/a.out: Copied (new)
+2025/01/27 19:32:54 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp: Copied (new)
+2025/01/27 19:32:54 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/progress.marks: Copied (new)
+2025/01/27 19:32:55 INFO  : Linux/VIM/tutorial_dots/.git/refs/remotes/origin/HEAD: Copied (new)
+2025/01/27 19:32:55 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/hello.dir/src/main.cpp.o: Copied (new)
+2025/01/27 19:32:55 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_run.dir/DependInfo.cmake: Copied (new)
+2025/01/27 19:32:55 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_run.dir/build.make: Copied (new)
+2025/01/27 19:32:56 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_run.dir/depend.make: Copied (new)
+2025/01/27 19:32:56 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_run.dir/cmake_clean.cmake: Copied (new)
+2025/01/27 19:32:56 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_run.dir/link.txt: Copied (new)
+2025/01/27 19:32:56 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_run.dir/flags.make: Copied (new)
+2025/01/27 19:32:57 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CTestTestfile.cmake: Copied (new)
+2025/01/27 19:32:57 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_run.dir/progress.make: Copied (new)
+2025/01/27 19:32:57 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/Makefile: Copied (new)
+2025/01/27 19:32:59 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/CMakeFiles/progress.marks: Copied (new)
+2025/01/27 19:32:59 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/CMakeFiles/CMakeDirectoryInformation.cmake: Copied (new)
+2025/01/27 19:32:59 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/cmake_install.cmake: Copied (new)
+2025/01/27 19:32:59 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CTestTestfile.cmake: Copied (new)
+2025/01/27 19:32:59 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/Makefile: Copied (new)
+2025/01/27 19:32:59 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/cmake_install.cmake: Copied (new)
+2025/01/27 19:33:00 INFO  : Linux/VIM/tutorial_dots/.git/logs/refs/remotes/origin/HEAD: Copied (new)
+2025/01/27 19:33:00 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_lib.dir/CXX.includecache: Copied (new)
+2025/01/27 19:33:00 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_lib.dir/DependInfo.cmake: Copied (new)
+2025/01/27 19:33:00 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_lib.dir/build.make: Copied (new)
+2025/01/27 19:33:01 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_lib.dir/cmake_clean.cmake: Copied (new)
+2025/01/27 19:33:01 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_lib.dir/cmake_clean_target.cmake: Copied (new)
+2025/01/27 19:33:01 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_lib.dir/depend.internal: Copied (new)
+2025/01/27 19:33:01 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_lib.dir/flags.make: Copied (new)
+2025/01/27 19:33:02 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_lib.dir/link.txt: Copied (new)
+2025/01/27 19:33:02 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_tst.dir/CXX.includecache: Copied (new)
+2025/01/27 19:33:02 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_lib.dir/depend.make: Copied (new)
+2025/01/27 19:33:03 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_lib.dir/progress.make: Copied (new)
+2025/01/27 19:33:03 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_tst.dir/DependInfo.cmake: Copied (new)
+2025/01/27 19:33:03 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_tst.dir/cmake_clean.cmake: Copied (new)
+2025/01/27 19:33:04 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_tst.dir/build.make: Copied (new)
+2025/01/27 19:33:04 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_tst.dir/depend.internal: Copied (new)
+2025/01/27 19:33:04 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_tst.dir/flags.make: Copied (new)
+2025/01/27 19:33:04 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_tst.dir/depend.make: Copied (new)
+2025/01/27 19:33:05 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_tst.dir/progress.make: Copied (new)
+2025/01/27 19:33:05 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_tst.dir/link.txt: Copied (new)
+2025/01/27 19:33:05 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/CMakeDirectoryInformation.cmake: Copied (new)
+2025/01/27 19:33:05 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_tst.dir/main.cpp.o: Copied (new)
+2025/01/27 19:33:07 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/progress.marks: Copied (new)
+2025/01/27 19:33:07 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/CMakeDirectoryInformation.cmake: Copied (new)
+2025/01/27 19:33:07 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/progress.marks: Copied (new)
+2025/01/27 19:33:07 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/generated/GTestConfig.cmake: Copied (new)
+2025/01/27 19:33:07 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/generated/GTestConfigVersion.cmake: Copied (new)
+2025/01/27 19:33:08 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/generated/gmock.pc: Copied (new)
+2025/01/27 19:33:08 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/generated/gtest_main.pc: Copied (new)
+2025/01/27 19:33:08 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/generated/gtest.pc: Copied (new)
+2025/01/27 19:33:08 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/CXX.includecache: Copied (new)
+2025/01/27 19:33:09 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/generated/gmock_main.pc: Copied (new)
+2025/01/27 19:33:09 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/DependInfo.cmake: Copied (new)
+2025/01/27 19:33:09 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/cmake_clean.cmake: Copied (new)
+2025/01/27 19:33:10 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/build.make: Copied (new)
+2025/01/27 19:33:10 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/depend.internal: Copied (new)
+2025/01/27 19:33:10 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/cmake_clean_target.cmake: Copied (new)
+2025/01/27 19:33:10 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/depend.make: Copied (new)
+2025/01/27 19:33:11 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/flags.make: Copied (new)
+2025/01/27 19:33:11 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/link.txt: Copied (new)
+2025/01/27 19:33:11 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/progress.make: Copied (new)
+2025/01/27 19:33:11 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock.dir/CXX.includecache: Copied (new)
+2025/01/27 19:33:12 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock.dir/build.make: Copied (new)
+2025/01/27 19:33:12 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock.dir/DependInfo.cmake: Copied (new)
+2025/01/27 19:33:12 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock.dir/cmake_clean_target.cmake: Copied (new)
+2025/01/27 19:33:13 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock.dir/depend.internal: Copied (new)
+2025/01/27 19:33:13 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock.dir/cmake_clean.cmake: Copied (new)
+2025/01/27 19:33:13 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock.dir/flags.make: Copied (new)
+2025/01/27 19:33:13 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock.dir/depend.make: Copied (new)
+2025/01/27 19:33:13 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock.dir/progress.make: Copied (new)
+2025/01/27 19:33:13 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock.dir/link.txt: Copied (new)
+2025/01/27 19:33:13 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest_main.dir/CXX.includecache: Copied (new)
+2025/01/27 19:33:14 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest_main.dir/DependInfo.cmake: Copied (new)
+2025/01/27 19:33:14 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest_main.dir/build.make: Copied (new)
+2025/01/27 19:33:14 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest_main.dir/cmake_clean.cmake: Copied (new)
+2025/01/27 19:33:15 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest_main.dir/cmake_clean_target.cmake: Copied (new)
+2025/01/27 19:33:15 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest_main.dir/depend.internal: Copied (new)
+2025/01/27 19:33:15 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest_main.dir/depend.make: Copied (new)
+2025/01/27 19:33:15 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest_main.dir/flags.make: Copied (new)
+2025/01/27 19:33:16 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest_main.dir/progress.make: Copied (new)
+2025/01/27 19:33:16 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest_main.dir/link.txt: Copied (new)
+2025/01/27 19:33:16 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest.dir/CXX.includecache: Copied (new)
+2025/01/27 19:33:16 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest.dir/DependInfo.cmake: Copied (new)
+2025/01/27 19:33:16 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest.dir/build.make: Copied (new)
+2025/01/27 19:33:17 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest.dir/depend.internal: Copied (new)
+2025/01/27 19:33:17 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest.dir/cmake_clean_target.cmake: Copied (new)
+2025/01/27 19:33:17 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest.dir/cmake_clean.cmake: Copied (new)
+2025/01/27 19:33:17 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest.dir/depend.make: Copied (new)
+2025/01/27 19:33:17 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest.dir/link.txt: Copied (new)
+2025/01/27 19:33:17 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest.dir/flags.make: Copied (new)
+2025/01/27 19:33:18 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest.dir/progress.make: Copied (new)
+2025/01/27 19:33:18 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/Export/lib/cmake/GTest/GTestTargets-debug.cmake: Copied (new)
+2025/01/27 19:33:18 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o: Copied (new)
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/Export/lib/cmake/GTest/GTestTargets.cmake: Copied (new)
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o: Copied (new)
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/Export/lib/cmake/GTest: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/Export/lib/cmake: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/Export/lib: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/src: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest_main.dir/src: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest.dir/src: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock.dir/src: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock.dir: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles/gmock_main.dir: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/Export: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest_main.dir: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles/gtest.dir: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/generated: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock/CMakeFiles: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest/CMakeFiles: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/.git/logs/refs/remotes/origin: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/hello.dir/src: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googletest: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_tst.dir: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/3.19.2/CompilerIdC: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/3.19.2/CompilerIdCXX: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_lib.dir: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/googlemock: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest/CMakeFiles: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles/hello_run.dir: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/.git/logs/refs/remotes: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/hello.dir: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles/3.19.2: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/.git/refs/remotes/origin: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/vimwiki_2/nvim/after/syntax: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/tst/CMakeFiles: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/.git/logs/refs/heads: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/littlelink-server/.git/logs/refs/remotes/origin: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib/googletest: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/lib: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/vimwiki_2/nvim/after: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/.git/objects/info: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/.git/objects/pack: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/.git/logs/refs: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/littlelink-server/.git/logs/refs/heads: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/.git/refs/heads: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/.git/refs/tags: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/littlelink-server/.git/refs/remotes/origin: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/littlelink-server/.git/logs/refs/remotes: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/tst: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug/CMakeFiles: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/.git/refs/remotes: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/Latex/CV/cv_14/fonts: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/Latex/CV/cv_14/cv-sections: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/cpp2/tst: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/.git/branches: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/.git/hooks: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/.git/info: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/.git/logs: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/cpp2/src: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/cpp2/Debug: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/vimwiki_2/nvim: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/.git/objects: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/littlelink-server/.git/logs/refs: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/littlelink-server/.git/objects/info: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/.git/refs: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/littlelink-server/.git/objects/pack: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/littlelink-server/.git/refs/remotes: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/littlelink-server/.git/refs/tags: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/littlelink-server/.git/refs/heads: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/cpp2/include: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/Latex/CV/cv_14: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/Latex/invoice-class/doc: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/cpp2: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/Latex/cv_14/cv-sections: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/Latex/CV/cv_10: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/.git: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/Latex/cv_14/fonts: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/vimwiki_2: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots/tmux: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/Latex/CV/cv_16: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/littlelink-server/.git/branches: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/littlelink-server/.git/refs: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/littlelink-server/www/css: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/littlelink-server/.git/info: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/littlelink-server/.git/logs: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/littlelink-server/.git/objects: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/littlelink-server/.github/workflows: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/littlelink-server/www/icons: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/littlelink-server/.git/hooks: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/littlelink-server/www/images: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/Bootstrap/css: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/Latex/cv_14: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/Latex/invoice: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/Latex/cv_16: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/Latex/invoice-class: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/Latex/CV: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/Latex/02_business_card: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/capitulos: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/Bootstrap/img: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/littlelink-server/.github: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/littlelink-server/template: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/mysql/admin_productos: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM/tutorial_dots: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/littlelink-server/.git: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/littlelink-server/www: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Documents/Multas: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Documents/Denuncia_Aliexpress: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/mysql: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/VIM: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/Latex: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/littlelink-server: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/Bootstrap: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux/QEMU-KVM: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Documents: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Finanzas: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Libros: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Drone: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Linux: Updated directory metadata
+2025/01/27 19:33:19 INFO  : Resync updating listings
+2025/01/27 19:33:19 INFO  : Validating listings for Path1 "VDrive{YoXec}:/" vs Path2 "/mnt/gdrive/"
+2025/01/27 19:33:19 INFO  : Bisync successful
+2025/01/27 19:33:19 INFO  : 
+Transferred:   	  678.511 MiB / 678.511 MiB, 100%, 111.157 KiB/s, ETA 0s
+Transferred:          494 / 494, 100%
+Elapsed time:      2m35.3s
+
+2025/01/27 19:38:01 Sync started
+2025/01/27 19:38:02 NOTICE: bisync is IN BETA. Don't use in production!
+2025/01/27 19:38:08 NOTICE: Local file system at /mnt/gdrive: 0 differences found
+2025/01/27 19:38:08 NOTICE: Local file system at /mnt/gdrive: 1 matching files
+2025/01/27 19:38:08 NOTICE: - WARNING           New or changed in both paths                - RCLONE_TEST
+2025/01/27 19:38:09 Sync done
