@@ -41,10 +41,24 @@ local plugins = {
         'mfussenegger/nvim-dap',
         dependencies = {
             'rcarriga/nvim-dap-ui',
+            'mfussenegger/nvim-dap-python',
+            'jay-babu/mason-nvim-dap.nvim',
         },
         config = load_config('lang.dap'),
+        ft = { 'python' },
         cmd = { 'DapUIToggle', 'DapToggleRepl', 'DapToggleBreakpoint' },
     },
+
+    {
+        'puremourning/vimspector', -- Alternativa a nvim-dap para depuración en C/C++
+        cmd = { 'VimspectorInstall', 'VimspectorUpdate' },
+    },
+    {
+        'mfussenegger/nvim-jdtls',
+        config = load_config('lang.jdtls'),
+        ft = { 'java' },
+    },
+
     {
         'nvim-neotest/neotest',
         dependencies = {
@@ -445,10 +459,16 @@ local treesitter_parsers = {
     'vim',
     'vimdoc',
     'yaml',
+    'C',
+    'cpp',
 }
 
 local null_ls_sources = {
     'shellcheck', -- bash lint
+    'cpplint', -- Linter para C y C++
+    'black', -- Formateador
+    'isort', -- ordenador de importaciones
+    'shfmt',
 }
 
 local lsp_servers = {
@@ -457,6 +477,8 @@ local lsp_servers = {
     'lua_ls',
     'typos_lsp', -- check typos
     'vimls',
+    'clangd',
+    'pyright', -- alternativa mas potente a pylsp
 }
 
 local util = require('lib.util')
@@ -493,6 +515,13 @@ if util.is_present('gem') then
     table.insert(lsp_servers, 'rubocop')
     table.insert(plugins, ror_nvim)
     table.insert(plugins, vim_rails)
+    table.insert(null_ls_sources, 'black') -- Formateador
+    table.insert(null_ls_sources, 'isort') -- Ordenador de importaciones
+    table.insert(treesitter_parsers, 'c')
+    table.insert(treesitter_parsers, 'cpp')
+    table.insert(null_ls_sources, 'cpplint') -- Linter para C y C++
+    table.insert(lsp_servers, 'clangd') -- LSP para C y C++
+    table.insert(null_ls_sources, 'shfmt') -- Formateador de Bash
 end
 
 if util.is_present('go') then
@@ -509,7 +538,7 @@ end
 
 if util.is_present('pip') then
     table.insert(lsp_servers, 'ruff')
-    table.insert(lsp_servers, 'pylsp')
+    table.insert(lsp_servers, 'pyright')
 end
 
 if util.is_present('mix') then

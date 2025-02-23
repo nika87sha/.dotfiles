@@ -1,9 +1,9 @@
 sw_volume: 100
 audio_device_state:1:pulse audio
 audio_device_state:1:my_fifo
-state: pause
-current: 13
-time: 3.353000
+state: play
+current: 9
+time: 114.715000
 random: 1
 repeat: 0
 single: 0
@@ -64,4 +64,14 @@ playlist_begin
 49:new/Milers d’espurnes feat.Las Migas.ogg
 50:new/TODAY IS THE DAY (Buhos and Mar Lucas.ogg
 51:Extremoduro/Ama, ama, ama y ensancha el alma - Extremoduro.ogg
+52:SUU/Material Sensible/¿Cómo duermes？ [3JaEKoR8s-I].ogg
+53:SUU/Material Sensible/Amor tranquil - Suu [0KjuAc3Ng5Q].ogg
+54:SUU/Material Sensible/Cantando goles - Suu [WxwIIeBqZik].ogg
+55:SUU/Material Sensible/Material sensible - Suu [c8pJB4AiTKQ].ogg
+56:SUU/Material Sensible/Me siento mejor - Suu feat. Éxtasis [d15iU0ijK1o].ogg
+57:SUU/Material Sensible/No t'has vist - Suu [Kyrozs1x51g].ogg
+58:SUU/Material Sensible/Si me estás rondando - Suu [6t3MZRoPqe4].ogg
+59:SUU/Material Sensible/Un poco - Suu [IYDo4Uct_Aw].ogg
+60:SUU/Material Sensible/Una altra vegada - Suu [3OAVTZS9IEQ].ogg
+61:SUU/Material Sensible/Uno de Septiembre - Suu [5Wb1zqUEqaY].ogg
 playlist_end
