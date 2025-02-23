@@ -10,7 +10,7 @@ tmux new-window -t Work -d
 tmux select-window -t Work
 tmux split-window -v -p 50 -t Work:1
 tmux send-keys -t Work:1.0 'zsh' Enter
-tmux send-keys -t Work:1.1 'zi' Enter
+tmux send-keys -t Work:1.1 'zsh' Enter
 tmux send-keys -t Work:2 'ncmpcpp' Enter
 tmux send-keys -t Work:3 'btop' Enter
 tmux send-keys -t Work:4 '/usr/bin/nvim' Enter
