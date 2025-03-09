@@ -228,7 +228,7 @@ export PATH=$JAVA_HOME/bin:$PATH
 
 export PATH=$HOME/.config/composer/vendor:$PATH
 
-export NOTES_DIR=/home/$USER/notas
+export NOTES_DIR=/home/$USER/notes
 
 # Tool configs
 if type dircolors >/dev/null 2>&1; then eval "$(dircolors ~/.dircolors)"; fi

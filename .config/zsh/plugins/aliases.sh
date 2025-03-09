@@ -34,6 +34,44 @@ alias pcp='podman compose ps'
 alias pcl='podman compose logs -f'
 alias pcd='podman compose dowdown'
 
+#Git
+alias gst='git status -sb'
+alias gco='git checkout'
+alias gbr='git branch'
+alias gcm='git commit -m'
+alias gdf='git diff'
+alias glg='git log --oneline --graph --decorate --all'
+alias glf='git log --graph --pretty=format:"%C(red)%h%C(reset) -%C(yellow)%d%C(reset) %s %C(green)(%cr) %C(bold blue)%an%C(reset)"'
+alias glast='git log -1 HEAD'
+alias gunstage='git reset HEAD --'
+alias gamend='git commit --amend --no-edit'
+
+# Alias para logs visuales
+alias ggraph='git log --all --decorate --oneline --graph'
+alias ghist="git log --pretty=format:'%h - %an, %ar : %s'"
+alias gshortlog='git log --pretty=oneline --abbrev-commit'
+alias gtree='git log --graph --decorate --pretty=oneline --abbrev-commit'
+
+# Alias para revertir cambios
+alias gundo='git reset --soft HEAD~1'
+alias gclean='git clean -fd'
+alias gwipe='git reset --hard HEAD'
+alias gfixup='git commit --amend'
+
+# Alias para sincronizar con remoto
+alias gup='git pull --rebase'
+alias gpu='git push'
+alias gsync='git pull --rebase && git push'
+
+# Alias avanzados
+alias galias='git config --global --get-regexp alias'
+alias gwhoami='git config user.name && git config user.email'
+alias gfixperms='git ls-files -z | xargs -0 chmod 644'
+
+# Alias destructivos (¡Úsalos con precaución!)
+alias gfuck='git reset --hard HEAD && git clean -fd'
+alias gfixpush='git commit --amend --no-edit && git push --force'
+
 #Kubernetes
 alias k='kubecolor'
 
@@ -44,6 +82,7 @@ alias fgrep='fgrep --color=auto'
 
 # Media Player
 alias mp='musikcube'
+
 #readable output
 alias df='df -h'
 

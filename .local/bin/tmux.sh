@@ -24,7 +24,7 @@ tmux select-window -t DevOps
 tmux split-window -v -p 50 -t DevOps:1
 tmux send-keys -t DevOps:1 'oxker' Enter
 tmux send-keys -t DevOps:1 'k9s' Enter
-tmux send-keys -t DevOps:2 'nvim +"DBToggle"' Enter
+tmux send-keys -t DevOps:2 '/usr/bin/nvim' Enter
 
 # Attach Session, on the Main window
 tmux attach-session -t Work

@@ -60,6 +60,12 @@ local plugins = {
     },
 
     {
+        'turbio/bracey.vim',
+        build = 'npm install --prefix server',
+        cmd = 'Bracey',
+    },
+
+    {
         'nvim-neotest/neotest',
         dependencies = {
             'nvim-neotest/nvim-nio',
@@ -75,6 +81,13 @@ local plugins = {
         build = 'bash ./install.sh',
         config = load_config('lang.sniprun'),
         cmd = 'SnipRun',
+    },
+
+    {
+        'akinsho/toggleterm.nvim',
+        config = function()
+            require('toggleterm').setup({})
+        end,
     },
     {
         'ThePrimeagen/refactoring.nvim',
@@ -446,6 +459,7 @@ local treesitter_parsers = {
     'gitcommit',
     'go',
     'html',
+    'lemminx',
     'java',
     'javascript',
     'json',

@@ -13783,3 +13783,13 @@ Feb 23 13:24 : player: played "SUU/Universal.ogg"
 Feb 23 13:30 : player: played "new/Milers d’espurnes feat.Las Migas.ogg"
 Feb 23 13:33 : player: played "The Tyets/Èpic Solete/Bailoteo.ogg"
 Feb 23 13:38 : player: played "Buhos/El Dia de la Victoria/Mi Calle Favorita.ogg"
+Feb 23 14:11 : player: played "Buhos/Lluna Plena/Mentides de Plàstic.ogg"
+Feb 23 19:45 : player: played "Buhos/Lluna Plena/Mentides de Plàstic.ogg"
+Feb 28 22:01 : player: played "Buhos/Lluna Plena/Mentides de Plàstic.ogg"
+Mar 01 20:30 : exception: Failed to decode /home/verodg/Musica/Buhos/Lluna Plena/Mentides de Plàstic.ogg; Failed to open '/home/verodg/Musica/Buhos/Lluna Plena/Mentides de Plàstic.ogg': No such file or directory
+Mar 01 20:30 : player: played "Buhos/Lluna Plena/Mentides de Plàstic.ogg"
+Mar 01 20:40 : exception: Failed to decode /home/verodg/Musica/Buhos/Lluna Plena/Mentides de Plàstic.ogg; Failed to open '/home/verodg/Musica/Buhos/Lluna Plena/Mentides de Plàstic.ogg': No such file or directory
+Mar 01 20:40 : player: played "Buhos/Lluna Plena/Mentides de Plàstic.ogg"
+Mar 01 20:48 : exception: Failed to decode /home/verodg/Musica/Buhos/Lluna Plena/Mentides de Plàstic.ogg; Failed to open '/home/verodg/Musica/Buhos/Lluna Plena/Mentides de Plàstic.ogg': No such file or directory
+Mar 01 20:48 : exception: Failed to decode /home/verodg/Musica/Sara Roy/JA NO M'IMPORTA.ogg; Failed to open '/home/verodg/Musica/Sara Roy/JA NO M'IMPORTA.ogg': No such file or directory
+Mar 01 20:48 : player: played "Buhos/Lluna Plena/Mentides de Plàstic.ogg"
