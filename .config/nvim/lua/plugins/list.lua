@@ -59,12 +59,15 @@ local plugins = {
         ft = { 'java' },
     },
 
+<<<<<<< HEAD
     {
         'turbio/bracey.vim',
         build = 'npm install --prefix server',
         cmd = 'Bracey',
     },
 
+=======
+>>>>>>> 95c8fec (update config neovim)
     {
         'nvim-neotest/neotest',
         dependencies = {

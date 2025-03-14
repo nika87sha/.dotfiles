@@ -66,3 +66,6 @@ map('v', '>', '>gv')
 map('i', ',', ',<c-g>u')
 map('i', '.', '.<c-g>u')
 map('i', ';', ';<c-g>u')
+
+--- Personalizados
+map('n', '<leader>rm', ':e ~/notes/2-areas/personal/rutina_mañana.md<CR>', { desc = 'Abrir rutina de la mañana' })

@@ -124,3 +124,14 @@ vim.api.nvim_create_user_command('WriteNoFormat', function()
     -- Re-enable the autoformat autocmd
     enable_autoformat()
 end, {})
+<<<<<<< HEAD
+=======
+
+vim.api.nvim_create_autocmd('VimEnter', {
+    callback = function()
+        if tonumber(os.date('%H')) < 10 then
+            vim.cmd('e ~/notes/2-areas/personal/rutina_mañana.md')
+        end
+    end,
+})
+>>>>>>> 95c8fec (update config neovim)

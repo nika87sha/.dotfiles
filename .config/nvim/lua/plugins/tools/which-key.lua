@@ -2,7 +2,11 @@ local which_key = require('which-key')
 local icons = require('lib.icons')
 
 local setup = {
+<<<<<<< HEAD
     preset = 'modern',
+=======
+    preset = 'classic',
+>>>>>>> 95c8fec (update config neovim)
     plugins = {
         marks = true,
         registers = true,
@@ -36,7 +40,11 @@ local setup = {
         height = { min = 5, max = 25 },
         padding = { 1, 2 },
         title = true,
+<<<<<<< HEAD
         title_pos = 'center',
+=======
+        title_pos = 'right',
+>>>>>>> 95c8fec (update config neovim)
         zindex = 1000,
         wo = {
             winblend = 10,
@@ -45,7 +53,11 @@ local setup = {
     layout = {
         width = { min = 20 },
         spacing = 6,
+<<<<<<< HEAD
         align = 'center',
+=======
+        align = 'right',
+>>>>>>> 95c8fec (update config neovim)
     },
     show_help = false,
     show_keys = true,
