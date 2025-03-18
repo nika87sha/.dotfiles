@@ -13793,3 +13793,740 @@ Mar 01 20:40 : player: played "Buhos/Lluna Plena/Mentides de Plàstic.ogg"
 Mar 01 20:48 : exception: Failed to decode /home/verodg/Musica/Buhos/Lluna Plena/Mentides de Plàstic.ogg; Failed to open '/home/verodg/Musica/Buhos/Lluna Plena/Mentides de Plàstic.ogg': No such file or directory
 Mar 01 20:48 : exception: Failed to decode /home/verodg/Musica/Sara Roy/JA NO M'IMPORTA.ogg; Failed to open '/home/verodg/Musica/Sara Roy/JA NO M'IMPORTA.ogg': No such file or directory
 Mar 01 20:48 : player: played "Buhos/Lluna Plena/Mentides de Plàstic.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/La Fuga/Calles de papel/01. En vela.ogg; Failed to open '/home/vduran/Musica/La Fuga/Calles de papel/01. En vela.ogg': No such file or directory
+Mar 18 15:55 : player: played "La Fuga/Calles de papel/01. En vela.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/La Fuga/Calles de papel/02. Despacito.ogg; Failed to open '/home/vduran/Musica/La Fuga/Calles de papel/02. Despacito.ogg': No such file or directory
+Mar 18 15:55 : player: played "La Fuga/Calles de papel/02. Despacito.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/La Fuga/en directo/04. Majareta.mp3; Failed to open '/home/vduran/Musica/La Fuga/en directo/04. Majareta.mp3': No such file or directory
+Mar 18 15:55 : player: played "La Fuga/en directo/04. Majareta.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/La Fuga/Calles de papel/04. Majareta.ogg; Failed to open '/home/vduran/Musica/La Fuga/Calles de papel/04. Majareta.ogg': No such file or directory
+Mar 18 15:55 : player: played "La Fuga/Calles de papel/04. Majareta.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/La Fuga/en directo/05. El manual.mp3; Failed to open '/home/vduran/Musica/La Fuga/en directo/05. El manual.mp3': No such file or directory
+Mar 18 15:55 : player: played "La Fuga/en directo/05. El manual.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/La Fuga/Calles de papel/05. El manual.ogg; Failed to open '/home/vduran/Musica/La Fuga/Calles de papel/05. El manual.ogg': No such file or directory
+Mar 18 15:55 : player: played "La Fuga/Calles de papel/05. El manual.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/La Fuga/en directo/06. Hasta nunca.mp3; Failed to open '/home/vduran/Musica/La Fuga/en directo/06. Hasta nunca.mp3': No such file or directory
+Mar 18 15:55 : player: played "La Fuga/en directo/06. Hasta nunca.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/La Fuga/Calles de papel/06. Hasta nunca.ogg; Failed to open '/home/vduran/Musica/La Fuga/Calles de papel/06. Hasta nunca.ogg': No such file or directory
+Mar 18 15:55 : player: played "La Fuga/Calles de papel/06. Hasta nunca.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/La Fuga/Calles de papel/07. Nunca mais.ogg; Failed to open '/home/vduran/Musica/La Fuga/Calles de papel/07. Nunca mais.ogg': No such file or directory
+Mar 18 15:55 : player: played "La Fuga/Calles de papel/07. Nunca mais.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/La Fuga/Calles de papel/08. Conversacion, habitacion.ogg; Failed to open '/home/vduran/Musica/La Fuga/Calles de papel/08. Conversacion, habitacion.ogg': No such file or directory
+Mar 18 15:55 : player: played "La Fuga/Calles de papel/08. Conversacion, habitacion.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/La Fuga/en directo/09. Las olas.mp3; Failed to open '/home/vduran/Musica/La Fuga/en directo/09. Las olas.mp3': No such file or directory
+Mar 18 15:55 : player: played "La Fuga/en directo/09. Las olas.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/La Fuga/Calles de papel/09. Las olas.ogg; Failed to open '/home/vduran/Musica/La Fuga/Calles de papel/09. Las olas.ogg': No such file or directory
+Mar 18 15:55 : player: played "La Fuga/Calles de papel/09. Las olas.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/La Fuga/en directo/10. Balada del despertador.mp3; Failed to open '/home/vduran/Musica/La Fuga/en directo/10. Balada del despertador.mp3': No such file or directory
+Mar 18 15:55 : player: played "La Fuga/en directo/10. Balada del despertador.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/La Fuga/Calles de papel/10. Balada del despertador.ogg; Failed to open '/home/vduran/Musica/La Fuga/Calles de papel/10. Balada del despertador.ogg': No such file or directory
+Mar 18 15:55 : player: played "La Fuga/Calles de papel/10. Balada del despertador.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Electronica/Miss Monique /1001Tracklists Miami Rooftop Sessions.ogg; Failed to open '/home/vduran/Musica/Electronica/Miss Monique /1001Tracklists Miami Rooftop Sessions.ogg': No such file or directory
+Mar 18 15:55 : player: played "Electronica/Miss Monique /1001Tracklists Miami Rooftop Sessions.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/La Fuga/en directo/11. Buscando en la basura.mp3; Failed to open '/home/vduran/Musica/La Fuga/en directo/11. Buscando en la basura.mp3': No such file or directory
+Mar 18 15:55 : player: played "La Fuga/en directo/11. Buscando en la basura.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/La Fuga/Calles de papel/11. Buscando en la basura.ogg; Failed to open '/home/vduran/Musica/La Fuga/Calles de papel/11. Buscando en la basura.ogg': No such file or directory
+Mar 18 15:55 : player: played "La Fuga/Calles de papel/11. Buscando en la basura.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/La Fuga/en directo/12. Los de siempre.mp3; Failed to open '/home/vduran/Musica/La Fuga/en directo/12. Los de siempre.mp3': No such file or directory
+Mar 18 15:55 : player: played "La Fuga/en directo/12. Los de siempre.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/La Fuga/Calles de papel/12. Los de siempre.ogg; Failed to open '/home/vduran/Musica/La Fuga/Calles de papel/12. Los de siempre.ogg': No such file or directory
+Mar 18 15:55 : player: played "La Fuga/Calles de papel/12. Los de siempre.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/La Fuga/en directo/13. Baja por diversion.mp3; Failed to open '/home/vduran/Musica/La Fuga/en directo/13. Baja por diversion.mp3': No such file or directory
+Mar 18 15:55 : player: played "La Fuga/en directo/13. Baja por diversion.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/La Fuga/Calles de papel/13. Baja por diversion.ogg; Failed to open '/home/vduran/Musica/La Fuga/Calles de papel/13. Baja por diversion.ogg': No such file or directory
+Mar 18 15:55 : player: played "La Fuga/Calles de papel/13. Baja por diversion.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/La Fuga/en directo/15. Miguel.mp3; Failed to open '/home/vduran/Musica/La Fuga/en directo/15. Miguel.mp3': No such file or directory
+Mar 18 15:55 : player: played "La Fuga/en directo/15. Miguel.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/La Fuga/Calles de papel/15. Miguel.ogg; Failed to open '/home/vduran/Musica/La Fuga/Calles de papel/15. Miguel.ogg': No such file or directory
+Mar 18 15:55 : player: played "La Fuga/Calles de papel/15. Miguel.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/La Fuga/en directo/16. Por verte sonreir.mp3; Failed to open '/home/vduran/Musica/La Fuga/en directo/16. Por verte sonreir.mp3': No such file or directory
+Mar 18 15:55 : player: played "La Fuga/en directo/16. Por verte sonreir.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/La Fuga/Calles de papel/16. Por verte sonreir.ogg; Failed to open '/home/vduran/Musica/La Fuga/Calles de papel/16. Por verte sonreir.ogg': No such file or directory
+Mar 18 15:55 : player: played "La Fuga/Calles de papel/16. Por verte sonreir.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/La Fuga/en directo/17. Pa volar.mp3; Failed to open '/home/vduran/Musica/La Fuga/en directo/17. Pa volar.mp3': No such file or directory
+Mar 18 15:55 : player: played "La Fuga/en directo/17. Pa volar.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/La Fuga/Calles de papel/17. Pa volar.ogg; Failed to open '/home/vduran/Musica/La Fuga/Calles de papel/17. Pa volar.ogg': No such file or directory
+Mar 18 15:55 : player: played "La Fuga/Calles de papel/17. Pa volar.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/La Fuga/en directo/18. P'aqui, p'alla.mp3; Failed to open '/home/vduran/Musica/La Fuga/en directo/18. P'aqui, p'alla.mp3': No such file or directory
+Mar 18 15:55 : player: played "La Fuga/en directo/18. P'aqui, p'alla.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/La Fuga/Calles de papel/18. P'aqui, p'alla.ogg; Failed to open '/home/vduran/Musica/La Fuga/Calles de papel/18. P'aqui, p'alla.ogg': No such file or directory
+Mar 18 15:55 : player: played "La Fuga/Calles de papel/18. P'aqui, p'alla.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Buhos/altres/193815885_350599590135508_3682482992426389175_n.mp4; Failed to open '/home/vduran/Musica/Buhos/altres/193815885_350599590135508_3682482992426389175_n.mp4': No such file or directory
+Mar 18 15:55 : player: played "Buhos/altres/193815885_350599590135508_3682482992426389175_n.mp4"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Buhos/altres/226553062_896689274611262_3136098238813373058_n.mp4; Failed to open '/home/vduran/Musica/Buhos/altres/226553062_896689274611262_3136098238813373058_n.mp4': No such file or directory
+Mar 18 15:55 : player: played "Buhos/altres/226553062_896689274611262_3136098238813373058_n.mp4"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Buhos/altres/226624618_372797364260092_8611687522269846181_n.mp4; Failed to open '/home/vduran/Musica/Buhos/altres/226624618_372797364260092_8611687522269846181_n.mp4': No such file or directory
+Mar 18 15:55 : player: played "Buhos/altres/226624618_372797364260092_8611687522269846181_n.mp4"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Buhos/altres/79563126_597819784898345_4205729471901724363_n.mp4; Failed to open '/home/vduran/Musica/Buhos/altres/79563126_597819784898345_4205729471901724363_n.mp4': No such file or directory
+Mar 18 15:55 : player: played "Buhos/altres/79563126_597819784898345_4205729471901724363_n.mp4"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Zetak/ARALARKO DAMA (LIVE) - ZETAK, Neomak, Kukai [paV7HWtVjCU].ogg; Failed to open '/home/vduran/Musica/Zetak/ARALARKO DAMA (LIVE) - ZETAK, Neomak, Kukai [paV7HWtVjCU].ogg': No such file or directory
+Mar 18 15:55 : player: played "Zetak/ARALARKO DAMA (LIVE) - ZETAK, Neomak, Kukai [paV7HWtVjCU].ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Extremoduro/Ama, ama, ama y ensancha el alma - Extremoduro.ogg; Failed to open '/home/vduran/Musica/Extremoduro/Ama, ama, ama y ensancha el alma - Extremoduro.ogg': No such file or directory
+Mar 18 15:55 : player: played "Extremoduro/Ama, ama, ama y ensancha el alma - Extremoduro.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Electronica/Miss Monique /Amir Telem  Kurukshetra Siona Records 4th Anniversary Mykonos.ogg; Failed to open '/home/vduran/Musica/Electronica/Miss Monique /Amir Telem  Kurukshetra Siona Records 4th Anniversary Mykonos.ogg': No such file or directory
+Mar 18 15:55 : player: played "Electronica/Miss Monique /Amir Telem  Kurukshetra Siona Records 4th Anniversary Mykonos.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/SUU/Material Sensible/Amor tranquil - Suu [0KjuAc3Ng5Q].ogg; Failed to open '/home/vduran/Musica/SUU/Material Sensible/Amor tranquil - Suu [0KjuAc3Ng5Q].ogg': No such file or directory
+Mar 18 15:55 : player: played "SUU/Material Sensible/Amor tranquil - Suu [0KjuAc3Ng5Q].ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Gossos/Altres/Aquelles nits de Nadal.ogg; Failed to open '/home/vduran/Musica/Gossos/Altres/Aquelles nits de Nadal.ogg': No such file or directory
+Mar 18 15:55 : player: played "Gossos/Altres/Aquelles nits de Nadal.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Juanes/La vida es un ratico/14. Bandera De Manos.ogg; Failed to open '/home/vduran/Musica/Juanes/La vida es un ratico/14. Bandera De Manos.ogg': No such file or directory
+Mar 18 15:55 : player: played "Juanes/La vida es un ratico/14. Bandera De Manos.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Juanes/La vida es un ratico/13. Bandera De Manos.ogg; Failed to open '/home/vduran/Musica/Juanes/La vida es un ratico/13. Bandera De Manos.ogg': No such file or directory
+Mar 18 15:55 : player: played "Juanes/La vida es un ratico/13. Bandera De Manos.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Sara Roy/(A)MAR/Barcelona - Sara Roy (A)MAR.mp3; Failed to open '/home/vduran/Musica/Sara Roy/(A)MAR/Barcelona - Sara Roy (A)MAR.mp3': No such file or directory
+Mar 18 15:55 : player: played "Sara Roy/(A)MAR/Barcelona - Sara Roy (A)MAR.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Shakira/Boig per tu-Shakira.ogg; Failed to open '/home/vduran/Musica/Shakira/Boig per tu-Shakira.ogg': No such file or directory
+Mar 18 15:55 : player: played "Shakira/Boig per tu-Shakira.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Shakira/Boig pert tu - Sahkira.mp3; Failed to open '/home/vduran/Musica/Shakira/Boig pert tu - Sahkira.mp3': No such file or directory
+Mar 18 15:55 : player: played "Shakira/Boig pert tu - Sahkira.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Shakira/Boig_per_tu-Shakira.ogg; Failed to open '/home/vduran/Musica/Shakira/Boig_per_tu-Shakira.ogg': No such file or directory
+Mar 18 15:55 : player: played "Shakira/Boig_per_tu-Shakira.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Els Pets/Els Pets/Bombolles.ogg; Failed to open '/home/vduran/Musica/Els Pets/Els Pets/Bombolles.ogg': No such file or directory
+Mar 18 15:55 : player: played "Els Pets/Els Pets/Bombolles.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Buhos/La nit esta que crema/Si em tornes a mirar.ogg; Failed to open '/home/vduran/Musica/Buhos/La nit esta que crema/Si em tornes a mirar.ogg': No such file or directory
+Mar 18 15:55 : player: played "Buhos/La nit esta que crema/Si em tornes a mirar.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Juanes/La vida es un ratico/10. Báilala.ogg; Failed to open '/home/vduran/Musica/Juanes/La vida es un ratico/10. Báilala.ogg': No such file or directory
+Mar 18 15:55 : player: played "Juanes/La vida es un ratico/10. Báilala.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Joan Dausa/CAURE NO FEIA  MAL - JOAN DAUSÀ & SANTI BALMES.ogg; Failed to open '/home/vduran/Musica/Joan Dausa/CAURE NO FEIA  MAL - JOAN DAUSÀ & SANTI BALMES.ogg': No such file or directory
+Mar 18 15:55 : player: played "Joan Dausa/CAURE NO FEIA  MAL - JOAN DAUSÀ & SANTI BALMES.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Els Catarres/ordenar/COR (2023).ogg; Failed to open '/home/vduran/Musica/Els Catarres/ordenar/COR (2023).ogg': No such file or directory
+Mar 18 15:55 : player: played "Els Catarres/ordenar/COR (2023).ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/SUU/Material Sensible/Cantando goles - Suu [WxwIIeBqZik].ogg; Failed to open '/home/vduran/Musica/SUU/Material Sensible/Cantando goles - Suu [WxwIIeBqZik].ogg': No such file or directory
+Mar 18 15:55 : player: played "SUU/Material Sensible/Cantando goles - Suu [WxwIIeBqZik].ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Carlos Vives/Carlos Vives - Robarte un Beso.ogg; Failed to open '/home/vduran/Musica/Carlos Vives/Carlos Vives - Robarte un Beso.ogg': No such file or directory
+Mar 18 15:55 : player: played "Carlos Vives/Carlos Vives - Robarte un Beso.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Juanes/La vida es un ratico/2. Clase de Amor.ogg; Failed to open '/home/vduran/Musica/Juanes/La vida es un ratico/2. Clase de Amor.ogg': No such file or directory
+Mar 18 15:55 : player: played "Juanes/La vida es un ratico/2. Clase de Amor.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Sara Roy/(A)MAR/Comptant les hores - Sara Roy (A)MAR.ogg; Failed to open '/home/vduran/Musica/Sara Roy/(A)MAR/Comptant les hores - Sara Roy (A)MAR.ogg': No such file or directory
+Mar 18 15:55 : player: played "Sara Roy/(A)MAR/Comptant les hores - Sara Roy (A)MAR.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Buhos/Concert Buhos al Calafell Beach Festival.ogg; Failed to open '/home/vduran/Musica/Buhos/Concert Buhos al Calafell Beach Festival.ogg': No such file or directory
+Mar 18 15:55 : player: played "Buhos/Concert Buhos al Calafell Beach Festival.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Sopa De Cabra/Concert fi de gira Ben Endins al Sant Jordi - Sopa de cabra.ogg; Failed to open '/home/vduran/Musica/Sopa De Cabra/Concert fi de gira Ben Endins al Sant Jordi - Sopa de cabra.ogg': No such file or directory
+Mar 18 15:55 : player: played "Sopa De Cabra/Concert fi de gira Ben Endins al Sant Jordi - Sopa de cabra.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Gossos/Altres/Conte de Nova York.ogg; Failed to open '/home/vduran/Musica/Gossos/Altres/Conte de Nova York.ogg': No such file or directory
+Mar 18 15:55 : player: played "Gossos/Altres/Conte de Nova York.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Mago de Oz/Desde mi Cielo-Mägo de Oz (con lyrics-letra)-TfON7j0Y_yw.ogg; Failed to open '/home/vduran/Musica/Mago de Oz/Desde mi Cielo-Mägo de Oz (con lyrics-letra)-TfON7j0Y_yw.ogg': No such file or directory
+Mar 18 15:55 : player: played "Mago de Oz/Desde mi Cielo-Mägo de Oz (con lyrics-letra)-TfON7j0Y_yw.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Els Catarres/Invencibles/Diamants.ogg; Failed to open '/home/vduran/Musica/Els Catarres/Invencibles/Diamants.ogg': No such file or directory
+Mar 18 15:55 : player: played "Els Catarres/Invencibles/Diamants.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Juanes/La vida es un ratico/11. Difícil.ogg; Failed to open '/home/vduran/Musica/Juanes/La vida es un ratico/11. Difícil.ogg': No such file or directory
+Mar 18 15:55 : player: played "Juanes/La vida es un ratico/11. Difícil.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Electronica/Tasha&Co/ESPECTACULAR ANIVERSARIO MAKINEROS 90.ogg; Failed to open '/home/vduran/Musica/Electronica/Tasha&Co/ESPECTACULAR ANIVERSARIO MAKINEROS 90.ogg': No such file or directory
+Mar 18 15:55 : player: played "Electronica/Tasha&Co/ESPECTACULAR ANIVERSARIO MAKINEROS 90.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Mago de Oz/El Cantar de la Luna Oscura-Mägo de Oz (con lyrics-letra)-_SRXvD_C75Y.ogg; Failed to open '/home/vduran/Musica/Mago de Oz/El Cantar de la Luna Oscura-Mägo de Oz (con lyrics-letra)-_SRXvD_C75Y.ogg': No such file or directory
+Mar 18 15:55 : player: played "Mago de Oz/El Cantar de la Luna Oscura-Mägo de Oz (con lyrics-letra)-_SRXvD_C75Y.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Electronica/Tasha&Co/El Último MOHICANO- TASHA & Co.ogg; Failed to open '/home/vduran/Musica/Electronica/Tasha&Co/El Último MOHICANO- TASHA & Co.ogg': No such file or directory
+Mar 18 15:55 : player: played "Electronica/Tasha&Co/El Último MOHICANO- TASHA & Co.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Electronica/Miss Monique /Electrifying Set Brunch Electronik OFFSónar 2023.ogg; Failed to open '/home/vduran/Musica/Electronica/Miss Monique /Electrifying Set Brunch Electronik OFFSónar 2023.ogg': No such file or directory
+Mar 18 15:55 : player: played "Electronica/Miss Monique /Electrifying Set Brunch Electronik OFFSónar 2023.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Els Catarres/Els Catarres - COMENÇAR A VIURE [V-7NQoTv7RM].ogg; Failed to open '/home/vduran/Musica/Els Catarres/Els Catarres - COMENÇAR A VIURE [V-7NQoTv7RM].ogg': No such file or directory
+Mar 18 15:55 : player: played "Els Catarres/Els Catarres - COMENÇAR A VIURE [V-7NQoTv7RM].ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Els Catarres/Els Catarres - Fins que arribi l'alba (Live simfònic 2019) [Hu0m6uYSkAA].ogg; Failed to open '/home/vduran/Musica/Els Catarres/Els Catarres - Fins que arribi l'alba (Live simfònic 2019) [Hu0m6uYSkAA].ogg': No such file or directory
+Mar 18 15:55 : player: played "Els Catarres/Els Catarres - Fins que arribi l'alba (Live simfònic 2019) [Hu0m6uYSkAA].ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Els Catarres/Els Catarres Feat Balkan Paradise Orchestra - Rock & Roll [7M_t7doaEio].ogg; Failed to open '/home/vduran/Musica/Els Catarres/Els Catarres Feat Balkan Paradise Orchestra - Rock & Roll [7M_t7doaEio].ogg': No such file or directory
+Mar 18 15:55 : player: played "Els Catarres/Els Catarres Feat Balkan Paradise Orchestra - Rock & Roll [7M_t7doaEio].ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Els Catarres/Els Catarres Feat Escolania de Montserrat - Diamants [m5MynIVNtFc].ogg; Failed to open '/home/vduran/Musica/Els Catarres/Els Catarres Feat Escolania de Montserrat - Diamants [m5MynIVNtFc].ogg': No such file or directory
+Mar 18 15:55 : player: played "Els Catarres/Els Catarres Feat Escolania de Montserrat - Diamants [m5MynIVNtFc].ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Els Catarres/Els Catarres Feat Joan Dausà - Tokyo [jfhcLSKJcjU].ogg; Failed to open '/home/vduran/Musica/Els Catarres/Els Catarres Feat Joan Dausà - Tokyo [jfhcLSKJcjU].ogg': No such file or directory
+Mar 18 15:55 : player: played "Els Catarres/Els Catarres Feat Joan Dausà - Tokyo [jfhcLSKJcjU].ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Els Catarres/Els Catarres Feat Lluís Llach - Un Sostre fet d'Estrelles [sA_y1N8oklU].ogg; Failed to open '/home/vduran/Musica/Els Catarres/Els Catarres Feat Lluís Llach - Un Sostre fet d'Estrelles [sA_y1N8oklU].ogg': No such file or directory
+Mar 18 15:55 : player: played "Els Catarres/Els Catarres Feat Lluís Llach - Un Sostre fet d'Estrelles [sA_y1N8oklU].ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Els Catarres/Els Catarres Feat Stay Homas & Zoo - Vull Estar Amb Tu (2023) [-spVarOHy84].ogg; Failed to open '/home/vduran/Musica/Els Catarres/Els Catarres Feat Stay Homas & Zoo - Vull Estar Amb Tu (2023) [-spVarOHy84].ogg': No such file or directory
+Mar 18 15:55 : player: played "Els Catarres/Els Catarres Feat Stay Homas & Zoo - Vull Estar Amb Tu (2023) [-spVarOHy84].ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Els Pets/Els Catarres Feat Stay Homas & Zoo - Vull Estar Amb Tu (2023) [-spVarOHy84].ogg; Failed to open '/home/vduran/Musica/Els Pets/Els Catarres Feat Stay Homas & Zoo - Vull Estar Amb Tu (2023) [-spVarOHy84].ogg': No such file or directory
+Mar 18 15:55 : player: played "Els Pets/Els Catarres Feat Stay Homas & Zoo - Vull Estar Amb Tu (2023) [-spVarOHy84].ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Els Catarres/Els Catarres Feat ZETAK - Invencibles [pk1heblGS9I].ogg; Failed to open '/home/vduran/Musica/Els Catarres/Els Catarres Feat ZETAK - Invencibles [pk1heblGS9I].ogg': No such file or directory
+Mar 18 15:55 : player: played "Els Catarres/Els Catarres Feat ZETAK - Invencibles [pk1heblGS9I].ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Els Catarres/Els Catarres Ft Xavi Sarrià, La Fúmiga, Smoking Souls, El Diluvi i La Gossa Sorda - En Peu de Guerra [cXOax_0Tmyw].ogg; Failed to open '/home/vduran/Musica/Els Catarres/Els Catarres Ft Xavi Sarrià, La Fúmiga, Smoking Souls, El Diluvi i La Gossa Sorda - En Peu de Guerra [cXOax_0Tmyw].ogg': No such file or directory
+Mar 18 15:55 : player: played "Els Catarres/Els Catarres Ft Xavi Sarrià, La Fúmiga, Smoking Souls, El Diluvi i La Gossa Sorda - En Peu de Guerra [cXOax_0Tmyw].ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Els Catarres/Els Catarres feat Els Amics de les Arts - Tintín [lp8F9iNfQYo].ogg; Failed to open '/home/vduran/Musica/Els Catarres/Els Catarres feat Els Amics de les Arts - Tintín [lp8F9iNfQYo].ogg': No such file or directory
+Mar 18 15:55 : player: played "Els Catarres/Els Catarres feat Els Amics de les Arts - Tintín [lp8F9iNfQYo].ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Els Catarres/Els Catarres feat Figa Flawas - Jenifer [vFxNLm74wdQ].ogg; Failed to open '/home/vduran/Musica/Els Catarres/Els Catarres feat Figa Flawas - Jenifer [vFxNLm74wdQ].ogg': No such file or directory
+Mar 18 15:55 : player: played "Els Catarres/Els Catarres feat Figa Flawas - Jenifer [vFxNLm74wdQ].ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Els Catarres/Els Catarres feat Sopa de Cabra - La Porta del Cel [SCpckoYbrDU].ogg; Failed to open '/home/vduran/Musica/Els Catarres/Els Catarres feat Sopa de Cabra - La Porta del Cel [SCpckoYbrDU].ogg': No such file or directory
+Mar 18 15:55 : player: played "Els Catarres/Els Catarres feat Sopa de Cabra - La Porta del Cel [SCpckoYbrDU].ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Els Pets/VideoClips/Els Pets - Bocins de tu.avi; Failed to open '/home/vduran/Musica/Els Pets/VideoClips/Els Pets - Bocins de tu.avi': No such file or directory
+Mar 18 15:55 : player: played "Els Pets/VideoClips/Els Pets - Bocins de tu.avi"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/new/Els teus ulls.ogg; Failed to open '/home/vduran/Musica/new/Els teus ulls.ogg': No such file or directory
+Mar 18 15:55 : player: played "new/Els teus ulls.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Els Catarres/Invencibles/En Peu de Guerra.ogg; Failed to open '/home/vduran/Musica/Els Catarres/Invencibles/En Peu de Guerra.ogg': No such file or directory
+Mar 18 15:55 : player: played "Els Catarres/Invencibles/En Peu de Guerra.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Miki Núñez/Iceberg/Escriurem #Joemcorono - Col·lectiva.ogg; Failed to open '/home/vduran/Musica/Miki Núñez/Iceberg/Escriurem #Joemcorono - Col·lectiva.ogg': No such file or directory
+Mar 18 15:55 : player: played "Miki Núñez/Iceberg/Escriurem #Joemcorono - Col·lectiva.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Extremoduro/Extremoduro - La ley innata (completo, letra) [e4Qm4L6pKI4].ogg; Failed to open '/home/vduran/Musica/Extremoduro/Extremoduro - La ley innata (completo, letra) [e4Qm4L6pKI4].ogg': No such file or directory
+Mar 18 15:55 : player: played "Extremoduro/Extremoduro - La ley innata (completo, letra) [e4Qm4L6pKI4].ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Els Catarres/Invencibles/Fins que arribi l'alba (Live simfònic 2019).ogg; Failed to open '/home/vduran/Musica/Els Catarres/Invencibles/Fins que arribi l'alba (Live simfònic 2019).ogg': No such file or directory
+Mar 18 15:55 : player: played "Els Catarres/Invencibles/Fins que arribi l'alba (Live simfònic 2019).ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Electronica/Tasha&Co/GET IT UP - TASHA & CO.ogg; Failed to open '/home/vduran/Musica/Electronica/Tasha&Co/GET IT UP - TASHA & CO.ogg': No such file or directory
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Juanes/La vida es un ratico/6. Gotas de Agua Dulce.ogg; Failed to open '/home/vduran/Musica/Juanes/La vida es un ratico/6. Gotas de Agua Dulce.ogg': No such file or directory
+Mar 18 15:55 : player: played "Electronica/Tasha&Co/GET IT UP - TASHA & CO.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Juanes/La vida es un ratico/6. Gotas de Agua Dulce.ogg; Failed to open '/home/vduran/Musica/Juanes/La vida es un ratico/6. Gotas de Agua Dulce.ogg': No such file or directory
+Mar 18 15:55 : player: played "Juanes/La vida es un ratico/6. Gotas de Agua Dulce.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Electronica/Miss Monique /Haoman 17 TLV for Out Of mind.ogg; Failed to open '/home/vduran/Musica/Electronica/Miss Monique /Haoman 17 TLV for Out Of mind.ogg': No such file or directory
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Mago de Oz/Hasta Que El Cuerpo Aguante-Mägo de Oz (con lyrics-letra)-zTTU8NN2fWA.ogg; Failed to open '/home/vduran/Musica/Mago de Oz/Hasta Que El Cuerpo Aguante-Mägo de Oz (con lyrics-letra)-zTTU8NN2fWA.ogg': No such file or directory
+Mar 18 15:55 : player: played "Electronica/Miss Monique /Haoman 17 TLV for Out Of mind.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Mago de Oz/Hasta Que El Cuerpo Aguante-Mägo de Oz (con lyrics-letra)-zTTU8NN2fWA.ogg; Failed to open '/home/vduran/Musica/Mago de Oz/Hasta Que El Cuerpo Aguante-Mägo de Oz (con lyrics-letra)-zTTU8NN2fWA.ogg': No such file or directory
+Mar 18 15:55 : player: played "Mago de Oz/Hasta Que El Cuerpo Aguante-Mägo de Oz (con lyrics-letra)-zTTU8NN2fWA.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Mago de Oz/Hechizos, pócimas y brujería-iVLRDoMm9Xc.ogg; Failed to open '/home/vduran/Musica/Mago de Oz/Hechizos, pócimas y brujería-iVLRDoMm9Xc.ogg': No such file or directory
+Mar 18 15:55 : player: played "Mago de Oz/Hechizos, pócimas y brujería-iVLRDoMm9Xc.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/El Canto del Loco/Concierto/Hombres G & El Canto del Loco Estadio Vicente Calderon.avi; Failed to open '/home/vduran/Musica/El Canto del Loco/Concierto/Hombres G & El Canto del Loco Estadio Vicente Calderon.avi': No such file or directory
+Mar 18 15:55 : player: played "El Canto del Loco/Concierto/Hombres G & El Canto del Loco Estadio Vicente Calderon.avi"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Juanes/La vida es un ratico/4. Hoy Me Voy.ogg; Failed to open '/home/vduran/Musica/Juanes/La vida es un ratico/4. Hoy Me Voy.ogg': No such file or directory
+Mar 18 15:55 : player: played "Juanes/La vida es un ratico/4. Hoy Me Voy.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Electronica/Tasha&Co/Illogical Simmetry - Tasha & Co.ogg; Failed to open '/home/vduran/Musica/Electronica/Tasha&Co/Illogical Simmetry - Tasha & Co.ogg': No such file or directory
+Mar 18 15:55 : player: played "Electronica/Tasha&Co/Illogical Simmetry - Tasha & Co.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Els Catarres/Invencibles/Invencibles.ogg; Failed to open '/home/vduran/Musica/Els Catarres/Invencibles/Invencibles.ogg': No such file or directory
+Mar 18 15:55 : player: played "Els Catarres/Invencibles/Invencibles.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Els Catarres/Invencibles/Jenifer.ogg; Failed to open '/home/vduran/Musica/Els Catarres/Invencibles/Jenifer.ogg': No such file or directory
+Mar 18 15:55 : player: played "Els Catarres/Invencibles/Jenifer.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Mago de Oz/La Costa Del Silencio-0phlktmU6eo.ogg; Failed to open '/home/vduran/Musica/Mago de Oz/La Costa Del Silencio-0phlktmU6eo.ogg': No such file or directory
+Mar 18 15:55 : player: played "Mago de Oz/La Costa Del Silencio-0phlktmU6eo.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Mago de Oz/La Danza del Fuego-Mägo de Oz (con lyrics-letra)--RaPU2dNo7s.ogg; Failed to open '/home/vduran/Musica/Mago de Oz/La Danza del Fuego-Mägo de Oz (con lyrics-letra)--RaPU2dNo7s.ogg': No such file or directory
+Mar 18 15:55 : player: played "Mago de Oz/La Danza del Fuego-Mägo de Oz (con lyrics-letra)--RaPU2dNo7s.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Electronica/Tasha&Co/La Daurada Beach Club - Tasha & Co.ogg; Failed to open '/home/vduran/Musica/Electronica/Tasha&Co/La Daurada Beach Club - Tasha & Co.ogg': No such file or directory
+Mar 18 15:55 : player: played "Electronica/Tasha&Co/La Daurada Beach Club - Tasha & Co.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/La Fuga/La Fuga - Buscando en la basura (video clip)-SE4SmL_SWU8.ogg; Failed to open '/home/vduran/Musica/La Fuga/La Fuga - Buscando en la basura (video clip)-SE4SmL_SWU8.ogg': No such file or directory
+Mar 18 15:55 : player: played "La Fuga/La Fuga - Buscando en la basura (video clip)-SE4SmL_SWU8.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Juanes/La vida es un ratico/7. La Mejor Parte de Mi.ogg; Failed to open '/home/vduran/Musica/Juanes/La vida es un ratico/7. La Mejor Parte de Mi.ogg': No such file or directory
+Mar 18 15:55 : player: played "Juanes/La vida es un ratico/7. La Mejor Parte de Mi.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Els Catarres/Invencibles/La Porta del Cel.ogg; Failed to open '/home/vduran/Musica/Els Catarres/Invencibles/La Porta del Cel.ogg': No such file or directory
+Mar 18 15:55 : player: played "Els Catarres/Invencibles/La Porta del Cel.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Juanes/La vida es un ratico/5. La Vida es un Ratico.ogg; Failed to open '/home/vduran/Musica/Juanes/La vida es un ratico/5. La Vida es un Ratico.ogg': No such file or directory
+Mar 18 15:55 : player: played "Juanes/La vida es un ratico/5. La Vida es un Ratico.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/La Oreja de Van Gogh/Videoclip/La oreja de van gogh - Concierto basico 40.ogm; Failed to open '/home/vduran/Musica/La Oreja de Van Gogh/Videoclip/La oreja de van gogh - Concierto basico 40.ogm': No such file or directory
+Mar 18 15:55 : player: played "La Oreja de Van Gogh/Videoclip/La oreja de van gogh - Concierto basico 40.ogm"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Electronica/Miss Monique /Live @ Dead Sea.ogg; Failed to open '/home/vduran/Musica/Electronica/Miss Monique /Live @ Dead Sea.ogg': No such file or directory
+Mar 18 15:55 : player: played "Electronica/Miss Monique /Live @ Dead Sea.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Electronica/Miss Monique /Live @ Sunset on a SVET Boat.ogg; Failed to open '/home/vduran/Musica/Electronica/Miss Monique /Live @ Sunset on a SVET Boat.ogg': No such file or directory
+Mar 18 15:55 : player: played "Electronica/Miss Monique /Live @ Sunset on a SVET Boat.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Electronica/Miss Monique /Live @ Tulum, Mexico 2021.ogg; Failed to open '/home/vduran/Musica/Electronica/Miss Monique /Live @ Tulum, Mexico 2021.ogg': No such file or directory
+Mar 18 15:55 : player: played "Electronica/Miss Monique /Live @ Tulum, Mexico 2021.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Electronica/Miss Monique /Live @Atlas Weekend 2020 Virtual Stage.ogg; Failed to open '/home/vduran/Musica/Electronica/Miss Monique /Live @Atlas Weekend 2020 Virtual Stage.ogg': No such file or directory
+Mar 18 15:55 : player: played "Electronica/Miss Monique /Live @Atlas Weekend 2020 Virtual Stage.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Mago de Oz/Mago de Oz - La posada de los muertos (videoclip)-IGEskjk2hCo.ogg; Failed to open '/home/vduran/Musica/Mago de Oz/Mago de Oz - La posada de los muertos (videoclip)-IGEskjk2hCo.ogg': No such file or directory
+Mar 18 15:55 : player: played "Mago de Oz/Mago de Oz - La posada de los muertos (videoclip)-IGEskjk2hCo.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Mago de Oz/Mago de oz - La Rosa de los Vientos-pW-Njfe6zcg.ogg; Failed to open '/home/vduran/Musica/Mago de Oz/Mago de oz - La Rosa de los Vientos-pW-Njfe6zcg.ogg': No such file or directory
+Mar 18 15:55 : player: played "Mago de Oz/Mago de oz - La Rosa de los Vientos-pW-Njfe6zcg.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/SUU/Material Sensible/Material sensible - Suu [c8pJB4AiTKQ].ogg; Failed to open '/home/vduran/Musica/SUU/Material Sensible/Material sensible - Suu [c8pJB4AiTKQ].ogg': No such file or directory
+Mar 18 15:55 : player: played "SUU/Material Sensible/Material sensible - Suu [c8pJB4AiTKQ].ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Juanes/La vida es un ratico/3. Me Enamora.ogg; Failed to open '/home/vduran/Musica/Juanes/La vida es un ratico/3. Me Enamora.ogg': No such file or directory
+Mar 18 15:55 : player: played "Juanes/La vida es un ratico/3. Me Enamora.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/SUU/Material Sensible/Me siento mejor - Suu feat. Éxtasis [d15iU0ijK1o].ogg; Failed to open '/home/vduran/Musica/SUU/Material Sensible/Me siento mejor - Suu feat. Éxtasis [d15iU0ijK1o].ogg': No such file or directory
+Mar 18 15:55 : player: played "SUU/Material Sensible/Me siento mejor - Suu feat. Éxtasis [d15iU0ijK1o].ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Meditacion/Meditacion_al_corazon.mp3; Failed to open '/home/vduran/Musica/Meditacion/Meditacion_al_corazon.mp3': No such file or directory
+Mar 18 15:55 : player: played "Meditacion/Meditacion_al_corazon.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Meditacion/Meditación PAUSA SatkaraYoga.wav; Failed to open '/home/vduran/Musica/Meditacion/Meditación PAUSA SatkaraYoga.wav': No such file or directory
+Mar 18 15:55 : player: played "Meditacion/Meditación PAUSA SatkaraYoga.wav"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Electronica/Miss Monique /MiMo Live @1eConcert.com 2020.ogg; Failed to open '/home/vduran/Musica/Electronica/Miss Monique /MiMo Live @1eConcert.com 2020.ogg': No such file or directory
+Mar 18 15:55 : player: played "Electronica/Miss Monique /MiMo Live @1eConcert.com 2020.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Electronica/Miss Monique /MiMo Weekly Podcast 005.ogg; Failed to open '/home/vduran/Musica/Electronica/Miss Monique /MiMo Weekly Podcast 005.ogg': No such file or directory
+Mar 18 15:55 : player: played "Electronica/Miss Monique /MiMo Weekly Podcast 005.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Electronica/Miss Monique /MiMo Weekly Podcast 009.ogg; Failed to open '/home/vduran/Musica/Electronica/Miss Monique /MiMo Weekly Podcast 009.ogg': No such file or directory
+Mar 18 15:55 : player: played "Electronica/Miss Monique /MiMo Weekly Podcast 009.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Electronica/Miss Monique /MiMo Weekly Podcast 011.ogg; Failed to open '/home/vduran/Musica/Electronica/Miss Monique /MiMo Weekly Podcast 011.ogg': No such file or directory
+Mar 18 15:55 : player: played "Electronica/Miss Monique /MiMo Weekly Podcast 011.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Electronica/Miss Monique /MiMo Weekly Podcast 012.ogg; Failed to open '/home/vduran/Musica/Electronica/Miss Monique /MiMo Weekly Podcast 012.ogg': No such file or directory
+Mar 18 15:55 : player: played "Electronica/Miss Monique /MiMo Weekly Podcast 012.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Electronica/Miss Monique /MiMo Weekly Podcast 027.ogg; Failed to open '/home/vduran/Musica/Electronica/Miss Monique /MiMo Weekly Podcast 027.ogg': No such file or directory
+Mar 18 15:55 : player: played "Electronica/Miss Monique /MiMo Weekly Podcast 027.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Electronica/Miss Monique /MiMo Weekly Podcast 029.ogg; Failed to open '/home/vduran/Musica/Electronica/Miss Monique /MiMo Weekly Podcast 029.ogg': No such file or directory
+Mar 18 15:55 : player: played "Electronica/Miss Monique /MiMo Weekly Podcast 029.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Electronica/Miss Monique /MiMo Weekly Podcast 030.ogg; Failed to open '/home/vduran/Musica/Electronica/Miss Monique /MiMo Weekly Podcast 030.ogg': No such file or directory
+Mar 18 15:55 : player: played "Electronica/Miss Monique /MiMo Weekly Podcast 030.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Electronica/Miss Monique /MiMo Weekly Podcast 031.ogg; Failed to open '/home/vduran/Musica/Electronica/Miss Monique /MiMo Weekly Podcast 031.ogg': No such file or directory
+Mar 18 15:55 : player: played "Electronica/Miss Monique /MiMo Weekly Podcast 031.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Miki Núñez/Iceberg/Miki Nuñez. Teaser 1 'Viento y Vida' junto a Despistaos-.ogg; Failed to open '/home/vduran/Musica/Miki Núñez/Iceberg/Miki Nuñez. Teaser 1 'Viento y Vida' junto a Despistaos-.ogg': No such file or directory
+Mar 18 15:55 : player: played "Miki Núñez/Iceberg/Miki Nuñez. Teaser 1 'Viento y Vida' junto a Despistaos-.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Miki Núñez/Iceberg/Miki Núñez - Arbre (Pseudo Video) ft. Lildami.ogg; Failed to open '/home/vduran/Musica/Miki Núñez/Iceberg/Miki Núñez - Arbre (Pseudo Video) ft. Lildami.ogg': No such file or directory
+Mar 18 15:55 : player: played "Miki Núñez/Iceberg/Miki Núñez - Arbre (Pseudo Video) ft. Lildami.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Miki Núñez/Iceberg/Miki Núñez - Beberte Lento.ogg; Failed to open '/home/vduran/Musica/Miki Núñez/Iceberg/Miki Núñez - Beberte Lento.ogg': No such file or directory
+Mar 18 15:55 : player: played "Miki Núñez/Iceberg/Miki Núñez - Beberte Lento.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Miki Núñez/Iceberg/Miki Núñez - Cada Pas Del Camí.ogg; Failed to open '/home/vduran/Musica/Miki Núñez/Iceberg/Miki Núñez - Cada Pas Del Camí.ogg': No such file or directory
+Mar 18 15:55 : player: played "Miki Núñez/Iceberg/Miki Núñez - Cada Pas Del Camí.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Miki Núñez/Iceberg/Miki Núñez - Celébrate.ogg; Failed to open '/home/vduran/Musica/Miki Núñez/Iceberg/Miki Núñez - Celébrate.ogg': No such file or directory
+Mar 18 15:55 : player: played "Miki Núñez/Iceberg/Miki Núñez - Celébrate.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Miki Núñez/Iceberg/Miki Núñez - De Ida Y Vuelta.ogg; Failed to open '/home/vduran/Musica/Miki Núñez/Iceberg/Miki Núñez - De Ida Y Vuelta.ogg': No such file or directory
+Mar 18 15:55 : player: played "Miki Núñez/Iceberg/Miki Núñez - De Ida Y Vuelta.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Miki Núñez/Iceberg/Miki Núñez - Escriurem.ogg; Failed to open '/home/vduran/Musica/Miki Núñez/Iceberg/Miki Núñez - Escriurem.ogg': No such file or directory
+Mar 18 15:55 : player: played "Miki Núñez/Iceberg/Miki Núñez - Escriurem.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Miki Núñez/Iceberg/Miki Núñez - Eterno Verano.ogg; Failed to open '/home/vduran/Musica/Miki Núñez/Iceberg/Miki Núñez - Eterno Verano.ogg': No such file or directory
+Mar 18 15:55 : player: played "Miki Núñez/Iceberg/Miki Núñez - Eterno Verano.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Miki Núñez/Iceberg/Miki Núñez - La Venda.ogg; Failed to open '/home/vduran/Musica/Miki Núñez/Iceberg/Miki Núñez - La Venda.ogg': No such file or directory
+Mar 18 15:55 : player: played "Miki Núñez/Iceberg/Miki Núñez - La Venda.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Miki Núñez/Iceberg/Miki Núñez - Me Vale.ogg; Failed to open '/home/vduran/Musica/Miki Núñez/Iceberg/Miki Núñez - Me Vale.ogg': No such file or directory
+Mar 18 15:55 : player: played "Miki Núñez/Iceberg/Miki Núñez - Me Vale.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Miki Núñez/Iceberg/Miki Núñez - Mi Lugar.ogg; Failed to open '/home/vduran/Musica/Miki Núñez/Iceberg/Miki Núñez - Mi Lugar.ogg': No such file or directory
+Mar 18 15:55 : player: played "Miki Núñez/Iceberg/Miki Núñez - Mi Lugar.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Miki Núñez/Iceberg/Miki Núñez - Mil Planes.ogg; Failed to open '/home/vduran/Musica/Miki Núñez/Iceberg/Miki Núñez - Mil Planes.ogg': No such file or directory
+Mar 18 15:55 : player: played "Miki Núñez/Iceberg/Miki Núñez - Mil Planes.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Miki Núñez/Iceberg/Miki Núñez - No M'ho Esperava.ogg; Failed to open '/home/vduran/Musica/Miki Núñez/Iceberg/Miki Núñez - No M'ho Esperava.ogg': No such file or directory
+Mar 18 15:55 : player: played "Miki Núñez/Iceberg/Miki Núñez - No M'ho Esperava.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Miki Núñez/Iceberg/Miki Núñez - Sin Noticias De Gurb.ogg; Failed to open '/home/vduran/Musica/Miki Núñez/Iceberg/Miki Núñez - Sin Noticias De Gurb.ogg': No such file or directory
+Mar 18 15:55 : player: played "Miki Núñez/Iceberg/Miki Núñez - Sin Noticias De Gurb.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Miki Núñez/Iceberg/Miki Núñez - Todo Lo Que Llevo Dentro.ogg; Failed to open '/home/vduran/Musica/Miki Núñez/Iceberg/Miki Núñez - Todo Lo Que Llevo Dentro.ogg': No such file or directory
+Mar 18 15:55 : player: played "Miki Núñez/Iceberg/Miki Núñez - Todo Lo Que Llevo Dentro.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Miki Núñez/Iceberg/Miki Núñez - Un Estiu Que No S'Acaba.ogg; Failed to open '/home/vduran/Musica/Miki Núñez/Iceberg/Miki Núñez - Un Estiu Que No S'Acaba.ogg': No such file or directory
+Mar 18 15:55 : player: played "Miki Núñez/Iceberg/Miki Núñez - Un Estiu Que No S'Acaba.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/new/Milers d’espurnes feat.Las Migas.ogg; Failed to open '/home/vduran/Musica/new/Milers d’espurnes feat.Las Migas.ogg': No such file or directory
+Mar 18 15:55 : player: played "new/Milers d’espurnes feat.Las Migas.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Juanes/La vida es un ratico/8. Minas Piedras.ogg; Failed to open '/home/vduran/Musica/Juanes/La vida es un ratico/8. Minas Piedras.ogg': No such file or directory
+Mar 18 15:55 : player: played "Juanes/La vida es un ratico/8. Minas Piedras.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Electronica/Miss Monique /Miss Monique - 1001Tracklists Exclusive Mix [Progressive House⧸Melodic Techno Live DJ Set] [GLnEv161WZM].ogg; Failed to open '/home/vduran/Musica/Electronica/Miss Monique /Miss Monique - 1001Tracklists Exclusive Mix [Progressive House⧸Melodic Techno Live DJ Set] [GLnEv161WZM].ogg': No such file or directory
+Mar 18 15:55 : player: played "Electronica/Miss Monique /Miss Monique - 1001Tracklists Exclusive Mix [Progressive House⧸Melodic Techno Live DJ Set] [GLnEv161WZM].ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Electronica/Miss Monique /Miss Monique - BBC Radio 1 Essential Mix 2024 [Hw52amuu-l4].ogg; Failed to open '/home/vduran/Musica/Electronica/Miss Monique /Miss Monique - BBC Radio 1 Essential Mix 2024 [Hw52amuu-l4].ogg': No such file or directory
+Mar 18 15:55 : player: played "Electronica/Miss Monique /Miss Monique - BBC Radio 1 Essential Mix 2024 [Hw52amuu-l4].ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Electronica/Miss Monique /Miss Monique - Look At You [Interstellar] [fPXdiEbeTtM].ogg; Failed to open '/home/vduran/Musica/Electronica/Miss Monique /Miss Monique - Look At You [Interstellar] [fPXdiEbeTtM].ogg': No such file or directory
+Mar 18 15:55 : player: played "Electronica/Miss Monique /Miss Monique - Look At You [Interstellar] [fPXdiEbeTtM].ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Electronica/Miss Monique /Miss Monique - MiMo Podcast 042  [Melodic Techno & House DJ Mix] [0AhFghYZQ74].ogg; Failed to open '/home/vduran/Musica/Electronica/Miss Monique /Miss Monique - MiMo Podcast 042  [Melodic Techno & House DJ Mix] [0AhFghYZQ74].ogg': No such file or directory
+Mar 18 15:55 : player: played "Electronica/Miss Monique /Miss Monique - MiMo Podcast 042  [Melodic Techno & House DJ Mix] [0AhFghYZQ74].ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Electronica/Miss Monique /Miss Monique - MiMo Weekly Podcast #1 04.09.2018 [Progressive Music] [5L2nBYFngZI].ogg; Failed to open '/home/vduran/Musica/Electronica/Miss Monique /Miss Monique - MiMo Weekly Podcast #1 04.09.2018 [Progressive Music] [5L2nBYFngZI].ogg': No such file or directory
+Mar 18 15:55 : player: played "Electronica/Miss Monique /Miss Monique - MiMo Weekly Podcast #1 04.09.2018 [Progressive Music] [5L2nBYFngZI].ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Electronica/Miss Monique /Miss Monique - Special Spring Mix @ Saxon club [Progressive House, Melodic Techno 2018] [4D7vz6fQDqs].ogg; Failed to open '/home/vduran/Musica/Electronica/Miss Monique /Miss Monique - Special Spring Mix @ Saxon club [Progressive House, Melodic Techno 2018] [4D7vz6fQDqs].ogg': No such file or directory
+Mar 18 15:55 : player: played "Electronica/Miss Monique /Miss Monique - Special Spring Mix @ Saxon club [Progressive House, Melodic Techno 2018] [4D7vz6fQDqs].ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Electronica/Miss Monique /Miss Monique - Yearmix 2023 @Miami, FL [Melodic Techno⧸Progressive House DJ Mix] [7MbyTJs3SAo].ogg; Failed to open '/home/vduran/Musica/Electronica/Miss Monique /Miss Monique - Yearmix 2023 @Miami, FL [Melodic Techno⧸Progressive House DJ Mix] [7MbyTJs3SAo].ogg': No such file or directory
+Mar 18 15:55 : player: played "Electronica/Miss Monique /Miss Monique - Yearmix 2023 @Miami, FL [Melodic Techno⧸Progressive House DJ Mix] [7MbyTJs3SAo].ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Electronica/Miss Monique /Miss Monique MiMo Weekly Podcast 020 [Progressive House⧸Melodic Techno DJ Mix] #DGTX 4K [fi6s9V5jC3s].ogg; Failed to open '/home/vduran/Musica/Electronica/Miss Monique /Miss Monique MiMo Weekly Podcast 020 [Progressive House⧸Melodic Techno DJ Mix] #DGTX 4K [fi6s9V5jC3s].ogg': No such file or directory
+Mar 18 15:55 : player: played "Electronica/Miss Monique /Miss Monique MiMo Weekly Podcast 020 [Progressive House⧸Melodic Techno DJ Mix] #DGTX 4K [fi6s9V5jC3s].ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Electronica/Miss Monique /Miss Monique at The Concourse Project ｜ Full Set (1 Sep 2023) [wSSDiS1A0f4].ogg; Failed to open '/home/vduran/Musica/Electronica/Miss Monique /Miss Monique at The Concourse Project ｜ Full Set (1 Sep 2023) [wSSDiS1A0f4].ogg': No such file or directory
+Mar 18 15:55 : player: played "Electronica/Miss Monique /Miss Monique at The Concourse Project ｜ Full Set (1 Sep 2023) [wSSDiS1A0f4].ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Electronica/Miss Monique /Miss Monique at the Biosphere Museum, in Montreal, Canada for Cercle [QPPFM8NyuaQ].ogg; Failed to open '/home/vduran/Musica/Electronica/Miss Monique /Miss Monique at the Biosphere Museum, in Montreal, Canada for Cercle [QPPFM8NyuaQ].ogg': No such file or directory
+Mar 18 15:55 : player: played "Electronica/Miss Monique /Miss Monique at the Biosphere Museum, in Montreal, Canada for Cercle [QPPFM8NyuaQ].ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Electronica/Miss Monique /Miss Monique for Cloudbeds @ ITB Berlin [t5S8TMX4e6I].ogg; Failed to open '/home/vduran/Musica/Electronica/Miss Monique /Miss Monique for Cloudbeds @ ITB Berlin [t5S8TMX4e6I].ogg': No such file or directory
+Mar 18 15:55 : player: played "Electronica/Miss Monique /Miss Monique for Cloudbeds @ ITB Berlin [t5S8TMX4e6I].ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Sara Roy/(A)MAR/Mitjanit - Sara Roy (A)MAR.ogg; Failed to open '/home/vduran/Musica/Sara Roy/(A)MAR/Mitjanit - Sara Roy (A)MAR.ogg': No such file or directory
+Mar 18 15:55 : player: played "Sara Roy/(A)MAR/Mitjanit - Sara Roy (A)MAR.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Mago de Oz/Molinos De Viento-A-JIjV7pKC8.ogg; Failed to open '/home/vduran/Musica/Mago de Oz/Molinos De Viento-A-JIjV7pKC8.ogg': No such file or directory
+Mar 18 15:55 : player: played "Mago de Oz/Molinos De Viento-A-JIjV7pKC8.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Morat/Morat - Cuando Nadie Ve.ogg; Failed to open '/home/vduran/Musica/Morat/Morat - Cuando Nadie Ve.ogg': No such file or directory
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Mago de Oz/Mägo De Oz - Pensando en ti (Version 2011) (videoclip oficial)-YdZ3FXHdKuU.ogg; Failed to open '/home/vduran/Musica/Mago de Oz/Mägo De Oz - Pensando en ti (Version 2011) (videoclip oficial)-YdZ3FXHdKuU.ogg': No such file or directory
+Mar 18 15:55 : player: played "Morat/Morat - Cuando Nadie Ve.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Mago de Oz/Mägo De Oz - Pensando en ti (Version 2011) (videoclip oficial)-YdZ3FXHdKuU.ogg; Failed to open '/home/vduran/Musica/Mago de Oz/Mägo De Oz - Pensando en ti (Version 2011) (videoclip oficial)-YdZ3FXHdKuU.ogg': No such file or directory
+Mar 18 15:55 : player: played "Mago de Oz/Mägo De Oz - Pensando en ti (Version 2011) (videoclip oficial)-YdZ3FXHdKuU.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Mago de Oz/Mägo de Oz - Bandera negra (Lyric Video Oficial)-Bfu0dbCbW2g.ogg; Failed to open '/home/vduran/Musica/Mago de Oz/Mägo de Oz - Bandera negra (Lyric Video Oficial)-Bfu0dbCbW2g.ogg': No such file or directory
+Mar 18 15:55 : player: played "Mago de Oz/Mägo de Oz - Bandera negra (Lyric Video Oficial)-Bfu0dbCbW2g.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Mago de Oz/Mägo de Oz - Cadaveria (Videoclip oficial)-Yo6RL5A1eyY.ogg; Failed to open '/home/vduran/Musica/Mago de Oz/Mägo de Oz - Cadaveria (Videoclip oficial)-Yo6RL5A1eyY.ogg': No such file or directory
+Mar 18 15:55 : player: played "Mago de Oz/Mägo de Oz - Cadaveria (Videoclip oficial)-Yo6RL5A1eyY.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Mago de Oz/Mägo de Oz - El libro de las sombras. (Videoclip oficial)-hWY1_3dUdhI.ogg; Failed to open '/home/vduran/Musica/Mago de Oz/Mägo de Oz - El libro de las sombras. (Videoclip oficial)-hWY1_3dUdhI.ogg': No such file or directory
+Mar 18 15:55 : player: played "Mago de Oz/Mägo de Oz - El libro de las sombras. (Videoclip oficial)-hWY1_3dUdhI.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Mago de Oz/Mägo de Oz - Hoy toca ser feliz (videoclip oficial)-abLwErDrwJc.ogg; Failed to open '/home/vduran/Musica/Mago de Oz/Mägo de Oz - Hoy toca ser feliz (videoclip oficial)-abLwErDrwJc.ogg': No such file or directory
+Mar 18 15:55 : player: played "Mago de Oz/Mägo de Oz - Hoy toca ser feliz (videoclip oficial)-abLwErDrwJc.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Mago de Oz/Mägo de Oz - La Dama del Mar (Lyric Video Oficial)-J9snXJGnAsw.ogg; Failed to open '/home/vduran/Musica/Mago de Oz/Mägo de Oz - La Dama del Mar (Lyric Video Oficial)-J9snXJGnAsw.ogg': No such file or directory
+Mar 18 15:55 : player: played "Mago de Oz/Mägo de Oz - La Dama del Mar (Lyric Video Oficial)-J9snXJGnAsw.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Mago de Oz/Mägo de Oz - Noche de Halloween (Lyric Video Oficial)-NqKElVXLLCU.ogg; Failed to open '/home/vduran/Musica/Mago de Oz/Mägo de Oz - Noche de Halloween (Lyric Video Oficial)-NqKElVXLLCU.ogg': No such file or directory
+Mar 18 15:55 : player: played "Mago de Oz/Mägo de Oz - Noche de Halloween (Lyric Video Oficial)-NqKElVXLLCU.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Mago de Oz/Mägo de Oz - Te traeré el horizonte feat. Ara Malikian (Videoclip Oficial)-hamFOjhQybg.ogg; Failed to open '/home/vduran/Musica/Mago de Oz/Mägo de Oz - Te traeré el horizonte feat. Ara Malikian (Videoclip Oficial)-hamFOjhQybg.ogg': No such file or directory
+Mar 18 15:55 : player: played "Mago de Oz/Mägo de Oz - Te traeré el horizonte feat. Ara Malikian (Videoclip Oficial)-hamFOjhQybg.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Mago de Oz/Mägo de Oz - Tu funeral (Videoclip Oficial)-Kg3lNCq1an4.ogg; Failed to open '/home/vduran/Musica/Mago de Oz/Mägo de Oz - Tu funeral (Videoclip Oficial)-Kg3lNCq1an4.ogg': No such file or directory
+Mar 18 15:55 : player: played "Mago de Oz/Mägo de Oz - Tu funeral (Videoclip Oficial)-Kg3lNCq1an4.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Mago de Oz/Mägo de Oz - Xanandra (videoclip oficial)-80ZStdM9gNY.ogg; Failed to open '/home/vduran/Musica/Mago de Oz/Mägo de Oz - Xanandra (videoclip oficial)-80ZStdM9gNY.ogg': No such file or directory
+Mar 18 15:55 : player: played "Mago de Oz/Mägo de Oz - Xanandra (videoclip oficial)-80ZStdM9gNY.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Mago de Oz/Mägo de Oz- Fiesta pagana 2.0 (Videoclip oficial)-xvVLWSsKjkI.ogg; Failed to open '/home/vduran/Musica/Mago de Oz/Mägo de Oz- Fiesta pagana 2.0 (Videoclip oficial)-xvVLWSsKjkI.ogg': No such file or directory
+Mar 18 15:55 : player: played "Mago de Oz/Mägo de Oz- Fiesta pagana 2.0 (Videoclip oficial)-xvVLWSsKjkI.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Mago de Oz/Mägo de oz - Gaia (directo Diabulus in opera)-u97FyWNrlQY.ogg; Failed to open '/home/vduran/Musica/Mago de Oz/Mägo de oz - Gaia (directo Diabulus in opera)-u97FyWNrlQY.ogg': No such file or directory
+Mar 18 15:55 : player: played "Mago de Oz/Mägo de oz - Gaia (directo Diabulus in opera)-u97FyWNrlQY.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Mago de Oz/Mägo de oz - La cantata del diablo (directo Diabulus in opera)-qwPSH2tq50E.ogg; Failed to open '/home/vduran/Musica/Mago de Oz/Mägo de oz - La cantata del diablo (directo Diabulus in opera)-qwPSH2tq50E.ogg': No such file or directory
+Mar 18 15:55 : player: played "Mago de Oz/Mägo de oz - La cantata del diablo (directo Diabulus in opera)-qwPSH2tq50E.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Mago de Oz/Mägo de oz - La cantiga de las brujas (Lyric Video)-0sMwccntm-0.ogg; Failed to open '/home/vduran/Musica/Mago de Oz/Mägo de oz - La cantiga de las brujas (Lyric Video)-0sMwccntm-0.ogg': No such file or directory
+Mar 18 15:55 : player: played "Mago de Oz/Mägo de oz - La cantiga de las brujas (Lyric Video)-0sMwccntm-0.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Mago de Oz/Mägo de oz - Revolución (Lyric Video)-ZDGQLi7_jbk.ogg; Failed to open '/home/vduran/Musica/Mago de Oz/Mägo de oz - Revolución (Lyric Video)-ZDGQLi7_jbk.ogg': No such file or directory
+Mar 18 15:55 : player: played "Mago de Oz/Mägo de oz - Revolución (Lyric Video)-ZDGQLi7_jbk.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Electronica/Miss Monique /New Special.ogg; Failed to open '/home/vduran/Musica/Electronica/Miss Monique /New Special.ogg': No such file or directory
+Mar 18 15:55 : player: played "Electronica/Miss Monique /New Special.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Sara Roy/(A)MAR/Ni tú ni yo - Sara Roy (A)MAR.mp3; Failed to open '/home/vduran/Musica/Sara Roy/(A)MAR/Ni tú ni yo - Sara Roy (A)MAR.mp3': No such file or directory
+Mar 18 15:55 : player: played "Sara Roy/(A)MAR/Ni tú ni yo - Sara Roy (A)MAR.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Nil Moliner/Nil Moliner - El aire que me mata (Audio Oficial).ogg; Failed to open '/home/vduran/Musica/Nil Moliner/Nil Moliner - El aire que me mata (Audio Oficial).ogg': No such file or directory
+Mar 18 15:55 : player: played "Nil Moliner/Nil Moliner - El aire que me mata (Audio Oficial).ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Nil Moliner/Nil Moliner - Som Ocells feat. Gerard Sancho (Videoclip Oficial).ogg; Failed to open '/home/vduran/Musica/Nil Moliner/Nil Moliner - Som Ocells feat. Gerard Sancho (Videoclip Oficial).ogg': No such file or directory
+Mar 18 15:55 : player: played "Nil Moliner/Nil Moliner - Som Ocells feat. Gerard Sancho (Videoclip Oficial).ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Nil Moliner/Nil Moliner, Ana Mena - Me Quedo (Videoclip Oficial).ogg; Failed to open '/home/vduran/Musica/Nil Moliner/Nil Moliner, Ana Mena - Me Quedo (Videoclip Oficial).ogg': No such file or directory
+Mar 18 15:55 : player: played "Nil Moliner/Nil Moliner, Ana Mena - Me Quedo (Videoclip Oficial).ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Nil Moliner/Nil Moliner, Ana Mena, Rafa Pabon - Me Quedo Remix (Videoclip Oficial).ogg; Failed to open '/home/vduran/Musica/Nil Moliner/Nil Moliner, Ana Mena, Rafa Pabon - Me Quedo Remix (Videoclip Oficial).ogg': No such file or directory
+Mar 18 15:55 : player: played "Nil Moliner/Nil Moliner, Ana Mena, Rafa Pabon - Me Quedo Remix (Videoclip Oficial).ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Juanes/La vida es un ratico/1. No Creo en el Jamás.ogg; Failed to open '/home/vduran/Musica/Juanes/La vida es un ratico/1. No Creo en el Jamás.ogg': No such file or directory
+Mar 18 15:55 : player: played "Juanes/La vida es un ratico/1. No Creo en el Jamás.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Sara Roy/(A)MAR/No em diguis que no - Sara Roy (A)MAR.mp3; Failed to open '/home/vduran/Musica/Sara Roy/(A)MAR/No em diguis que no - Sara Roy (A)MAR.mp3': No such file or directory
+Mar 18 15:55 : player: played "Sara Roy/(A)MAR/No em diguis que no - Sara Roy (A)MAR.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/SUU/Material Sensible/No t'has vist - Suu [Kyrozs1x51g].ogg; Failed to open '/home/vduran/Musica/SUU/Material Sensible/No t'has vist - Suu [Kyrozs1x51g].ogg': No such file or directory
+Mar 18 15:55 : player: played "SUU/Material Sensible/No t'has vist - Suu [Kyrozs1x51g].ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Electronica/Tasha&Co/Poem Without Words - Tasha & Co.ogg; Failed to open '/home/vduran/Musica/Electronica/Tasha&Co/Poem Without Words - Tasha & Co.ogg': No such file or directory
+Mar 18 15:55 : player: played "Electronica/Tasha&Co/Poem Without Words - Tasha & Co.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Sara Roy/(A)MAR/Poetes - Sara Roy (A)MAR.ogg; Failed to open '/home/vduran/Musica/Sara Roy/(A)MAR/Poetes - Sara Roy (A)MAR.ogg': No such file or directory
+Mar 18 15:55 : player: played "Sara Roy/(A)MAR/Poetes - Sara Roy (A)MAR.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Sara Roy/(A)MAR/Queda't - Sara Roy (A)MAR.ogg; Failed to open '/home/vduran/Musica/Sara Roy/(A)MAR/Queda't - Sara Roy (A)MAR.ogg': No such file or directory
+Mar 18 15:55 : player: played "Sara Roy/(A)MAR/Queda't - Sara Roy (A)MAR.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Ramon Mirabet/Ramon Mirabet - El Crit.ogg; Failed to open '/home/vduran/Musica/Ramon Mirabet/Ramon Mirabet - El Crit.ogg': No such file or directory
+Mar 18 15:55 : player: played "Ramon Mirabet/Ramon Mirabet - El Crit.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Els Catarres/Invencibles/Rock & Roll.ogg; Failed to open '/home/vduran/Musica/Els Catarres/Invencibles/Rock & Roll.ogg': No such file or directory
+Mar 18 15:55 : player: played "Els Catarres/Invencibles/Rock & Roll.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Stay Homas/Homa/STAY HOMAS - DIME.ogg; Failed to open '/home/vduran/Musica/Stay Homas/Homa/STAY HOMAS - DIME.ogg': No such file or directory
+Mar 18 15:55 : player: played "Stay Homas/Homa/STAY HOMAS - DIME.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Stay Homas/Homa/STAY HOMAS - HO SAP TOTHOM MENYS TU.ogg; Failed to open '/home/vduran/Musica/Stay Homas/Homa/STAY HOMAS - HO SAP TOTHOM MENYS TU.ogg': No such file or directory
+Mar 18 15:55 : player: played "Stay Homas/Homa/STAY HOMAS - HO SAP TOTHOM MENYS TU.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Stay Homas/Homa/STAY HOMAS - HO TORNARIA A FER.ogg; Failed to open '/home/vduran/Musica/Stay Homas/Homa/STAY HOMAS - HO TORNARIA A FER.ogg': No such file or directory
+Mar 18 15:55 : player: played "Stay Homas/Homa/STAY HOMAS - HO TORNARIA A FER.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Stay Homas/Homa/STAY HOMAS - I’LL BE HOME.ogg; Failed to open '/home/vduran/Musica/Stay Homas/Homa/STAY HOMAS - I’LL BE HOME.ogg': No such file or directory
+Mar 18 15:55 : player: played "Stay Homas/Homa/STAY HOMAS - I’LL BE HOME.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Stay Homas/Homa/STAY HOMAS - ME DA IGUAL.ogg; Failed to open '/home/vduran/Musica/Stay Homas/Homa/STAY HOMAS - ME DA IGUAL.ogg': No such file or directory
+Mar 18 15:55 : player: played "Stay Homas/Homa/STAY HOMAS - ME DA IGUAL.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Stay Homas/Homa/STAY HOMAS - MORIR VIVIENDO.ogg; Failed to open '/home/vduran/Musica/Stay Homas/Homa/STAY HOMAS - MORIR VIVIENDO.ogg': No such file or directory
+Mar 18 15:55 : player: played "Stay Homas/Homa/STAY HOMAS - MORIR VIVIENDO.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Stay Homas/Homa/STAY HOMAS - THE ONLY ONE.ogg; Failed to open '/home/vduran/Musica/Stay Homas/Homa/STAY HOMAS - THE ONLY ONE.ogg': No such file or directory
+Mar 18 15:55 : player: played "Stay Homas/Homa/STAY HOMAS - THE ONLY ONE.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Stay Homas/Agua/STAY HOMAS, Albert Pla - No Vull Baixar (Official Video).ogg; Failed to open '/home/vduran/Musica/Stay Homas/Agua/STAY HOMAS, Albert Pla - No Vull Baixar (Official Video).ogg': No such file or directory
+Mar 18 15:55 : player: played "Stay Homas/Agua/STAY HOMAS, Albert Pla - No Vull Baixar (Official Video).ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/SUU/Material Sensible/Si me estás rondando - Suu [6t3MZRoPqe4].ogg; Failed to open '/home/vduran/Musica/SUU/Material Sensible/Si me estás rondando - Suu [6t3MZRoPqe4].ogg': No such file or directory
+Mar 18 15:55 : player: played "SUU/Material Sensible/Si me estás rondando - Suu [6t3MZRoPqe4].ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Electronica/Miss Monique /Siona Records 4th Anniversary Mikonos.ogg; Failed to open '/home/vduran/Musica/Electronica/Miss Monique /Siona Records 4th Anniversary Mikonos.ogg': No such file or directory
+Mar 18 15:55 : player: played "Electronica/Miss Monique /Siona Records 4th Anniversary Mikonos.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Sara Roy/(A)MAR/Som - Sara Roy (A)MAR.mp3; Failed to open '/home/vduran/Musica/Sara Roy/(A)MAR/Som - Sara Roy (A)MAR.mp3': No such file or directory
+Mar 18 15:55 : player: played "Sara Roy/(A)MAR/Som - Sara Roy (A)MAR.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Sara Roy/(A)MAR/Som - Sara Roy (A)MAR.ogg; Failed to open '/home/vduran/Musica/Sara Roy/(A)MAR/Som - Sara Roy (A)MAR.ogg': No such file or directory
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Sopa De Cabra/Sopa De Cabra - Mai Trobaràs (30 anys) ft. Buhos, Ginestà, The Tyets.ogg; Failed to open '/home/vduran/Musica/Sopa De Cabra/Sopa De Cabra - Mai Trobaràs (30 anys) ft. Buhos, Ginestà, The Tyets.ogg': No such file or directory
+Mar 18 15:55 : player: played "Sara Roy/(A)MAR/Som - Sara Roy (A)MAR.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Sopa De Cabra/Sopa De Cabra - Mai Trobaràs (30 anys) ft. Buhos, Ginestà, The Tyets.ogg; Failed to open '/home/vduran/Musica/Sopa De Cabra/Sopa De Cabra - Mai Trobaràs (30 anys) ft. Buhos, Ginestà, The Tyets.ogg': No such file or directory
+Mar 18 15:55 : player: played "Sopa De Cabra/Sopa De Cabra - Mai Trobaràs (30 anys) ft. Buhos, Ginestà, The Tyets.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Sopa De Cabra/Sopa de Cabra & Els Amics de les Arts - Sota una estrella @ Palau Sant Jordi-Og4oeu9jZVw.ogg; Failed to open '/home/vduran/Musica/Sopa De Cabra/Sopa de Cabra & Els Amics de les Arts - Sota una estrella @ Palau Sant Jordi-Og4oeu9jZVw.ogg': No such file or directory
+Mar 18 15:55 : player: played "Sopa De Cabra/Sopa de Cabra & Els Amics de les Arts - Sota una estrella @ Palau Sant Jordi-Og4oeu9jZVw.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Sopa De Cabra/Sopa de Cabra & Els Catarres - Seguirem somiant @ Palau Sant Jordi-oIkbRhWcWck.ogg; Failed to open '/home/vduran/Musica/Sopa De Cabra/Sopa de Cabra & Els Catarres - Seguirem somiant @ Palau Sant Jordi-oIkbRhWcWck.ogg': No such file or directory
+Mar 18 15:55 : player: played "Sopa De Cabra/Sopa de Cabra & Els Catarres - Seguirem somiant @ Palau Sant Jordi-oIkbRhWcWck.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Sopa De Cabra/Sopa de Cabra & Joan Dausà - El far del sud @ Palau Sant Jordi-fCuodDWicp4.ogg; Failed to open '/home/vduran/Musica/Sopa De Cabra/Sopa de Cabra & Joan Dausà - El far del sud @ Palau Sant Jordi-fCuodDWicp4.ogg': No such file or directory
+Mar 18 15:55 : player: played "Sopa De Cabra/Sopa de Cabra & Joan Dausà - El far del sud @ Palau Sant Jordi-fCuodDWicp4.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Sopa De Cabra/Sopa de Cabra & Ramon Mirabet - Els teus somnis @ Palau Sant Jordi-d7Y-jeote-8.ogg; Failed to open '/home/vduran/Musica/Sopa De Cabra/Sopa de Cabra & Ramon Mirabet - Els teus somnis @ Palau Sant Jordi-d7Y-jeote-8.ogg': No such file or directory
+Mar 18 15:55 : player: played "Sopa De Cabra/Sopa de Cabra & Ramon Mirabet - Els teus somnis @ Palau Sant Jordi-d7Y-jeote-8.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Sopa De Cabra/Sopa de Cabra & Ramon Mirabet - Els teus somnis.ogg; Failed to open '/home/vduran/Musica/Sopa De Cabra/Sopa de Cabra & Ramon Mirabet - Els teus somnis.ogg': No such file or directory
+Mar 18 15:55 : player: played "Sopa De Cabra/Sopa de Cabra & Ramon Mirabet - Els teus somnis.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Sopa De Cabra/Sopa de Cabra & Suu - Si et quedes amb mi.ogg; Failed to open '/home/vduran/Musica/Sopa De Cabra/Sopa de Cabra & Suu - Si et quedes amb mi.ogg': No such file or directory
+Mar 18 15:55 : player: played "Sopa De Cabra/Sopa de Cabra & Suu - Si et quedes amb mi.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Sopa De Cabra/Sopa de Cabra & més - L'Empordà @ Palau Sant Jordi-bQHESVSusU0.ogg; Failed to open '/home/vduran/Musica/Sopa De Cabra/Sopa de Cabra & més - L'Empordà @ Palau Sant Jordi-bQHESVSusU0.ogg': No such file or directory
+Mar 18 15:55 : player: played "Sopa De Cabra/Sopa de Cabra & més - L'Empordà @ Palau Sant Jordi-bQHESVSusU0.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Sopa De Cabra/Sopa de Cabra, Alfred García & David Rosell - El boig de la ciutat @ Palau Sant Jordi-n-txYlOQlfQ.ogg; Failed to open '/home/vduran/Musica/Sopa De Cabra/Sopa de Cabra, Alfred García & David Rosell - El boig de la ciutat @ Palau Sant Jordi-n-txYlOQlfQ.ogg': No such file or directory
+Mar 18 15:55 : player: played "Sopa De Cabra/Sopa de Cabra, Alfred García & David Rosell - El boig de la ciutat @ Palau Sant Jordi-n-txYlOQlfQ.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Sopa De Cabra/Sopa de Cabra, Judit Neddermann & David Carabén - Podre tornar enrere @ Palau Sant Jordi-R_4BF3oMYVk.ogg; Failed to open '/home/vduran/Musica/Sopa De Cabra/Sopa de Cabra, Judit Neddermann & David Carabén - Podre tornar enrere @ Palau Sant Jordi-R_4BF3oMYVk.ogg': No such file or directory
+Mar 18 15:55 : player: played "Sopa De Cabra/Sopa de Cabra, Judit Neddermann & David Carabén - Podre tornar enrere @ Palau Sant Jordi-R_4BF3oMYVk.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Sopa De Cabra/Sopa de Cabra, The Tyets, Ginestà i Guillem Solé - Mai Trobaràs @ Palau Sant Jordi-2VOiyXBOz7g.ogg; Failed to open '/home/vduran/Musica/Sopa De Cabra/Sopa de Cabra, The Tyets, Ginestà i Guillem Solé - Mai Trobaràs @ Palau Sant Jordi-2VOiyXBOz7g.ogg': No such file or directory
+Mar 18 15:55 : player: played "Sopa De Cabra/Sopa de Cabra, The Tyets, Ginestà i Guillem Solé - Mai Trobaràs @ Palau Sant Jordi-2VOiyXBOz7g.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Sopa De Cabra/Sopa de Cabra- Camins-79foFSDoOxY.ogg; Failed to open '/home/vduran/Musica/Sopa De Cabra/Sopa de Cabra- Camins-79foFSDoOxY.ogg': No such file or directory
+Mar 18 15:55 : player: played "Sopa De Cabra/Sopa de Cabra- Camins-79foFSDoOxY.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Electronica/Miss Monique /Special B'day Podcast 2021.ogg; Failed to open '/home/vduran/Musica/Electronica/Miss Monique /Special B'day Podcast 2021.ogg': No such file or directory
+Mar 18 15:55 : player: played "Electronica/Miss Monique /Special B'day Podcast 2021.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Electronica/Miss Monique /Special Mix for KissFm Ukraine.ogg; Failed to open '/home/vduran/Musica/Electronica/Miss Monique /Special Mix for KissFm Ukraine.ogg': No such file or directory
+Mar 18 15:55 : player: played "Electronica/Miss Monique /Special Mix for KissFm Ukraine.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Electronica/Miss Monique /Special Progressive House DJ Mix.ogg; Failed to open '/home/vduran/Musica/Electronica/Miss Monique /Special Progressive House DJ Mix.ogg': No such file or directory
+Mar 18 15:55 : player: played "Electronica/Miss Monique /Special Progressive House DJ Mix.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Electronica/Miss Monique /Sunset Mix Ephimera Tulum.ogg; Failed to open '/home/vduran/Musica/Electronica/Miss Monique /Sunset Mix Ephimera Tulum.ogg': No such file or directory
+Mar 18 15:55 : player: played "Electronica/Miss Monique /Sunset Mix Ephimera Tulum.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Buhos/La nit esta que crema/T'he trobat a faltar.ogg; Failed to open '/home/vduran/Musica/Buhos/La nit esta que crema/T'he trobat a faltar.ogg': No such file or directory
+Mar 18 15:55 : player: played "Buhos/La nit esta que crema/T'he trobat a faltar.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/new/TODAY IS THE DAY (Buhos and Mar Lucas.ogg; Failed to open '/home/vduran/Musica/new/TODAY IS THE DAY (Buhos and Mar Lucas.ogg': No such file or directory
+Mar 18 15:55 : player: played "new/TODAY IS THE DAY (Buhos and Mar Lucas.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/The Tyets/TORNEM A CASA ｜ THE TYETS [7TiK1CTw3GA].ogg; Failed to open '/home/vduran/Musica/The Tyets/TORNEM A CASA ｜ THE TYETS [7TiK1CTw3GA].ogg': No such file or directory
+Mar 18 15:55 : player: played "The Tyets/TORNEM A CASA ｜ THE TYETS [7TiK1CTw3GA].ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Electronica/Miss Monique /The Biosphere Museum, in Montreal, Canada for Cercle.ogg; Failed to open '/home/vduran/Musica/Electronica/Miss Monique /The Biosphere Museum, in Montreal, Canada for Cercle.ogg': No such file or directory
+Mar 18 15:55 : player: played "Electronica/Miss Monique /The Biosphere Museum, in Montreal, Canada for Cercle.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/The Tyets/The Tyets - Summercat, de Billie the Vision and The Dancers [mPqrlGaOn5k].ogg; Failed to open '/home/vduran/Musica/The Tyets/The Tyets - Summercat, de Billie the Vision and The Dancers [mPqrlGaOn5k].ogg': No such file or directory
+Mar 18 15:55 : player: played "The Tyets/The Tyets - Summercat, de Billie the Vision and The Dancers [mPqrlGaOn5k].ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Els Catarres/Invencibles/Tintín.ogg; Failed to open '/home/vduran/Musica/Els Catarres/Invencibles/Tintín.ogg': No such file or directory
+Mar 18 15:55 : player: played "Els Catarres/Invencibles/Tintín.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Els Catarres/Invencibles/Tokyo.ogg; Failed to open '/home/vduran/Musica/Els Catarres/Invencibles/Tokyo.ogg': No such file or directory
+Mar 18 15:55 : player: played "Els Catarres/Invencibles/Tokyo.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Electronica/Miss Monique /Tomorrowland - Friendship Mix - Miss Monique [_Vj8WEqvncA].ogg; Failed to open '/home/vduran/Musica/Electronica/Miss Monique /Tomorrowland - Friendship Mix - Miss Monique [_Vj8WEqvncA].ogg': No such file or directory
+Mar 18 15:55 : player: played "Electronica/Miss Monique /Tomorrowland - Friendship Mix - Miss Monique [_Vj8WEqvncA].ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Sara Roy/(A)MAR/Tot és més fàcil - Sara Roy ft.Miki Núñez (A)MAR.mp3; Failed to open '/home/vduran/Musica/Sara Roy/(A)MAR/Tot és més fàcil - Sara Roy ft.Miki Núñez (A)MAR.mp3': No such file or directory
+Mar 18 15:55 : player: played "Sara Roy/(A)MAR/Tot és més fàcil - Sara Roy ft.Miki Núñez (A)MAR.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Juanes/La vida es un ratico/12. Tres.ogg; Failed to open '/home/vduran/Musica/Juanes/La vida es un ratico/12. Tres.ogg': No such file or directory
+Mar 18 15:55 : player: played "Juanes/La vida es un ratico/12. Tres.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Txarango/Txarango - Aguacero.mp3; Failed to open '/home/vduran/Musica/Txarango/Txarango - Aguacero.mp3': No such file or directory
+Mar 18 15:55 : player: played "Txarango/Txarango - Aguacero.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Txarango/Txarango - Ara que balles amb mi.mp3; Failed to open '/home/vduran/Musica/Txarango/Txarango - Ara que balles amb mi.mp3': No such file or directory
+Mar 18 15:55 : player: played "Txarango/Txarango - Ara que balles amb mi.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Txarango/Txarango - Avui que fas anys.mp3; Failed to open '/home/vduran/Musica/Txarango/Txarango - Avui que fas anys.mp3': No such file or directory
+Mar 18 15:55 : player: played "Txarango/Txarango - Avui que fas anys.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Txarango/Txarango - Barcelona feat. Ahyvin Bruno.mp3; Failed to open '/home/vduran/Musica/Txarango/Txarango - Barcelona feat. Ahyvin Bruno.mp3': No such file or directory
+Mar 18 15:55 : player: played "Txarango/Txarango - Barcelona feat. Ahyvin Bruno.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Txarango/Txarango - Bendita la vida.mp3; Failed to open '/home/vduran/Musica/Txarango/Txarango - Bendita la vida.mp3': No such file or directory
+Mar 18 15:55 : player: played "Txarango/Txarango - Bendita la vida.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Txarango/Txarango - Cançons de llibertat.mp3; Failed to open '/home/vduran/Musica/Txarango/Txarango - Cançons de llibertat.mp3': No such file or directory
+Mar 18 15:55 : player: played "Txarango/Txarango - Cançons de llibertat.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Txarango/Txarango - El combat.mp3; Failed to open '/home/vduran/Musica/Txarango/Txarango - El combat.mp3': No such file or directory
+Mar 18 15:55 : player: played "Txarango/Txarango - El combat.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Txarango/Txarango - El tren del temps.ogg; Failed to open '/home/vduran/Musica/Txarango/Txarango - El tren del temps.ogg': No such file or directory
+Mar 18 15:55 : player: played "Txarango/Txarango - El tren del temps.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Txarango/Txarango - Et recordo.ogg; Failed to open '/home/vduran/Musica/Txarango/Txarango - Et recordo.ogg': No such file or directory
+Mar 18 15:55 : player: played "Txarango/Txarango - Et recordo.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Txarango/Txarango - És hora de tornar a casa.mp3; Failed to open '/home/vduran/Musica/Txarango/Txarango - És hora de tornar a casa.mp3': No such file or directory
+Mar 18 15:55 : player: played "Txarango/Txarango - És hora de tornar a casa.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Txarango/Txarango - Les coses senzilles.mp3; Failed to open '/home/vduran/Musica/Txarango/Txarango - Les coses senzilles.mp3': No such file or directory
+Mar 18 15:55 : player: played "Txarango/Txarango - Les coses senzilles.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Txarango/Txarango - Meravellós regal.ogg; Failed to open '/home/vduran/Musica/Txarango/Txarango - Meravellós regal.ogg': No such file or directory
+Mar 18 15:55 : player: played "Txarango/Txarango - Meravellós regal.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Txarango/Txarango - Mil ocells.ogg; Failed to open '/home/vduran/Musica/Txarango/Txarango - Mil ocells.ogg': No such file or directory
+Mar 18 15:55 : player: played "Txarango/Txarango - Mil ocells.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Txarango/Txarango - Nous camins.mp3; Failed to open '/home/vduran/Musica/Txarango/Txarango - Nous camins.mp3': No such file or directory
+Mar 18 15:55 : player: played "Txarango/Txarango - Nous camins.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Txarango/Txarango - Obriu les portes.ogg; Failed to open '/home/vduran/Musica/Txarango/Txarango - Obriu les portes.ogg': No such file or directory
+Mar 18 15:55 : player: played "Txarango/Txarango - Obriu les portes.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Txarango/Txarango - Quan calla la ciutat.ogg; Failed to open '/home/vduran/Musica/Txarango/Txarango - Quan calla la ciutat.ogg': No such file or directory
+Mar 18 15:55 : player: played "Txarango/Txarango - Quan calla la ciutat.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Txarango/Txarango - Que tot et vagi bé.ogg; Failed to open '/home/vduran/Musica/Txarango/Txarango - Que tot et vagi bé.ogg': No such file or directory
+Mar 18 15:55 : player: played "Txarango/Txarango - Que tot et vagi bé.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Txarango/Txarango - Resiste y grita.ogg; Failed to open '/home/vduran/Musica/Txarango/Txarango - Resiste y grita.ogg': No such file or directory
+Mar 18 15:55 : player: played "Txarango/Txarango - Resiste y grita.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Txarango/Txarango - Si sabéssis.mp3; Failed to open '/home/vduran/Musica/Txarango/Txarango - Si sabéssis.mp3': No such file or directory
+Mar 18 15:55 : player: played "Txarango/Txarango - Si sabéssis.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Txarango/Txarango - Som foc.ogg; Failed to open '/home/vduran/Musica/Txarango/Txarango - Som foc.ogg': No such file or directory
+Mar 18 15:55 : player: played "Txarango/Txarango - Som foc.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Txarango/Txarango - Somriurem.ogg; Failed to open '/home/vduran/Musica/Txarango/Txarango - Somriurem.ogg': No such file or directory
+Mar 18 15:55 : player: played "Txarango/Txarango - Somriurem.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Txarango/Txarango - T'espero.ogg; Failed to open '/home/vduran/Musica/Txarango/Txarango - T'espero.ogg': No such file or directory
+Mar 18 15:55 : player: played "Txarango/Txarango - T'espero.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Txarango/Txarango - Terra endins.ogg; Failed to open '/home/vduran/Musica/Txarango/Txarango - Terra endins.ogg': No such file or directory
+Mar 18 15:55 : player: played "Txarango/Txarango - Terra endins.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Txarango/Txarango - Ulls de corall.ogg; Failed to open '/home/vduran/Musica/Txarango/Txarango - Ulls de corall.ogg': No such file or directory
+Mar 18 15:55 : player: played "Txarango/Txarango - Ulls de corall.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Txarango/Txarango - Una lluna a l'aigua.ogg; Failed to open '/home/vduran/Musica/Txarango/Txarango - Una lluna a l'aigua.ogg': No such file or directory
+Mar 18 15:55 : player: played "Txarango/Txarango - Una lluna a l'aigua.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Juanes/La vida es un ratico/9. Tú y Yo.ogg; Failed to open '/home/vduran/Musica/Juanes/La vida es un ratico/9. Tú y Yo.ogg': No such file or directory
+Mar 18 15:55 : player: played "Juanes/La vida es un ratico/9. Tú y Yo.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Els Catarres/Invencibles/Un Sostre fet d'Estrelles.ogg; Failed to open '/home/vduran/Musica/Els Catarres/Invencibles/Un Sostre fet d'Estrelles.ogg': No such file or directory
+Mar 18 15:55 : player: played "Els Catarres/Invencibles/Un Sostre fet d'Estrelles.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/SUU/Material Sensible/Un poco - Suu [IYDo4Uct_Aw].ogg; Failed to open '/home/vduran/Musica/SUU/Material Sensible/Un poco - Suu [IYDo4Uct_Aw].ogg': No such file or directory
+Mar 18 15:55 : player: played "SUU/Material Sensible/Un poco - Suu [IYDo4Uct_Aw].ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/SUU/Material Sensible/Una altra vegada - Suu [3OAVTZS9IEQ].ogg; Failed to open '/home/vduran/Musica/SUU/Material Sensible/Una altra vegada - Suu [3OAVTZS9IEQ].ogg': No such file or directory
+Mar 18 15:55 : player: played "SUU/Material Sensible/Una altra vegada - Suu [3OAVTZS9IEQ].ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Sara Roy/(A)MAR/Una vez más - Sara Roy (A)MAR.mp3; Failed to open '/home/vduran/Musica/Sara Roy/(A)MAR/Una vez más - Sara Roy (A)MAR.mp3': No such file or directory
+Mar 18 15:55 : player: played "Sara Roy/(A)MAR/Una vez más - Sara Roy (A)MAR.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/SUU/Material Sensible/Uno de Septiembre - Suu [5Wb1zqUEqaY].ogg; Failed to open '/home/vduran/Musica/SUU/Material Sensible/Uno de Septiembre - Suu [5Wb1zqUEqaY].ogg': No such file or directory
+Mar 18 15:55 : player: played "SUU/Material Sensible/Uno de Septiembre - Suu [5Wb1zqUEqaY].ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Vicco/Vicco, Suu - Un Trago De Ti.ogg; Failed to open '/home/vduran/Musica/Vicco/Vicco, Suu - Un Trago De Ti.ogg': No such file or directory
+Mar 18 15:55 : player: played "Vicco/Vicco, Suu - Un Trago De Ti.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Els Catarres/Invencibles/Vull Estar Amb Tu.ogg; Failed to open '/home/vduran/Musica/Els Catarres/Invencibles/Vull Estar Amb Tu.ogg': No such file or directory
+Mar 18 15:55 : player: played "Els Catarres/Invencibles/Vull Estar Amb Tu.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Electronica/Tasha&Co/XQUE Vol. 6  - Tasha & Co.ogg; Failed to open '/home/vduran/Musica/Electronica/Tasha&Co/XQUE Vol. 6  - Tasha & Co.ogg': No such file or directory
+Mar 18 15:55 : player: played "Electronica/Tasha&Co/XQUE Vol. 6  - Tasha & Co.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Electronica/Tasha&Co/YOUNA - Melodic Techno & Progressive House DJ Mix @ Dubai [ZbEhNFCHMQQ].ogg; Failed to open '/home/vduran/Musica/Electronica/Tasha&Co/YOUNA - Melodic Techno & Progressive House DJ Mix @ Dubai [ZbEhNFCHMQQ].ogg': No such file or directory
+Mar 18 15:55 : player: played "Electronica/Tasha&Co/YOUNA - Melodic Techno & Progressive House DJ Mix @ Dubai [ZbEhNFCHMQQ].ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Electronica/Miss Monique /YearMix  2020.ogg; Failed to open '/home/vduran/Musica/Electronica/Miss Monique /YearMix  2020.ogg': No such file or directory
+Mar 18 15:55 : player: played "Electronica/Miss Monique /YearMix  2020.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Zetak/ZETAK - Akelarretan [GgT4z3iRm6g].ogg; Failed to open '/home/vduran/Musica/Zetak/ZETAK - Akelarretan [GgT4z3iRm6g].ogg': No such file or directory
+Mar 18 15:55 : player: played "Zetak/ZETAK - Akelarretan [GgT4z3iRm6g].ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Zetak/ZETAK - Errepidean [7P9hrOOjV14].ogg; Failed to open '/home/vduran/Musica/Zetak/ZETAK - Errepidean [7P9hrOOjV14].ogg': No such file or directory
+Mar 18 15:55 : player: played "Zetak/ZETAK - Errepidean [7P9hrOOjV14].ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Zetak/ZETAK - Hegan [ 90eko bi bala ｜ Gaztea ] [YusCN-L3sOM].ogg; Failed to open '/home/vduran/Musica/Zetak/ZETAK - Hegan [ 90eko bi bala ｜ Gaztea ] [YusCN-L3sOM].ogg': No such file or directory
+Mar 18 15:55 : player: played "Zetak/ZETAK - Hegan [ 90eko bi bala ｜ Gaztea ] [YusCN-L3sOM].ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Zetak/ZETAK - Pater Noster [zJ4XLqQOTcQ].ogg; Failed to open '/home/vduran/Musica/Zetak/ZETAK - Pater Noster [zJ4XLqQOTcQ].ogg': No such file or directory
+Mar 18 15:55 : player: played "Zetak/ZETAK - Pater Noster [zJ4XLqQOTcQ].ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Zetak/ZETAK - Su (ZUZENEAN⧸LIVE⧸DIRECTO) - Oialume 2019-11-16 [9ffwSbW2IZk].ogg; Failed to open '/home/vduran/Musica/Zetak/ZETAK - Su (ZUZENEAN⧸LIVE⧸DIRECTO) - Oialume 2019-11-16 [9ffwSbW2IZk].ogg': No such file or directory
+Mar 18 15:55 : player: played "Zetak/ZETAK - Su (ZUZENEAN⧸LIVE⧸DIRECTO) - Oialume 2019-11-16 [9ffwSbW2IZk].ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Zetak/ZETAK - Zeinen Ederra Izango Den [8-N6K9H9SMk].ogg; Failed to open '/home/vduran/Musica/Zetak/ZETAK - Zeinen Ederra Izango Den [8-N6K9H9SMk].ogg': No such file or directory
+Mar 18 15:55 : player: played "Zetak/ZETAK - Zeinen Ederra Izango Den [8-N6K9H9SMk].ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Zetak/ZETAK, Erramun Martikorena - Itzulera (Herri Urrats 2022) [ZErUMnB7aMk].ogg; Failed to open '/home/vduran/Musica/Zetak/ZETAK, Erramun Martikorena - Itzulera (Herri Urrats 2022) [ZErUMnB7aMk].ogg': No such file or directory
+Mar 18 15:55 : player: played "Zetak/ZETAK, Erramun Martikorena - Itzulera (Herri Urrats 2022) [ZErUMnB7aMk].ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Zetak/ZETAK, Oques Grasses - Hitzeman [vKoIpMbbZZ0].ogg; Failed to open '/home/vduran/Musica/Zetak/ZETAK, Oques Grasses - Hitzeman [vKoIpMbbZZ0].ogg': No such file or directory
+Mar 18 15:55 : player: played "Zetak/ZETAK, Oques Grasses - Hitzeman [vKoIpMbbZZ0].ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Zetak/ZETAK, SUU - Pa amb Oli I Sal [I4zBVfyEd5s].ogg; Failed to open '/home/vduran/Musica/Zetak/ZETAK, SUU - Pa amb Oli I Sal [I4zBVfyEd5s].ogg': No such file or directory
+Mar 18 15:55 : player: played "Zetak/ZETAK, SUU - Pa amb Oli I Sal [I4zBVfyEd5s].ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/El Diluvi/el Diluvi - Tendresa Insubmisa (Videoclip Oficial).ogg; Failed to open '/home/vduran/Musica/El Diluvi/el Diluvi - Tendresa Insubmisa (Videoclip Oficial).ogg': No such file or directory
+Mar 18 15:55 : player: played "El Diluvi/el Diluvi - Tendresa Insubmisa (Videoclip Oficial).ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Podcasts/l-039auge-de-les-noies-hackers-a-catalunya.mp3; Failed to open '/home/vduran/Musica/Podcasts/l-039auge-de-les-noies-hackers-a-catalunya.mp3': No such file or directory
+Mar 18 15:55 : player: played "Podcasts/l-039auge-de-les-noies-hackers-a-catalunya.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/SUU/Material Sensible/¿Cómo duermes？ [3JaEKoR8s-I].ogg; Failed to open '/home/vduran/Musica/SUU/Material Sensible/¿Cómo duermes？ [3JaEKoR8s-I].ogg': No such file or directory
+Mar 18 15:55 : player: played "SUU/Material Sensible/¿Cómo duermes？ [3JaEKoR8s-I].ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/El Canto del Loco/Por Mi Y Por Todos Mis Compañeros/01 - El Canto Del Loco - Mejor.mp3; Failed to open '/home/vduran/Musica/El Canto del Loco/Por Mi Y Por Todos Mis Compañeros/01 - El Canto Del Loco - Mejor.mp3': No such file or directory
+Mar 18 15:55 : player: played "El Canto del Loco/Por Mi Y Por Todos Mis Compañeros/01 - El Canto Del Loco - Mejor.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/La Fuga/A Golpes de Rock & Roll /01 hasta nunca.ogg; Failed to open '/home/vduran/Musica/La Fuga/A Golpes de Rock & Roll /01 hasta nunca.ogg': No such file or directory
+Mar 18 15:55 : player: played "La Fuga/A Golpes de Rock & Roll /01 hasta nunca.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Estopa/Aniverario/CD 2/ - Carlos Jean - Hemicraneal.mp3; Failed to open '/home/vduran/Musica/Estopa/Aniverario/CD 2/ - Carlos Jean - Hemicraneal.mp3': No such file or directory
+Mar 18 15:55 : player: played "Estopa/Aniverario/CD 2/ - Carlos Jean - Hemicraneal.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Estopa/Anniversarivm /CD 2/ - Carlos Jean - Hemicraneal.mp3; Failed to open '/home/vduran/Musica/Estopa/Anniversarivm /CD 2/ - Carlos Jean - Hemicraneal.mp3': No such file or directory
+Mar 18 15:55 : player: played "Estopa/Anniversarivm /CD 2/ - Carlos Jean - Hemicraneal.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Estopa/Aniverario/CD 1/ - Estopa y Rosario - RUN RUN.mp3; Failed to open '/home/vduran/Musica/Estopa/Aniverario/CD 1/ - Estopa y Rosario - RUN RUN.mp3': No such file or directory
+Mar 18 15:55 : player: played "Estopa/Aniverario/CD 1/ - Estopa y Rosario - RUN RUN.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Estopa/Anniversarivm /CD 1/ - Estopa y Rosario - RUN RUN.mp3; Failed to open '/home/vduran/Musica/Estopa/Anniversarivm /CD 1/ - Estopa y Rosario - RUN RUN.mp3': No such file or directory
+Mar 18 15:55 : player: played "Estopa/Anniversarivm /CD 1/ - Estopa y Rosario - RUN RUN.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/El Canto del Loco/Por Mi Y Por Todos Mis Compañeros/02 - El Canto Del Loco - La Casa De La Bomba.mp3; Failed to open '/home/vduran/Musica/El Canto del Loco/Por Mi Y Por Todos Mis Compañeros/02 - El Canto Del Loco - La Casa De La Bomba.mp3': No such file or directory
+Mar 18 15:55 : player: played "El Canto del Loco/Por Mi Y Por Todos Mis Compañeros/02 - El Canto Del Loco - La Casa De La Bomba.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/La Fuga/A Golpes de Rock & Roll /02 a golpes.ogg; Failed to open '/home/vduran/Musica/La Fuga/A Golpes de Rock & Roll /02 a golpes.ogg': No such file or directory
+Mar 18 15:55 : player: played "La Fuga/A Golpes de Rock & Roll /02 a golpes.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Estopa/Aniverario/CD 1/ - Estopa y El Canto del Loco - FUENTE DE ENERGIA.mp3; Failed to open '/home/vduran/Musica/Estopa/Aniverario/CD 1/ - Estopa y El Canto del Loco - FUENTE DE ENERGIA.mp3': No such file or directory
+Mar 18 15:55 : player: played "Estopa/Aniverario/CD 1/ - Estopa y El Canto del Loco - FUENTE DE ENERGIA.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Estopa/Anniversarivm /CD 1/ - Estopa y El Canto del Loco - FUENTE DE ENERGIA.mp3; Failed to open '/home/vduran/Musica/Estopa/Anniversarivm /CD 1/ - Estopa y El Canto del Loco - FUENTE DE ENERGIA.mp3': No such file or directory
+Mar 18 15:55 : player: played "Estopa/Anniversarivm /CD 1/ - Estopa y El Canto del Loco - FUENTE DE ENERGIA.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Estopa/Aniverario/CD 2/ - Nigel Walker - Cuando Amanece.mp3; Failed to open '/home/vduran/Musica/Estopa/Aniverario/CD 2/ - Nigel Walker - Cuando Amanece.mp3': No such file or directory
+Mar 18 15:55 : player: played "Estopa/Aniverario/CD 2/ - Nigel Walker - Cuando Amanece.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Estopa/Anniversarivm /CD 2/ - Nigel Walker - Cuando Amanece.mp3; Failed to open '/home/vduran/Musica/Estopa/Anniversarivm /CD 2/ - Nigel Walker - Cuando Amanece.mp3': No such file or directory
+Mar 18 15:55 : player: played "Estopa/Anniversarivm /CD 2/ - Nigel Walker - Cuando Amanece.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/El Canto del Loco/Por Mi Y Por Todos Mis Compañeros/03 - El Canto Del Loco - Nada De Nada.mp3; Failed to open '/home/vduran/Musica/El Canto del Loco/Por Mi Y Por Todos Mis Compañeros/03 - El Canto Del Loco - Nada De Nada.mp3': No such file or directory
+Mar 18 15:55 : player: played "El Canto del Loco/Por Mi Y Por Todos Mis Compañeros/03 - El Canto Del Loco - Nada De Nada.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/La Fuga/A Golpes de Rock & Roll /03 pedazo de moron.ogg; Failed to open '/home/vduran/Musica/La Fuga/A Golpes de Rock & Roll /03 pedazo de moron.ogg': No such file or directory
+Mar 18 15:55 : player: played "La Fuga/A Golpes de Rock & Roll /03 pedazo de moron.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Estopa/Anniversarivm /CD 1/ - Estopa y Macaco - NO QUIERO VERLA MAS.mp3; Failed to open '/home/vduran/Musica/Estopa/Anniversarivm /CD 1/ - Estopa y Macaco - NO QUIERO VERLA MAS.mp3': No such file or directory
+Mar 18 15:55 : player: played "Estopa/Anniversarivm /CD 1/ - Estopa y Macaco - NO QUIERO VERLA MAS.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Estopa/Aniverario/CD 1/ - Estopa y Macaco - NO QUIERO VERLA MAS.mp3; Failed to open '/home/vduran/Musica/Estopa/Aniverario/CD 1/ - Estopa y Macaco - NO QUIERO VERLA MAS.mp3': No such file or directory
+Mar 18 15:55 : player: played "Estopa/Aniverario/CD 1/ - Estopa y Macaco - NO QUIERO VERLA MAS.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Estopa/Aniverario/CD 2/ - Fernando Montesinos - Cuando cae la luna.mp3; Failed to open '/home/vduran/Musica/Estopa/Aniverario/CD 2/ - Fernando Montesinos - Cuando cae la luna.mp3': No such file or directory
+Mar 18 15:55 : player: played "Estopa/Aniverario/CD 2/ - Fernando Montesinos - Cuando cae la luna.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Estopa/Anniversarivm /CD 2/ - Fernando Montesinos - Cuando cae la luna.mp3; Failed to open '/home/vduran/Musica/Estopa/Anniversarivm /CD 2/ - Fernando Montesinos - Cuando cae la luna.mp3': No such file or directory
+Mar 18 15:55 : player: played "Estopa/Anniversarivm /CD 2/ - Fernando Montesinos - Cuando cae la luna.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/El Canto del Loco/Por Mi Y Por Todos Mis Compañeros/04 - El Canto Del Loco - Aunque Tu No Lo Sepas.mp3; Failed to open '/home/vduran/Musica/El Canto del Loco/Por Mi Y Por Todos Mis Compañeros/04 - El Canto Del Loco - Aunque Tu No Lo Sepas.mp3': No such file or directory
+Mar 18 15:55 : player: played "El Canto del Loco/Por Mi Y Por Todos Mis Compañeros/04 - El Canto Del Loco - Aunque Tu No Lo Sepas.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/La Fuga/A Golpes de Rock & Roll /04 un rayito de sol.ogg; Failed to open '/home/vduran/Musica/La Fuga/A Golpes de Rock & Roll /04 un rayito de sol.ogg': No such file or directory
+Mar 18 15:55 : player: played "La Fuga/A Golpes de Rock & Roll /04 un rayito de sol.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Estopa/Anniversarivm /CD 1/ - Estopa y Muchachito - TU CALORRO.mp3; Failed to open '/home/vduran/Musica/Estopa/Anniversarivm /CD 1/ - Estopa y Muchachito - TU CALORRO.mp3': No such file or directory
+Mar 18 15:55 : player: played "Estopa/Anniversarivm /CD 1/ - Estopa y Muchachito - TU CALORRO.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Estopa/Aniverario/CD 1/ - Estopa y Muchachito - TU CALORRO.mp3; Failed to open '/home/vduran/Musica/Estopa/Aniverario/CD 1/ - Estopa y Muchachito - TU CALORRO.mp3': No such file or directory
+Mar 18 15:55 : player: played "Estopa/Aniverario/CD 1/ - Estopa y Muchachito - TU CALORRO.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Estopa/Aniverario/CD 2/ - Fernando Illán y Miguel de la vega - Me falta el aliento.mp3; Failed to open '/home/vduran/Musica/Estopa/Aniverario/CD 2/ - Fernando Illán y Miguel de la vega - Me falta el aliento.mp3': No such file or directory
+Mar 18 15:55 : player: played "Estopa/Aniverario/CD 2/ - Fernando Illán y Miguel de la vega - Me falta el aliento.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Estopa/Anniversarivm /CD 2/ - Fernando Illán y Miguel de la vega - Me falta el aliento.mp3; Failed to open '/home/vduran/Musica/Estopa/Anniversarivm /CD 2/ - Fernando Illán y Miguel de la vega - Me falta el aliento.mp3': No such file or directory
+Mar 18 15:55 : player: played "Estopa/Anniversarivm /CD 2/ - Fernando Illán y Miguel de la vega - Me falta el aliento.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/El Canto del Loco/Por Mi Y Por Todos Mis Compañeros/05 - El Canto Del Loco - El Garrotin (Con Jose Merce).mp3; Failed to open '/home/vduran/Musica/El Canto del Loco/Por Mi Y Por Todos Mis Compañeros/05 - El Canto Del Loco - El Garrotin (Con Jose Merce).mp3': No such file or directory
+Mar 18 15:55 : player: played "El Canto del Loco/Por Mi Y Por Todos Mis Compañeros/05 - El Canto Del Loco - El Garrotin (Con Jose Merce).mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/La Fuga/A Golpes de Rock & Roll /05 jugando a no ganar.ogg; Failed to open '/home/vduran/Musica/La Fuga/A Golpes de Rock & Roll /05 jugando a no ganar.ogg': No such file or directory
+Mar 18 15:55 : player: played "La Fuga/A Golpes de Rock & Roll /05 jugando a no ganar.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Estopa/Aniverario/CD 2/ - Bori Alarcón - Vino Tinto.mp3; Failed to open '/home/vduran/Musica/Estopa/Aniverario/CD 2/ - Bori Alarcón - Vino Tinto.mp3': No such file or directory
+Mar 18 15:55 : player: played "Estopa/Aniverario/CD 2/ - Bori Alarcón - Vino Tinto.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Estopa/Anniversarivm /CD 2/ - Bori Alarcón - Vino Tinto.mp3; Failed to open '/home/vduran/Musica/Estopa/Anniversarivm /CD 2/ - Bori Alarcón - Vino Tinto.mp3': No such file or directory
+Mar 18 15:55 : player: played "Estopa/Anniversarivm /CD 2/ - Bori Alarcón - Vino Tinto.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Estopa/Anniversarivm /CD 1/ - Estopa y Ana Belen - YA NO ME ACUERDO.mp3; Failed to open '/home/vduran/Musica/Estopa/Anniversarivm /CD 1/ - Estopa y Ana Belen - YA NO ME ACUERDO.mp3': No such file or directory
+Mar 18 15:55 : player: played "Estopa/Anniversarivm /CD 1/ - Estopa y Ana Belen - YA NO ME ACUERDO.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Estopa/Aniverario/CD 1/ - Estopa y Ana Belen - YA NO ME ACUERDO.mp3; Failed to open '/home/vduran/Musica/Estopa/Aniverario/CD 1/ - Estopa y Ana Belen - YA NO ME ACUERDO.mp3': No such file or directory
+Mar 18 15:55 : player: played "Estopa/Aniverario/CD 1/ - Estopa y Ana Belen - YA NO ME ACUERDO.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/El Canto del Loco/Por Mi Y Por Todos Mis Compañeros/06 - El Canto Del Loco - No Puedo Vivir Sin Ti.mp3; Failed to open '/home/vduran/Musica/El Canto del Loco/Por Mi Y Por Todos Mis Compañeros/06 - El Canto Del Loco - No Puedo Vivir Sin Ti.mp3': No such file or directory
+Mar 18 15:55 : player: played "El Canto del Loco/Por Mi Y Por Todos Mis Compañeros/06 - El Canto Del Loco - No Puedo Vivir Sin Ti.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/La Fuga/A Golpes de Rock & Roll /06 abrazame.ogg; Failed to open '/home/vduran/Musica/La Fuga/A Golpes de Rock & Roll /06 abrazame.ogg': No such file or directory
+Mar 18 15:55 : player: played "La Fuga/A Golpes de Rock & Roll /06 abrazame.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Estopa/Anniversarivm /CD 2/ - Alejo Stivei - La raja de tu falda.mp3; Failed to open '/home/vduran/Musica/Estopa/Anniversarivm /CD 2/ - Alejo Stivei - La raja de tu falda.mp3': No such file or directory
+Mar 18 15:55 : player: played "Estopa/Anniversarivm /CD 2/ - Alejo Stivei - La raja de tu falda.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Estopa/Aniverario/CD 2/ - Alejo Stivei - La raja de tu falda.mp3; Failed to open '/home/vduran/Musica/Estopa/Aniverario/CD 2/ - Alejo Stivei - La raja de tu falda.mp3': No such file or directory
+Mar 18 15:55 : player: played "Estopa/Aniverario/CD 2/ - Alejo Stivei - La raja de tu falda.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Estopa/Anniversarivm /CD 1/ - Estopa y Rosendo - CACHO A CACHO.mp3; Failed to open '/home/vduran/Musica/Estopa/Anniversarivm /CD 1/ - Estopa y Rosendo - CACHO A CACHO.mp3': No such file or directory
+Mar 18 15:55 : player: played "Estopa/Anniversarivm /CD 1/ - Estopa y Rosendo - CACHO A CACHO.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Estopa/Aniverario/CD 1/ - Estopa y Rosendo - CACHO A CACHO.mp3; Failed to open '/home/vduran/Musica/Estopa/Aniverario/CD 1/ - Estopa y Rosendo - CACHO A CACHO.mp3': No such file or directory
+Mar 18 15:55 : player: played "Estopa/Aniverario/CD 1/ - Estopa y Rosendo - CACHO A CACHO.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/El Canto del Loco/Por Mi Y Por Todos Mis Compañeros/07 - El Canto Del Loco - Aquellas Pequeñas Cosas.mp3; Failed to open '/home/vduran/Musica/El Canto del Loco/Por Mi Y Por Todos Mis Compañeros/07 - El Canto Del Loco - Aquellas Pequeñas Cosas.mp3': No such file or directory
+Mar 18 15:55 : player: played "El Canto del Loco/Por Mi Y Por Todos Mis Compañeros/07 - El Canto Del Loco - Aquellas Pequeñas Cosas.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/La Fuga/A Golpes de Rock & Roll /07 idiota.ogg; Failed to open '/home/vduran/Musica/La Fuga/A Golpes de Rock & Roll /07 idiota.ogg': No such file or directory
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Estopa/Aniverario/CD 1/ - Estopa y Joan Manuel Serrat - ERA.mp3; Failed to open '/home/vduran/Musica/Estopa/Aniverario/CD 1/ - Estopa y Joan Manuel Serrat - ERA.mp3': No such file or directory
+Mar 18 15:55 : player: played "La Fuga/A Golpes de Rock & Roll /07 idiota.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Estopa/Aniverario/CD 1/ - Estopa y Joan Manuel Serrat - ERA.mp3; Failed to open '/home/vduran/Musica/Estopa/Aniverario/CD 1/ - Estopa y Joan Manuel Serrat - ERA.mp3': No such file or directory
+Mar 18 15:55 : player: played "Estopa/Aniverario/CD 1/ - Estopa y Joan Manuel Serrat - ERA.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Estopa/Anniversarivm /CD 1/ - Estopa y Joan Manuel Serrat - ERA.mp3; Failed to open '/home/vduran/Musica/Estopa/Anniversarivm /CD 1/ - Estopa y Joan Manuel Serrat - ERA.mp3': No such file or directory
+Mar 18 15:55 : player: played "Estopa/Anniversarivm /CD 1/ - Estopa y Joan Manuel Serrat - ERA.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Estopa/Aniverario/CD 2/ - Leiva - Exiliado en el lavabo.mp3; Failed to open '/home/vduran/Musica/Estopa/Aniverario/CD 2/ - Leiva - Exiliado en el lavabo.mp3': No such file or directory
+Mar 18 15:55 : player: played "Estopa/Aniverario/CD 2/ - Leiva - Exiliado en el lavabo.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Estopa/Anniversarivm /CD 2/ - Leiva - Exiliado en el lavabo.mp3; Failed to open '/home/vduran/Musica/Estopa/Anniversarivm /CD 2/ - Leiva - Exiliado en el lavabo.mp3': No such file or directory
+Mar 18 15:55 : player: played "Estopa/Anniversarivm /CD 2/ - Leiva - Exiliado en el lavabo.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/El Canto del Loco/Por Mi Y Por Todos Mis Compañeros/08 - El Canto Del Loco, Alex Gonzalez - Años 80.mp3; Failed to open '/home/vduran/Musica/El Canto del Loco/Por Mi Y Por Todos Mis Compañeros/08 - El Canto Del Loco, Alex Gonzalez - Años 80.mp3': No such file or directory
+Mar 18 15:55 : player: played "El Canto del Loco/Por Mi Y Por Todos Mis Compañeros/08 - El Canto Del Loco, Alex Gonzalez - Años 80.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/La Fuga/A Golpes de Rock & Roll /08 mal humor.ogg; Failed to open '/home/vduran/Musica/La Fuga/A Golpes de Rock & Roll /08 mal humor.ogg': No such file or directory
+Mar 18 15:55 : player: played "La Fuga/A Golpes de Rock & Roll /08 mal humor.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Estopa/Anniversarivm /CD 1/ - Estopa y Ojos de Brujo - CUERPO TRISTE.mp3; Failed to open '/home/vduran/Musica/Estopa/Anniversarivm /CD 1/ - Estopa y Ojos de Brujo - CUERPO TRISTE.mp3': No such file or directory
+Mar 18 15:55 : player: played "Estopa/Anniversarivm /CD 1/ - Estopa y Ojos de Brujo - CUERPO TRISTE.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Estopa/Aniverario/CD 1/ - Estopa y Ojos de Brujo - CUERPO TRISTE.mp3; Failed to open '/home/vduran/Musica/Estopa/Aniverario/CD 1/ - Estopa y Ojos de Brujo - CUERPO TRISTE.mp3': No such file or directory
+Mar 18 15:55 : player: played "Estopa/Aniverario/CD 1/ - Estopa y Ojos de Brujo - CUERPO TRISTE.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Estopa/Anniversarivm /CD 2/ - Javier Limón - Malabares.mp3; Failed to open '/home/vduran/Musica/Estopa/Anniversarivm /CD 2/ - Javier Limón - Malabares.mp3': No such file or directory
+Mar 18 15:55 : player: played "Estopa/Anniversarivm /CD 2/ - Javier Limón - Malabares.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Estopa/Aniverario/CD 2/ - Javier Limón - Malabares.mp3; Failed to open '/home/vduran/Musica/Estopa/Aniverario/CD 2/ - Javier Limón - Malabares.mp3': No such file or directory
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/El Canto del Loco/Por Mi Y Por Todos Mis Compañeros/09 - El Canto Del Loco - Se Acabo.mp3; Failed to open '/home/vduran/Musica/El Canto del Loco/Por Mi Y Por Todos Mis Compañeros/09 - El Canto Del Loco - Se Acabo.mp3': No such file or directory
+Mar 18 15:55 : player: played "Estopa/Aniverario/CD 2/ - Javier Limón - Malabares.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/El Canto del Loco/Por Mi Y Por Todos Mis Compañeros/09 - El Canto Del Loco - Se Acabo.mp3; Failed to open '/home/vduran/Musica/El Canto del Loco/Por Mi Y Por Todos Mis Compañeros/09 - El Canto Del Loco - Se Acabo.mp3': No such file or directory
+Mar 18 15:55 : player: played "El Canto del Loco/Por Mi Y Por Todos Mis Compañeros/09 - El Canto Del Loco - Se Acabo.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/La Fuga/A Golpes de Rock & Roll /09 p'ki p'ya.ogg; Failed to open '/home/vduran/Musica/La Fuga/A Golpes de Rock & Roll /09 p'ki p'ya.ogg': No such file or directory
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Estopa/Anniversarivm /CD 1/ - Estopa y Miguel Campello (El Bicho) - DEMONIOS.mp3; Failed to open '/home/vduran/Musica/Estopa/Anniversarivm /CD 1/ - Estopa y Miguel Campello (El Bicho) - DEMONIOS.mp3': No such file or directory
+Mar 18 15:55 : player: played "La Fuga/A Golpes de Rock & Roll /09 p'ki p'ya.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Estopa/Anniversarivm /CD 1/ - Estopa y Miguel Campello (El Bicho) - DEMONIOS.mp3; Failed to open '/home/vduran/Musica/Estopa/Anniversarivm /CD 1/ - Estopa y Miguel Campello (El Bicho) - DEMONIOS.mp3': No such file or directory
+Mar 18 15:55 : player: played "Estopa/Anniversarivm /CD 1/ - Estopa y Miguel Campello (El Bicho) - DEMONIOS.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Estopa/Aniverario/CD 1/ - Estopa y Miguel Campello (El Bicho) - DEMONIOS.mp3; Failed to open '/home/vduran/Musica/Estopa/Aniverario/CD 1/ - Estopa y Miguel Campello (El Bicho) - DEMONIOS.mp3': No such file or directory
+Mar 18 15:55 : player: played "Estopa/Aniverario/CD 1/ - Estopa y Miguel Campello (El Bicho) - DEMONIOS.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Estopa/Anniversarivm /CD 2/ - Eugenio Muñoz y Luis Delgado - Pastillas de Freno.mp3; Failed to open '/home/vduran/Musica/Estopa/Anniversarivm /CD 2/ - Eugenio Muñoz y Luis Delgado - Pastillas de Freno.mp3': No such file or directory
+Mar 18 15:55 : player: played "Estopa/Anniversarivm /CD 2/ - Eugenio Muñoz y Luis Delgado - Pastillas de Freno.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Estopa/Aniverario/CD 2/ - Eugenio Muñoz y Luis Delgado - Pastillas de Freno.mp3; Failed to open '/home/vduran/Musica/Estopa/Aniverario/CD 2/ - Eugenio Muñoz y Luis Delgado - Pastillas de Freno.mp3': No such file or directory
+Mar 18 15:55 : player: played "Estopa/Aniverario/CD 2/ - Eugenio Muñoz y Luis Delgado - Pastillas de Freno.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/El Canto del Loco/Por Mi Y Por Todos Mis Compañeros/10 - El Canto Del Loco - Feo, Fuerte Y Formal.mp3; Failed to open '/home/vduran/Musica/El Canto del Loco/Por Mi Y Por Todos Mis Compañeros/10 - El Canto Del Loco - Feo, Fuerte Y Formal.mp3': No such file or directory
+Mar 18 15:55 : player: played "El Canto del Loco/Por Mi Y Por Todos Mis Compañeros/10 - El Canto Del Loco - Feo, Fuerte Y Formal.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/La Fuga/A Golpes de Rock & Roll /10 barrio gris.ogg; Failed to open '/home/vduran/Musica/La Fuga/A Golpes de Rock & Roll /10 barrio gris.ogg': No such file or directory
+Mar 18 15:55 : player: played "La Fuga/A Golpes de Rock & Roll /10 barrio gris.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Estopa/Aniverario/CD 1/ - Estopa y Joaquín Sabina - COMO CAMARON.mp3; Failed to open '/home/vduran/Musica/Estopa/Aniverario/CD 1/ - Estopa y Joaquín Sabina - COMO CAMARON.mp3': No such file or directory
+Mar 18 15:55 : player: played "Estopa/Aniverario/CD 1/ - Estopa y Joaquín Sabina - COMO CAMARON.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Estopa/Anniversarivm /CD 1/ - Estopa y Joaquín Sabina - COMO CAMARON.mp3; Failed to open '/home/vduran/Musica/Estopa/Anniversarivm /CD 1/ - Estopa y Joaquín Sabina - COMO CAMARON.mp3': No such file or directory
+Mar 18 15:55 : player: played "Estopa/Anniversarivm /CD 1/ - Estopa y Joaquín Sabina - COMO CAMARON.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Estopa/Anniversarivm /CD 2/ - Tino di Geraldo - Descatalogando.mp3; Failed to open '/home/vduran/Musica/Estopa/Anniversarivm /CD 2/ - Tino di Geraldo - Descatalogando.mp3': No such file or directory
+Mar 18 15:55 : player: played "Estopa/Anniversarivm /CD 2/ - Tino di Geraldo - Descatalogando.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Estopa/Aniverario/CD 2/ - Tino di Geraldo - Descatalogando.mp3; Failed to open '/home/vduran/Musica/Estopa/Aniverario/CD 2/ - Tino di Geraldo - Descatalogando.mp3': No such file or directory
+Mar 18 15:55 : player: played "Estopa/Aniverario/CD 2/ - Tino di Geraldo - Descatalogando.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/El Canto del Loco/Por Mi Y Por Todos Mis Compañeros/11 - El Canto Del Loco - Maria La Portuguesa.mp3; Failed to open '/home/vduran/Musica/El Canto del Loco/Por Mi Y Por Todos Mis Compañeros/11 - El Canto Del Loco - Maria La Portuguesa.mp3': No such file or directory
+Mar 18 15:55 : player: played "El Canto del Loco/Por Mi Y Por Todos Mis Compañeros/11 - El Canto Del Loco - Maria La Portuguesa.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/La Fuga/A Golpes de Rock & Roll /11 miguel.ogg; Failed to open '/home/vduran/Musica/La Fuga/A Golpes de Rock & Roll /11 miguel.ogg': No such file or directory
+Mar 18 15:55 : player: played "La Fuga/A Golpes de Rock & Roll /11 miguel.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Estopa/Aniverario/CD 1/ - Estopa y Chambao - LUNA LUNERA.mp3; Failed to open '/home/vduran/Musica/Estopa/Aniverario/CD 1/ - Estopa y Chambao - LUNA LUNERA.mp3': No such file or directory
+Mar 18 15:55 : player: played "Estopa/Aniverario/CD 1/ - Estopa y Chambao - LUNA LUNERA.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Estopa/Anniversarivm /CD 1/ - Estopa y Chambao - LUNA LUNERA.mp3; Failed to open '/home/vduran/Musica/Estopa/Anniversarivm /CD 1/ - Estopa y Chambao - LUNA LUNERA.mp3': No such file or directory
+Mar 18 15:55 : player: played "Estopa/Anniversarivm /CD 1/ - Estopa y Chambao - LUNA LUNERA.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Estopa/Aniverario/CD 2/ - Suso Sáiz - Era.mp3; Failed to open '/home/vduran/Musica/Estopa/Aniverario/CD 2/ - Suso Sáiz - Era.mp3': No such file or directory
+Mar 18 15:55 : player: played "Estopa/Aniverario/CD 2/ - Suso Sáiz - Era.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Estopa/Anniversarivm /CD 2/ - Suso Sáiz - Era.mp3; Failed to open '/home/vduran/Musica/Estopa/Anniversarivm /CD 2/ - Suso Sáiz - Era.mp3': No such file or directory
+Mar 18 15:55 : player: played "Estopa/Anniversarivm /CD 2/ - Suso Sáiz - Era.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/La Fuga/A Golpes de Rock & Roll /12 los de siempre.ogg; Failed to open '/home/vduran/Musica/La Fuga/A Golpes de Rock & Roll /12 los de siempre.ogg': No such file or directory
+Mar 18 15:55 : player: played "La Fuga/A Golpes de Rock & Roll /12 los de siempre.ogg"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Estopa/Aniverario/CD 1/ - Estopa y Los Chichos - EL DEL MEDIO DE LOS CHICHOS.mp3; Failed to open '/home/vduran/Musica/Estopa/Aniverario/CD 1/ - Estopa y Los Chichos - EL DEL MEDIO DE LOS CHICHOS.mp3': No such file or directory
+Mar 18 15:55 : player: played "Estopa/Aniverario/CD 1/ - Estopa y Los Chichos - EL DEL MEDIO DE LOS CHICHOS.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Estopa/Anniversarivm /CD 1/ - Estopa y Los Chichos - EL DEL MEDIO DE LOS CHICHOS.mp3; Failed to open '/home/vduran/Musica/Estopa/Anniversarivm /CD 1/ - Estopa y Los Chichos - EL DEL MEDIO DE LOS CHICHOS.mp3': No such file or directory
+Mar 18 15:55 : player: played "Estopa/Anniversarivm /CD 1/ - Estopa y Los Chichos - EL DEL MEDIO DE LOS CHICHOS.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Estopa/Aniverario/CD 1/ - Estopa y Albert Pla - TAN SOLO.mp3; Failed to open '/home/vduran/Musica/Estopa/Aniverario/CD 1/ - Estopa y Albert Pla - TAN SOLO.mp3': No such file or directory
+Mar 18 15:55 : player: played "Estopa/Aniverario/CD 1/ - Estopa y Albert Pla - TAN SOLO.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Estopa/Anniversarivm /CD 1/ - Estopa y Albert Pla - TAN SOLO.mp3; Failed to open '/home/vduran/Musica/Estopa/Anniversarivm /CD 1/ - Estopa y Albert Pla - TAN SOLO.mp3': No such file or directory
+Mar 18 15:55 : player: played "Estopa/Anniversarivm /CD 1/ - Estopa y Albert Pla - TAN SOLO.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Shakira/Shakira - En Vivo Desde Paris/01. Pienso en Ti.mp3; Failed to open '/home/vduran/Musica/Shakira/Shakira - En Vivo Desde Paris/01. Pienso en Ti.mp3': No such file or directory
+Mar 18 15:55 : player: played "Shakira/Shakira - En Vivo Desde Paris/01. Pienso en Ti.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Shakira/Shakira - En Vivo Desde Paris/02. Why Wait.mp3; Failed to open '/home/vduran/Musica/Shakira/Shakira - En Vivo Desde Paris/02. Why Wait.mp3': No such file or directory
+Mar 18 15:55 : player: played "Shakira/Shakira - En Vivo Desde Paris/02. Why Wait.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Shakira/Shakira - En Vivo Desde Paris/03. Te Dejo Madrid.mp3; Failed to open '/home/vduran/Musica/Shakira/Shakira - En Vivo Desde Paris/03. Te Dejo Madrid.mp3': No such file or directory
+Mar 18 15:55 : player: played "Shakira/Shakira - En Vivo Desde Paris/03. Te Dejo Madrid.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Shakira/Shakira - En Vivo Desde Paris/04. Whenever Wherever.mp3; Failed to open '/home/vduran/Musica/Shakira/Shakira - En Vivo Desde Paris/04. Whenever Wherever.mp3': No such file or directory
+Mar 18 15:55 : player: played "Shakira/Shakira - En Vivo Desde Paris/04. Whenever Wherever.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Shakira/Shakira - En Vivo Desde Paris/05. Inevitable.mp3; Failed to open '/home/vduran/Musica/Shakira/Shakira - En Vivo Desde Paris/05. Inevitable.mp3': No such file or directory
+Mar 18 15:55 : player: played "Shakira/Shakira - En Vivo Desde Paris/05. Inevitable.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Shakira/Shakira - En Vivo Desde Paris/06. Nothing Else Matters - Despedida.mp3; Failed to open '/home/vduran/Musica/Shakira/Shakira - En Vivo Desde Paris/06. Nothing Else Matters - Despedida.mp3': No such file or directory
+Mar 18 15:55 : player: played "Shakira/Shakira - En Vivo Desde Paris/06. Nothing Else Matters - Despedida.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Shakira/Shakira - En Vivo Desde Paris/07. Gypsy.mp3; Failed to open '/home/vduran/Musica/Shakira/Shakira - En Vivo Desde Paris/07. Gypsy.mp3': No such file or directory
+Mar 18 15:55 : player: played "Shakira/Shakira - En Vivo Desde Paris/07. Gypsy.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Shakira/Shakira - En Vivo Desde Paris/08. La Tortura.mp3; Failed to open '/home/vduran/Musica/Shakira/Shakira - En Vivo Desde Paris/08. La Tortura.mp3': No such file or directory
+Mar 18 15:55 : player: played "Shakira/Shakira - En Vivo Desde Paris/08. La Tortura.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Shakira/Shakira - En Vivo Desde Paris/09. Ciega Sordomuda.mp3; Failed to open '/home/vduran/Musica/Shakira/Shakira - En Vivo Desde Paris/09. Ciega Sordomuda.mp3': No such file or directory
+Mar 18 15:55 : player: played "Shakira/Shakira - En Vivo Desde Paris/09. Ciega Sordomuda.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Shakira/Shakira - En Vivo Desde Paris/10. Underneath Your Clothes.mp3; Failed to open '/home/vduran/Musica/Shakira/Shakira - En Vivo Desde Paris/10. Underneath Your Clothes.mp3': No such file or directory
+Mar 18 15:55 : player: played "Shakira/Shakira - En Vivo Desde Paris/10. Underneath Your Clothes.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Shakira/Shakira - En Vivo Desde Paris/11. Sale el Sol.mp3; Failed to open '/home/vduran/Musica/Shakira/Shakira - En Vivo Desde Paris/11. Sale el Sol.mp3': No such file or directory
+Mar 18 15:55 : player: played "Shakira/Shakira - En Vivo Desde Paris/11. Sale el Sol.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Shakira/Shakira - En Vivo Desde Paris/12. Las de la Intuicion.mp3; Failed to open '/home/vduran/Musica/Shakira/Shakira - En Vivo Desde Paris/12. Las de la Intuicion.mp3': No such file or directory
+Mar 18 15:55 : player: played "Shakira/Shakira - En Vivo Desde Paris/12. Las de la Intuicion.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Shakira/Shakira - En Vivo Desde Paris/13. Loca.mp3; Failed to open '/home/vduran/Musica/Shakira/Shakira - En Vivo Desde Paris/13. Loca.mp3': No such file or directory
+Mar 18 15:55 : player: played "Shakira/Shakira - En Vivo Desde Paris/13. Loca.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Shakira/Shakira - En Vivo Desde Paris/14. She Wolf.mp3; Failed to open '/home/vduran/Musica/Shakira/Shakira - En Vivo Desde Paris/14. She Wolf.mp3': No such file or directory
+Mar 18 15:55 : player: played "Shakira/Shakira - En Vivo Desde Paris/14. She Wolf.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Shakira/Shakira - En Vivo Desde Paris/15. Ojos Asi.mp3; Failed to open '/home/vduran/Musica/Shakira/Shakira - En Vivo Desde Paris/15. Ojos Asi.mp3': No such file or directory
+Mar 18 15:55 : player: played "Shakira/Shakira - En Vivo Desde Paris/15. Ojos Asi.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Shakira/Shakira - En Vivo Desde Paris/16. Antes de las Seis.mp3; Failed to open '/home/vduran/Musica/Shakira/Shakira - En Vivo Desde Paris/16. Antes de las Seis.mp3': No such file or directory
+Mar 18 15:55 : player: played "Shakira/Shakira - En Vivo Desde Paris/16. Antes de las Seis.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Shakira/Shakira - En Vivo Desde Paris/17. Je LÆAime a Mourir.mp3; Failed to open '/home/vduran/Musica/Shakira/Shakira - En Vivo Desde Paris/17. Je LÆAime a Mourir.mp3': No such file or directory
+Mar 18 15:55 : player: played "Shakira/Shakira - En Vivo Desde Paris/17. Je LÆAime a Mourir.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Shakira/Shakira - En Vivo Desde Paris/18. Hips DonÆt Lie.mp3; Failed to open '/home/vduran/Musica/Shakira/Shakira - En Vivo Desde Paris/18. Hips DonÆt Lie.mp3': No such file or directory
+Mar 18 15:55 : player: played "Shakira/Shakira - En Vivo Desde Paris/18. Hips DonÆt Lie.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Shakira/Shakira - En Vivo Desde Paris/19. Waka Waka (This Time For Africa).mp3; Failed to open '/home/vduran/Musica/Shakira/Shakira - En Vivo Desde Paris/19. Waka Waka (This Time For Africa).mp3': No such file or directory
+Mar 18 15:55 : player: played "Shakira/Shakira - En Vivo Desde Paris/19. Waka Waka (This Time For Africa).mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Els Pets/Els Pets/Els Pets - L'#U00e0rea petita.mp3; Failed to open '/home/vduran/Musica/Els Pets/Els Pets/Els Pets - L'#U00e0rea petita.mp3': No such file or directory
+Mar 18 15:55 : player: played "Els Pets/Els Pets/Els Pets - L'#U00e0rea petita.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Els Pets/Els Pets/Els Pets - Bombolles.mp3; Failed to open '/home/vduran/Musica/Els Pets/Els Pets/Els Pets - Bombolles.mp3': No such file or directory
+Mar 18 15:55 : player: played "Els Pets/Els Pets/Els Pets - Bombolles.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Els Pets/Els Pets/Bombolles.mp3; Failed to open '/home/vduran/Musica/Els Pets/Els Pets/Bombolles.mp3': No such file or directory
+Mar 18 15:55 : player: played "Els Pets/Els Pets/Bombolles.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Els Pets/Els Pets/Els Pets - Fa un minut.mp3; Failed to open '/home/vduran/Musica/Els Pets/Els Pets/Els Pets - Fa un minut.mp3': No such file or directory
+Mar 18 15:55 : player: played "Els Pets/Els Pets/Els Pets - Fa un minut.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Els Pets/Els Pets/Els Pets - No n'hi ha prou amb estimar-se molt.mp3; Failed to open '/home/vduran/Musica/Els Pets/Els Pets/Els Pets - No n'hi ha prou amb estimar-se molt.mp3': No such file or directory
+Mar 18 15:55 : player: played "Els Pets/Els Pets/Els Pets - No n'hi ha prou amb estimar-se molt.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Els Pets/Els Pets/Els Pets - Un tall de s#U00edndria.mp3; Failed to open '/home/vduran/Musica/Els Pets/Els Pets/Els Pets - Un tall de s#U00edndria.mp3': No such file or directory
+Mar 18 15:55 : player: played "Els Pets/Els Pets/Els Pets - Un tall de s#U00edndria.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Els Pets/Els Pets/Els Pets - A preu fet.mp3; Failed to open '/home/vduran/Musica/Els Pets/Els Pets/Els Pets - A preu fet.mp3': No such file or directory
+Mar 18 15:55 : player: played "Els Pets/Els Pets/Els Pets - A preu fet.mp3"
+Mar 18 15:55 : exception: Failed to decode /home/vduran/Musica/Els Pets/Els Pets/A preu fet.mp3; Failed to open '/home/vduran/Musica/Els Pets/Els Pets/A preu fet.mp3': No such file or directory
+Mar 18 15:55 : player: played "Els Pets/Els Pets/A preu fet.mp3"

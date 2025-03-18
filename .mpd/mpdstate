@@ -1,9 +1,9 @@
-sw_volume: 100
+sw_volume: 42
 audio_device_state:1:pulse audio
 audio_device_state:1:my_fifo
 state: stop
-current: 3
-random: 1
+current: 364
+random: 0
 repeat: 0
 single: 0
 consume: 0
@@ -11,66 +11,369 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Aitana/LAS BABYS.ogg
-1:Buhos/La nit esta que crema/Serà perquè t'estimo.ogg
-2:Buhos/La nit esta que crema/Si em tornes a mirar.ogg
-3:Buhos/La nit esta que crema/La Nit Està que Crema.ogg
-4:Buhos/El Dia de la Victoria/Una Veu Que Crida.ogg
-5:Buhos/El Dia de la Victoria/A Prop dels Déus.ogg
-6:Buhos/El Dia de la Victoria/Fem Que Surti el Sol.ogg
-7:Buhos/El Dia de la Victoria/Cada Divendres.ogg
-8:Buhos/El Dia de la Victoria/Donde Se Arrodillan los Ateos.ogg
-9:Buhos/El Dia de la Victoria/Mi Calle Favorita.ogg
-10:Buhos/La Gran Vida/Escales Fins al Cel.ogg
-11:Buhos/La Gran Vida/Cómplices del Mal.ogg
-12:Buhos/La Gran Vida/La Darrera Colònia.ogg
-13:Buhos/Lluna Plena/Connectats.ogg
-14:Buhos/Lluna Plena/El Cor M'apreta.ogg
-15:Buhos/Lluna Plena/Mentides de Plàstic.ogg
-16:Buhos/Lluna Plena/Ens Ballem Aquesta Nit.ogg
-17:Buhos/Natura Salvatge/180º.ogg
-18:Buhos/Natura Salvatge/Brama.ogg
-19:Buhos/Natura Salvatge/Toca Hamelin.ogg
-20:Buhos/Natura Salvatge/Ales Noves.ogg
-21:Buhos/Pompeia (En Directe)/Brama.ogg
-22:Nil Moliner/Nil Moliner - Som Ocells feat. Gerard Sancho (Videoclip Oficial).ogg
-23:Nil Moliner/Nil Moliner, Ana Mena - Me Quedo (Videoclip Oficial).ogg
-24:Nil Moliner/Nil Moliner - Libertad.ogg
-25:Sara Roy/JA NO M'IMPORTA.ogg
-26:Sopa De Cabra/Sopa De Cabra - Mai Trobaràs (30 anys) ft. Buhos, Ginestà, The Tyets.ogg
-27:Sopa De Cabra/Sopa de Cabra & Els Amics de les Arts - Sota una estrella @ Palau Sant Jordi-Og4oeu9jZVw.ogg
-28:Sopa De Cabra/Sopa de Cabra & Els Catarres - Seguirem somiant @ Palau Sant Jordi-oIkbRhWcWck.ogg
-29:Sopa De Cabra/Sopa de Cabra & Ramon Mirabet - Els teus somnis @ Palau Sant Jordi-d7Y-jeote-8.ogg
-30:Sopa De Cabra/Sopa de Cabra, Alfred García & David Rosell - El boig de la ciutat @ Palau Sant Jordi-n-txYlOQlfQ.ogg
-31:Sopa De Cabra/Sopa de Cabra, The Tyets, Ginestà i Guillem Solé - Mai Trobaràs @ Palau Sant Jordi-2VOiyXBOz7g.ogg
-32:Stay Homas/Homa/LA NÒRIA.ogg
-33:Stay Homas/Homa/ESE BESO.ogg
-34:SUU/Postal Barata.ogg
-35:SUU/Barcelona Tropical.ogg
-36:SUU/Universal.ogg
-37:The Tyets/Amics, Tiets i Coneguts.ogg
-38:The Tyets/Èpic Solete/Bailoteo.ogg
-39:The Tyets/Èpic Solete/COTI X COTI.ogg
-40:Vicco/Nochentera.ogg
-41:Buhos/La nit esta que crema/Es Demasiado.ogg
-42:Buhos/La nit esta que crema/El món de veritat.ogg
-43:new/Els teus ulls.ogg
-44:new/Milers d’espurnes feat.Las Migas.ogg
-45:new/TODAY IS THE DAY (Buhos and Mar Lucas.ogg
-46:new/Els teus ulls.ogg
-47:new/Milers d’espurnes feat.Las Migas.ogg
-48:new/Els teus ulls.ogg
-49:new/Milers d’espurnes feat.Las Migas.ogg
-50:new/TODAY IS THE DAY (Buhos and Mar Lucas.ogg
-51:Extremoduro/Ama, ama, ama y ensancha el alma - Extremoduro.ogg
-52:SUU/Material Sensible/¿Cómo duermes？ [3JaEKoR8s-I].ogg
-53:SUU/Material Sensible/Amor tranquil - Suu [0KjuAc3Ng5Q].ogg
-54:SUU/Material Sensible/Cantando goles - Suu [WxwIIeBqZik].ogg
-55:SUU/Material Sensible/Material sensible - Suu [c8pJB4AiTKQ].ogg
-56:SUU/Material Sensible/Me siento mejor - Suu feat. Éxtasis [d15iU0ijK1o].ogg
-57:SUU/Material Sensible/No t'has vist - Suu [Kyrozs1x51g].ogg
-58:SUU/Material Sensible/Si me estás rondando - Suu [6t3MZRoPqe4].ogg
-59:SUU/Material Sensible/Un poco - Suu [IYDo4Uct_Aw].ogg
-60:SUU/Material Sensible/Una altra vegada - Suu [3OAVTZS9IEQ].ogg
-61:SUU/Material Sensible/Uno de Septiembre - Suu [5Wb1zqUEqaY].ogg
+0:La Fuga/Calles de papel/01. En vela.ogg
+1:La Fuga/Calles de papel/02. Despacito.ogg
+2:La Fuga/en directo/04. Majareta.mp3
+3:La Fuga/Calles de papel/04. Majareta.ogg
+4:La Fuga/en directo/05. El manual.mp3
+5:La Fuga/Calles de papel/05. El manual.ogg
+6:La Fuga/en directo/06. Hasta nunca.mp3
+7:La Fuga/Calles de papel/06. Hasta nunca.ogg
+8:La Fuga/Calles de papel/07. Nunca mais.ogg
+9:La Fuga/Calles de papel/08. Conversacion, habitacion.ogg
+10:La Fuga/en directo/09. Las olas.mp3
+11:La Fuga/Calles de papel/09. Las olas.ogg
+12:La Fuga/en directo/10. Balada del despertador.mp3
+13:La Fuga/Calles de papel/10. Balada del despertador.ogg
+14:Electronica/Miss Monique /1001Tracklists Miami Rooftop Sessions.ogg
+15:La Fuga/en directo/11. Buscando en la basura.mp3
+16:La Fuga/Calles de papel/11. Buscando en la basura.ogg
+17:La Fuga/en directo/12. Los de siempre.mp3
+18:La Fuga/Calles de papel/12. Los de siempre.ogg
+19:La Fuga/en directo/13. Baja por diversion.mp3
+20:La Fuga/Calles de papel/13. Baja por diversion.ogg
+21:La Fuga/en directo/15. Miguel.mp3
+22:La Fuga/Calles de papel/15. Miguel.ogg
+23:La Fuga/en directo/16. Por verte sonreir.mp3
+24:La Fuga/Calles de papel/16. Por verte sonreir.ogg
+25:La Fuga/en directo/17. Pa volar.mp3
+26:La Fuga/Calles de papel/17. Pa volar.ogg
+27:La Fuga/en directo/18. P'aqui, p'alla.mp3
+28:La Fuga/Calles de papel/18. P'aqui, p'alla.ogg
+29:Buhos/altres/193815885_350599590135508_3682482992426389175_n.mp4
+30:Buhos/altres/226553062_896689274611262_3136098238813373058_n.mp4
+31:Buhos/altres/226624618_372797364260092_8611687522269846181_n.mp4
+32:Buhos/altres/79563126_597819784898345_4205729471901724363_n.mp4
+33:Zetak/ARALARKO DAMA (LIVE) - ZETAK, Neomak, Kukai [paV7HWtVjCU].ogg
+34:Extremoduro/Ama, ama, ama y ensancha el alma - Extremoduro.ogg
+35:Electronica/Miss Monique /Amir Telem  Kurukshetra Siona Records 4th Anniversary Mykonos.ogg
+36:SUU/Material Sensible/Amor tranquil - Suu [0KjuAc3Ng5Q].ogg
+37:Gossos/Altres/Aquelles nits de Nadal.ogg
+38:Juanes/La vida es un ratico/14. Bandera De Manos.ogg
+39:Juanes/La vida es un ratico/13. Bandera De Manos.ogg
+40:Sara Roy/(A)MAR/Barcelona - Sara Roy (A)MAR.mp3
+41:Shakira/Boig per tu-Shakira.ogg
+42:Shakira/Boig pert tu - Sahkira.mp3
+43:Shakira/Boig_per_tu-Shakira.ogg
+44:Els Pets/Els Pets/Bombolles.ogg
+45:Buhos/La nit esta que crema/Si em tornes a mirar.ogg
+46:Juanes/La vida es un ratico/10. Báilala.ogg
+47:Joan Dausa/CAURE NO FEIA  MAL - JOAN DAUSÀ & SANTI BALMES.ogg
+48:Els Catarres/ordenar/COR (2023).ogg
+49:SUU/Material Sensible/Cantando goles - Suu [WxwIIeBqZik].ogg
+50:Carlos Vives/Carlos Vives - Robarte un Beso.ogg
+51:Juanes/La vida es un ratico/2. Clase de Amor.ogg
+52:Sara Roy/(A)MAR/Comptant les hores - Sara Roy (A)MAR.ogg
+53:Buhos/Concert Buhos al Calafell Beach Festival.ogg
+54:Sopa De Cabra/Concert fi de gira Ben Endins al Sant Jordi - Sopa de cabra.ogg
+55:Gossos/Altres/Conte de Nova York.ogg
+56:Mago de Oz/Desde mi Cielo-Mägo de Oz (con lyrics-letra)-TfON7j0Y_yw.ogg
+57:Els Catarres/Invencibles/Diamants.ogg
+58:Juanes/La vida es un ratico/11. Difícil.ogg
+59:Electronica/Tasha&Co/ESPECTACULAR ANIVERSARIO MAKINEROS 90.ogg
+60:Mago de Oz/El Cantar de la Luna Oscura-Mägo de Oz (con lyrics-letra)-_SRXvD_C75Y.ogg
+61:Electronica/Tasha&Co/El Último MOHICANO- TASHA & Co.ogg
+62:Electronica/Miss Monique /Electrifying Set Brunch Electronik OFFSónar 2023.ogg
+63:Els Catarres/Els Catarres - COMENÇAR A VIURE [V-7NQoTv7RM].ogg
+64:Els Catarres/Els Catarres - Fins que arribi l'alba (Live simfònic 2019) [Hu0m6uYSkAA].ogg
+65:Els Catarres/Els Catarres Feat Balkan Paradise Orchestra - Rock & Roll [7M_t7doaEio].ogg
+66:Els Catarres/Els Catarres Feat Escolania de Montserrat - Diamants [m5MynIVNtFc].ogg
+67:Els Catarres/Els Catarres Feat Joan Dausà - Tokyo [jfhcLSKJcjU].ogg
+68:Els Catarres/Els Catarres Feat Lluís Llach - Un Sostre fet d'Estrelles [sA_y1N8oklU].ogg
+69:Els Catarres/Els Catarres Feat Stay Homas & Zoo - Vull Estar Amb Tu (2023) [-spVarOHy84].ogg
+70:Els Pets/Els Catarres Feat Stay Homas & Zoo - Vull Estar Amb Tu (2023) [-spVarOHy84].ogg
+71:Els Catarres/Els Catarres Feat ZETAK - Invencibles [pk1heblGS9I].ogg
+72:Els Catarres/Els Catarres Ft Xavi Sarrià, La Fúmiga, Smoking Souls, El Diluvi i La Gossa Sorda - En Peu de Guerra [cXOax_0Tmyw].ogg
+73:Els Catarres/Els Catarres feat Els Amics de les Arts - Tintín [lp8F9iNfQYo].ogg
+74:Els Catarres/Els Catarres feat Figa Flawas - Jenifer [vFxNLm74wdQ].ogg
+75:Els Catarres/Els Catarres feat Sopa de Cabra - La Porta del Cel [SCpckoYbrDU].ogg
+76:Els Pets/VideoClips/Els Pets - Bocins de tu.avi
+77:new/Els teus ulls.ogg
+78:Els Catarres/Invencibles/En Peu de Guerra.ogg
+79:Miki Núñez/Iceberg/Escriurem #Joemcorono - Col·lectiva.ogg
+80:Extremoduro/Extremoduro - La ley innata (completo, letra) [e4Qm4L6pKI4].ogg
+81:Els Catarres/Invencibles/Fins que arribi l'alba (Live simfònic 2019).ogg
+82:Electronica/Tasha&Co/GET IT UP - TASHA & CO.ogg
+83:Juanes/La vida es un ratico/6. Gotas de Agua Dulce.ogg
+84:Electronica/Miss Monique /Haoman 17 TLV for Out Of mind.ogg
+85:Mago de Oz/Hasta Que El Cuerpo Aguante-Mägo de Oz (con lyrics-letra)-zTTU8NN2fWA.ogg
+86:Mago de Oz/Hechizos, pócimas y brujería-iVLRDoMm9Xc.ogg
+87:El Canto del Loco/Concierto/Hombres G & El Canto del Loco Estadio Vicente Calderon.avi
+88:Juanes/La vida es un ratico/4. Hoy Me Voy.ogg
+89:Electronica/Tasha&Co/Illogical Simmetry - Tasha & Co.ogg
+90:Els Catarres/Invencibles/Invencibles.ogg
+91:Els Catarres/Invencibles/Jenifer.ogg
+92:Mago de Oz/La Costa Del Silencio-0phlktmU6eo.ogg
+93:Mago de Oz/La Danza del Fuego-Mägo de Oz (con lyrics-letra)--RaPU2dNo7s.ogg
+94:Electronica/Tasha&Co/La Daurada Beach Club - Tasha & Co.ogg
+95:La Fuga/La Fuga - Buscando en la basura (video clip)-SE4SmL_SWU8.ogg
+96:Juanes/La vida es un ratico/7. La Mejor Parte de Mi.ogg
+97:Els Catarres/Invencibles/La Porta del Cel.ogg
+98:Juanes/La vida es un ratico/5. La Vida es un Ratico.ogg
+99:La Oreja de Van Gogh/Videoclip/La oreja de van gogh - Concierto basico 40.ogm
+100:Electronica/Miss Monique /Live @ Dead Sea.ogg
+101:Electronica/Miss Monique /Live @ Sunset on a SVET Boat.ogg
+102:Electronica/Miss Monique /Live @ Tulum, Mexico 2021.ogg
+103:Electronica/Miss Monique /Live @Atlas Weekend 2020 Virtual Stage.ogg
+104:Mago de Oz/Mago de Oz - La posada de los muertos (videoclip)-IGEskjk2hCo.ogg
+105:Mago de Oz/Mago de oz - La Rosa de los Vientos-pW-Njfe6zcg.ogg
+106:SUU/Material Sensible/Material sensible - Suu [c8pJB4AiTKQ].ogg
+107:Juanes/La vida es un ratico/3. Me Enamora.ogg
+108:SUU/Material Sensible/Me siento mejor - Suu feat. Éxtasis [d15iU0ijK1o].ogg
+109:Meditacion/Meditacion_al_corazon.mp3
+110:Meditacion/Meditación PAUSA SatkaraYoga.wav
+111:Electronica/Miss Monique /MiMo Live @1eConcert.com 2020.ogg
+112:Electronica/Miss Monique /MiMo Weekly Podcast 005.ogg
+113:Electronica/Miss Monique /MiMo Weekly Podcast 009.ogg
+114:Electronica/Miss Monique /MiMo Weekly Podcast 011.ogg
+115:Electronica/Miss Monique /MiMo Weekly Podcast 012.ogg
+116:Electronica/Miss Monique /MiMo Weekly Podcast 027.ogg
+117:Electronica/Miss Monique /MiMo Weekly Podcast 029.ogg
+118:Electronica/Miss Monique /MiMo Weekly Podcast 030.ogg
+119:Electronica/Miss Monique /MiMo Weekly Podcast 031.ogg
+120:Miki Núñez/Iceberg/Miki Nuñez. Teaser 1 'Viento y Vida' junto a Despistaos-.ogg
+121:Miki Núñez/Iceberg/Miki Núñez - Arbre (Pseudo Video) ft. Lildami.ogg
+122:Miki Núñez/Iceberg/Miki Núñez - Beberte Lento.ogg
+123:Miki Núñez/Iceberg/Miki Núñez - Cada Pas Del Camí.ogg
+124:Miki Núñez/Iceberg/Miki Núñez - Celébrate.ogg
+125:Miki Núñez/Iceberg/Miki Núñez - De Ida Y Vuelta.ogg
+126:Miki Núñez/Iceberg/Miki Núñez - Escriurem.ogg
+127:Miki Núñez/Iceberg/Miki Núñez - Eterno Verano.ogg
+128:Miki Núñez/Iceberg/Miki Núñez - La Venda.ogg
+129:Miki Núñez/Iceberg/Miki Núñez - Me Vale.ogg
+130:Miki Núñez/Iceberg/Miki Núñez - Mi Lugar.ogg
+131:Miki Núñez/Iceberg/Miki Núñez - Mil Planes.ogg
+132:Miki Núñez/Iceberg/Miki Núñez - No M'ho Esperava.ogg
+133:Miki Núñez/Iceberg/Miki Núñez - Sin Noticias De Gurb.ogg
+134:Miki Núñez/Iceberg/Miki Núñez - Todo Lo Que Llevo Dentro.ogg
+135:Miki Núñez/Iceberg/Miki Núñez - Un Estiu Que No S'Acaba.ogg
+136:new/Milers d’espurnes feat.Las Migas.ogg
+137:Juanes/La vida es un ratico/8. Minas Piedras.ogg
+138:Electronica/Miss Monique /Miss Monique - 1001Tracklists Exclusive Mix [Progressive House⧸Melodic Techno Live DJ Set] [GLnEv161WZM].ogg
+139:Electronica/Miss Monique /Miss Monique - BBC Radio 1 Essential Mix 2024 [Hw52amuu-l4].ogg
+140:Electronica/Miss Monique /Miss Monique - Look At You [Interstellar] [fPXdiEbeTtM].ogg
+141:Electronica/Miss Monique /Miss Monique - MiMo Podcast 042  [Melodic Techno & House DJ Mix] [0AhFghYZQ74].ogg
+142:Electronica/Miss Monique /Miss Monique - MiMo Weekly Podcast #1 04.09.2018 [Progressive Music] [5L2nBYFngZI].ogg
+143:Electronica/Miss Monique /Miss Monique - Special Spring Mix @ Saxon club [Progressive House, Melodic Techno 2018] [4D7vz6fQDqs].ogg
+144:Electronica/Miss Monique /Miss Monique - Yearmix 2023 @Miami, FL [Melodic Techno⧸Progressive House DJ Mix] [7MbyTJs3SAo].ogg
+145:Electronica/Miss Monique /Miss Monique MiMo Weekly Podcast 020 [Progressive House⧸Melodic Techno DJ Mix] #DGTX 4K [fi6s9V5jC3s].ogg
+146:Electronica/Miss Monique /Miss Monique at The Concourse Project ｜ Full Set (1 Sep 2023) [wSSDiS1A0f4].ogg
+147:Electronica/Miss Monique /Miss Monique at the Biosphere Museum, in Montreal, Canada for Cercle [QPPFM8NyuaQ].ogg
+148:Electronica/Miss Monique /Miss Monique for Cloudbeds @ ITB Berlin [t5S8TMX4e6I].ogg
+149:Sara Roy/(A)MAR/Mitjanit - Sara Roy (A)MAR.ogg
+150:Mago de Oz/Molinos De Viento-A-JIjV7pKC8.ogg
+151:Morat/Morat - Cuando Nadie Ve.ogg
+152:Mago de Oz/Mägo De Oz - Pensando en ti (Version 2011) (videoclip oficial)-YdZ3FXHdKuU.ogg
+153:Mago de Oz/Mägo de Oz - Bandera negra (Lyric Video Oficial)-Bfu0dbCbW2g.ogg
+154:Mago de Oz/Mägo de Oz - Cadaveria (Videoclip oficial)-Yo6RL5A1eyY.ogg
+155:Mago de Oz/Mägo de Oz - El libro de las sombras. (Videoclip oficial)-hWY1_3dUdhI.ogg
+156:Mago de Oz/Mägo de Oz - Hoy toca ser feliz (videoclip oficial)-abLwErDrwJc.ogg
+157:Mago de Oz/Mägo de Oz - La Dama del Mar (Lyric Video Oficial)-J9snXJGnAsw.ogg
+158:Mago de Oz/Mägo de Oz - Noche de Halloween (Lyric Video Oficial)-NqKElVXLLCU.ogg
+159:Mago de Oz/Mägo de Oz - Te traeré el horizonte feat. Ara Malikian (Videoclip Oficial)-hamFOjhQybg.ogg
+160:Mago de Oz/Mägo de Oz - Tu funeral (Videoclip Oficial)-Kg3lNCq1an4.ogg
+161:Mago de Oz/Mägo de Oz - Xanandra (videoclip oficial)-80ZStdM9gNY.ogg
+162:Mago de Oz/Mägo de Oz- Fiesta pagana 2.0 (Videoclip oficial)-xvVLWSsKjkI.ogg
+163:Mago de Oz/Mägo de oz - Gaia (directo Diabulus in opera)-u97FyWNrlQY.ogg
+164:Mago de Oz/Mägo de oz - La cantata del diablo (directo Diabulus in opera)-qwPSH2tq50E.ogg
+165:Mago de Oz/Mägo de oz - La cantiga de las brujas (Lyric Video)-0sMwccntm-0.ogg
+166:Mago de Oz/Mägo de oz - Revolución (Lyric Video)-ZDGQLi7_jbk.ogg
+167:Electronica/Miss Monique /New Special.ogg
+168:Sara Roy/(A)MAR/Ni tú ni yo - Sara Roy (A)MAR.mp3
+169:Nil Moliner/Nil Moliner - El aire que me mata (Audio Oficial).ogg
+170:Nil Moliner/Nil Moliner - Som Ocells feat. Gerard Sancho (Videoclip Oficial).ogg
+171:Nil Moliner/Nil Moliner, Ana Mena - Me Quedo (Videoclip Oficial).ogg
+172:Nil Moliner/Nil Moliner, Ana Mena, Rafa Pabon - Me Quedo Remix (Videoclip Oficial).ogg
+173:Juanes/La vida es un ratico/1. No Creo en el Jamás.ogg
+174:Sara Roy/(A)MAR/No em diguis que no - Sara Roy (A)MAR.mp3
+175:SUU/Material Sensible/No t'has vist - Suu [Kyrozs1x51g].ogg
+176:Electronica/Tasha&Co/Poem Without Words - Tasha & Co.ogg
+177:Sara Roy/(A)MAR/Poetes - Sara Roy (A)MAR.ogg
+178:Sara Roy/(A)MAR/Queda't - Sara Roy (A)MAR.ogg
+179:Ramon Mirabet/Ramon Mirabet - El Crit.ogg
+180:Els Catarres/Invencibles/Rock & Roll.ogg
+181:Stay Homas/Homa/STAY HOMAS - DIME.ogg
+182:Stay Homas/Homa/STAY HOMAS - HO SAP TOTHOM MENYS TU.ogg
+183:Stay Homas/Homa/STAY HOMAS - HO TORNARIA A FER.ogg
+184:Stay Homas/Homa/STAY HOMAS - I’LL BE HOME.ogg
+185:Stay Homas/Homa/STAY HOMAS - ME DA IGUAL.ogg
+186:Stay Homas/Homa/STAY HOMAS - MORIR VIVIENDO.ogg
+187:Stay Homas/Homa/STAY HOMAS - THE ONLY ONE.ogg
+188:Stay Homas/Agua/STAY HOMAS, Albert Pla - No Vull Baixar (Official Video).ogg
+189:SUU/Material Sensible/Si me estás rondando - Suu [6t3MZRoPqe4].ogg
+190:Electronica/Miss Monique /Siona Records 4th Anniversary Mikonos.ogg
+191:Sara Roy/(A)MAR/Som - Sara Roy (A)MAR.mp3
+192:Sara Roy/(A)MAR/Som - Sara Roy (A)MAR.ogg
+193:Sopa De Cabra/Sopa De Cabra - Mai Trobaràs (30 anys) ft. Buhos, Ginestà, The Tyets.ogg
+194:Sopa De Cabra/Sopa de Cabra & Els Amics de les Arts - Sota una estrella @ Palau Sant Jordi-Og4oeu9jZVw.ogg
+195:Sopa De Cabra/Sopa de Cabra & Els Catarres - Seguirem somiant @ Palau Sant Jordi-oIkbRhWcWck.ogg
+196:Sopa De Cabra/Sopa de Cabra & Joan Dausà - El far del sud @ Palau Sant Jordi-fCuodDWicp4.ogg
+197:Sopa De Cabra/Sopa de Cabra & Ramon Mirabet - Els teus somnis @ Palau Sant Jordi-d7Y-jeote-8.ogg
+198:Sopa De Cabra/Sopa de Cabra & Ramon Mirabet - Els teus somnis.ogg
+199:Sopa De Cabra/Sopa de Cabra & Suu - Si et quedes amb mi.ogg
+200:Sopa De Cabra/Sopa de Cabra & més - L'Empordà @ Palau Sant Jordi-bQHESVSusU0.ogg
+201:Sopa De Cabra/Sopa de Cabra, Alfred García & David Rosell - El boig de la ciutat @ Palau Sant Jordi-n-txYlOQlfQ.ogg
+202:Sopa De Cabra/Sopa de Cabra, Judit Neddermann & David Carabén - Podre tornar enrere @ Palau Sant Jordi-R_4BF3oMYVk.ogg
+203:Sopa De Cabra/Sopa de Cabra, The Tyets, Ginestà i Guillem Solé - Mai Trobaràs @ Palau Sant Jordi-2VOiyXBOz7g.ogg
+204:Sopa De Cabra/Sopa de Cabra- Camins-79foFSDoOxY.ogg
+205:Electronica/Miss Monique /Special B'day Podcast 2021.ogg
+206:Electronica/Miss Monique /Special Mix for KissFm Ukraine.ogg
+207:Electronica/Miss Monique /Special Progressive House DJ Mix.ogg
+208:Electronica/Miss Monique /Sunset Mix Ephimera Tulum.ogg
+209:Buhos/La nit esta que crema/T'he trobat a faltar.ogg
+210:new/TODAY IS THE DAY (Buhos and Mar Lucas.ogg
+211:The Tyets/TORNEM A CASA ｜ THE TYETS [7TiK1CTw3GA].ogg
+212:Electronica/Miss Monique /The Biosphere Museum, in Montreal, Canada for Cercle.ogg
+213:The Tyets/The Tyets - Summercat, de Billie the Vision and The Dancers [mPqrlGaOn5k].ogg
+214:Els Catarres/Invencibles/Tintín.ogg
+215:Els Catarres/Invencibles/Tokyo.ogg
+216:Electronica/Miss Monique /Tomorrowland - Friendship Mix - Miss Monique [_Vj8WEqvncA].ogg
+217:Sara Roy/(A)MAR/Tot és més fàcil - Sara Roy ft.Miki Núñez (A)MAR.mp3
+218:Juanes/La vida es un ratico/12. Tres.ogg
+219:Txarango/Txarango - Aguacero.mp3
+220:Txarango/Txarango - Ara que balles amb mi.mp3
+221:Txarango/Txarango - Avui que fas anys.mp3
+222:Txarango/Txarango - Barcelona feat. Ahyvin Bruno.mp3
+223:Txarango/Txarango - Bendita la vida.mp3
+224:Txarango/Txarango - Cançons de llibertat.mp3
+225:Txarango/Txarango - El combat.mp3
+226:Txarango/Txarango - El tren del temps.ogg
+227:Txarango/Txarango - Et recordo.ogg
+228:Txarango/Txarango - És hora de tornar a casa.mp3
+229:Txarango/Txarango - Les coses senzilles.mp3
+230:Txarango/Txarango - Meravellós regal.ogg
+231:Txarango/Txarango - Mil ocells.ogg
+232:Txarango/Txarango - Nous camins.mp3
+233:Txarango/Txarango - Obriu les portes.ogg
+234:Txarango/Txarango - Quan calla la ciutat.ogg
+235:Txarango/Txarango - Que tot et vagi bé.ogg
+236:Txarango/Txarango - Resiste y grita.ogg
+237:Txarango/Txarango - Si sabéssis.mp3
+238:Txarango/Txarango - Som foc.ogg
+239:Txarango/Txarango - Somriurem.ogg
+240:Txarango/Txarango - T'espero.ogg
+241:Txarango/Txarango - Terra endins.ogg
+242:Txarango/Txarango - Ulls de corall.ogg
+243:Txarango/Txarango - Una lluna a l'aigua.ogg
+244:Juanes/La vida es un ratico/9. Tú y Yo.ogg
+245:Els Catarres/Invencibles/Un Sostre fet d'Estrelles.ogg
+246:SUU/Material Sensible/Un poco - Suu [IYDo4Uct_Aw].ogg
+247:SUU/Material Sensible/Una altra vegada - Suu [3OAVTZS9IEQ].ogg
+248:Sara Roy/(A)MAR/Una vez más - Sara Roy (A)MAR.mp3
+249:SUU/Material Sensible/Uno de Septiembre - Suu [5Wb1zqUEqaY].ogg
+250:Vicco/Vicco, Suu - Un Trago De Ti.ogg
+251:Els Catarres/Invencibles/Vull Estar Amb Tu.ogg
+252:Electronica/Tasha&Co/XQUE Vol. 6  - Tasha & Co.ogg
+253:Electronica/Tasha&Co/YOUNA - Melodic Techno & Progressive House DJ Mix @ Dubai [ZbEhNFCHMQQ].ogg
+254:Electronica/Miss Monique /YearMix  2020.ogg
+255:Zetak/ZETAK - Akelarretan [GgT4z3iRm6g].ogg
+256:Zetak/ZETAK - Errepidean [7P9hrOOjV14].ogg
+257:Zetak/ZETAK - Hegan [ 90eko bi bala ｜ Gaztea ] [YusCN-L3sOM].ogg
+258:Zetak/ZETAK - Pater Noster [zJ4XLqQOTcQ].ogg
+259:Zetak/ZETAK - Su (ZUZENEAN⧸LIVE⧸DIRECTO) - Oialume 2019-11-16 [9ffwSbW2IZk].ogg
+260:Zetak/ZETAK - Zeinen Ederra Izango Den [8-N6K9H9SMk].ogg
+261:Zetak/ZETAK, Erramun Martikorena - Itzulera (Herri Urrats 2022) [ZErUMnB7aMk].ogg
+262:Zetak/ZETAK, Oques Grasses - Hitzeman [vKoIpMbbZZ0].ogg
+263:Zetak/ZETAK, SUU - Pa amb Oli I Sal [I4zBVfyEd5s].ogg
+264:El Diluvi/el Diluvi - Tendresa Insubmisa (Videoclip Oficial).ogg
+265:Podcasts/l-039auge-de-les-noies-hackers-a-catalunya.mp3
+266:SUU/Material Sensible/¿Cómo duermes？ [3JaEKoR8s-I].ogg
+267:El Canto del Loco/Por Mi Y Por Todos Mis Compañeros/01 - El Canto Del Loco - Mejor.mp3
+268:La Fuga/A Golpes de Rock & Roll /01 hasta nunca.ogg
+269:Estopa/Aniverario/CD 2/ - Carlos Jean - Hemicraneal.mp3
+270:Estopa/Anniversarivm /CD 2/ - Carlos Jean - Hemicraneal.mp3
+271:Estopa/Aniverario/CD 1/ - Estopa y Rosario - RUN RUN.mp3
+272:Estopa/Anniversarivm /CD 1/ - Estopa y Rosario - RUN RUN.mp3
+273:El Canto del Loco/Por Mi Y Por Todos Mis Compañeros/02 - El Canto Del Loco - La Casa De La Bomba.mp3
+274:La Fuga/A Golpes de Rock & Roll /02 a golpes.ogg
+275:Estopa/Aniverario/CD 1/ - Estopa y El Canto del Loco - FUENTE DE ENERGIA.mp3
+276:Estopa/Anniversarivm /CD 1/ - Estopa y El Canto del Loco - FUENTE DE ENERGIA.mp3
+277:Estopa/Aniverario/CD 2/ - Nigel Walker - Cuando Amanece.mp3
+278:Estopa/Anniversarivm /CD 2/ - Nigel Walker - Cuando Amanece.mp3
+279:El Canto del Loco/Por Mi Y Por Todos Mis Compañeros/03 - El Canto Del Loco - Nada De Nada.mp3
+280:La Fuga/A Golpes de Rock & Roll /03 pedazo de moron.ogg
+281:Estopa/Anniversarivm /CD 1/ - Estopa y Macaco - NO QUIERO VERLA MAS.mp3
+282:Estopa/Aniverario/CD 1/ - Estopa y Macaco - NO QUIERO VERLA MAS.mp3
+283:Estopa/Aniverario/CD 2/ - Fernando Montesinos - Cuando cae la luna.mp3
+284:Estopa/Anniversarivm /CD 2/ - Fernando Montesinos - Cuando cae la luna.mp3
+285:El Canto del Loco/Por Mi Y Por Todos Mis Compañeros/04 - El Canto Del Loco - Aunque Tu No Lo Sepas.mp3
+286:La Fuga/A Golpes de Rock & Roll /04 un rayito de sol.ogg
+287:Estopa/Anniversarivm /CD 1/ - Estopa y Muchachito - TU CALORRO.mp3
+288:Estopa/Aniverario/CD 1/ - Estopa y Muchachito - TU CALORRO.mp3
+289:Estopa/Aniverario/CD 2/ - Fernando Illán y Miguel de la vega - Me falta el aliento.mp3
+290:Estopa/Anniversarivm /CD 2/ - Fernando Illán y Miguel de la vega - Me falta el aliento.mp3
+291:El Canto del Loco/Por Mi Y Por Todos Mis Compañeros/05 - El Canto Del Loco - El Garrotin (Con Jose Merce).mp3
+292:La Fuga/A Golpes de Rock & Roll /05 jugando a no ganar.ogg
+293:Estopa/Aniverario/CD 2/ - Bori Alarcón - Vino Tinto.mp3
+294:Estopa/Anniversarivm /CD 2/ - Bori Alarcón - Vino Tinto.mp3
+295:Estopa/Anniversarivm /CD 1/ - Estopa y Ana Belen - YA NO ME ACUERDO.mp3
+296:Estopa/Aniverario/CD 1/ - Estopa y Ana Belen - YA NO ME ACUERDO.mp3
+297:El Canto del Loco/Por Mi Y Por Todos Mis Compañeros/06 - El Canto Del Loco - No Puedo Vivir Sin Ti.mp3
+298:La Fuga/A Golpes de Rock & Roll /06 abrazame.ogg
+299:Estopa/Anniversarivm /CD 2/ - Alejo Stivei - La raja de tu falda.mp3
+300:Estopa/Aniverario/CD 2/ - Alejo Stivei - La raja de tu falda.mp3
+301:Estopa/Anniversarivm /CD 1/ - Estopa y Rosendo - CACHO A CACHO.mp3
+302:Estopa/Aniverario/CD 1/ - Estopa y Rosendo - CACHO A CACHO.mp3
+303:El Canto del Loco/Por Mi Y Por Todos Mis Compañeros/07 - El Canto Del Loco - Aquellas Pequeñas Cosas.mp3
+304:La Fuga/A Golpes de Rock & Roll /07 idiota.ogg
+305:Estopa/Aniverario/CD 1/ - Estopa y Joan Manuel Serrat - ERA.mp3
+306:Estopa/Anniversarivm /CD 1/ - Estopa y Joan Manuel Serrat - ERA.mp3
+307:Estopa/Aniverario/CD 2/ - Leiva - Exiliado en el lavabo.mp3
+308:Estopa/Anniversarivm /CD 2/ - Leiva - Exiliado en el lavabo.mp3
+309:El Canto del Loco/Por Mi Y Por Todos Mis Compañeros/08 - El Canto Del Loco, Alex Gonzalez - Años 80.mp3
+310:La Fuga/A Golpes de Rock & Roll /08 mal humor.ogg
+311:Estopa/Anniversarivm /CD 1/ - Estopa y Ojos de Brujo - CUERPO TRISTE.mp3
+312:Estopa/Aniverario/CD 1/ - Estopa y Ojos de Brujo - CUERPO TRISTE.mp3
+313:Estopa/Anniversarivm /CD 2/ - Javier Limón - Malabares.mp3
+314:Estopa/Aniverario/CD 2/ - Javier Limón - Malabares.mp3
+315:El Canto del Loco/Por Mi Y Por Todos Mis Compañeros/09 - El Canto Del Loco - Se Acabo.mp3
+316:La Fuga/A Golpes de Rock & Roll /09 p'ki p'ya.ogg
+317:Estopa/Anniversarivm /CD 1/ - Estopa y Miguel Campello (El Bicho) - DEMONIOS.mp3
+318:Estopa/Aniverario/CD 1/ - Estopa y Miguel Campello (El Bicho) - DEMONIOS.mp3
+319:Estopa/Anniversarivm /CD 2/ - Eugenio Muñoz y Luis Delgado - Pastillas de Freno.mp3
+320:Estopa/Aniverario/CD 2/ - Eugenio Muñoz y Luis Delgado - Pastillas de Freno.mp3
+321:El Canto del Loco/Por Mi Y Por Todos Mis Compañeros/10 - El Canto Del Loco - Feo, Fuerte Y Formal.mp3
+322:La Fuga/A Golpes de Rock & Roll /10 barrio gris.ogg
+323:Estopa/Aniverario/CD 1/ - Estopa y Joaquín Sabina - COMO CAMARON.mp3
+324:Estopa/Anniversarivm /CD 1/ - Estopa y Joaquín Sabina - COMO CAMARON.mp3
+325:Estopa/Anniversarivm /CD 2/ - Tino di Geraldo - Descatalogando.mp3
+326:Estopa/Aniverario/CD 2/ - Tino di Geraldo - Descatalogando.mp3
+327:El Canto del Loco/Por Mi Y Por Todos Mis Compañeros/11 - El Canto Del Loco - Maria La Portuguesa.mp3
+328:La Fuga/A Golpes de Rock & Roll /11 miguel.ogg
+329:Estopa/Aniverario/CD 1/ - Estopa y Chambao - LUNA LUNERA.mp3
+330:Estopa/Anniversarivm /CD 1/ - Estopa y Chambao - LUNA LUNERA.mp3
+331:Estopa/Aniverario/CD 2/ - Suso Sáiz - Era.mp3
+332:Estopa/Anniversarivm /CD 2/ - Suso Sáiz - Era.mp3
+333:La Fuga/A Golpes de Rock & Roll /12 los de siempre.ogg
+334:Estopa/Aniverario/CD 1/ - Estopa y Los Chichos - EL DEL MEDIO DE LOS CHICHOS.mp3
+335:Estopa/Anniversarivm /CD 1/ - Estopa y Los Chichos - EL DEL MEDIO DE LOS CHICHOS.mp3
+336:Estopa/Aniverario/CD 1/ - Estopa y Albert Pla - TAN SOLO.mp3
+337:Estopa/Anniversarivm /CD 1/ - Estopa y Albert Pla - TAN SOLO.mp3
+338:Shakira/Shakira - En Vivo Desde Paris/01. Pienso en Ti.mp3
+339:Shakira/Shakira - En Vivo Desde Paris/02. Why Wait.mp3
+340:Shakira/Shakira - En Vivo Desde Paris/03. Te Dejo Madrid.mp3
+341:Shakira/Shakira - En Vivo Desde Paris/04. Whenever Wherever.mp3
+342:Shakira/Shakira - En Vivo Desde Paris/05. Inevitable.mp3
+343:Shakira/Shakira - En Vivo Desde Paris/06. Nothing Else Matters - Despedida.mp3
+344:Shakira/Shakira - En Vivo Desde Paris/07. Gypsy.mp3
+345:Shakira/Shakira - En Vivo Desde Paris/08. La Tortura.mp3
+346:Shakira/Shakira - En Vivo Desde Paris/09. Ciega Sordomuda.mp3
+347:Shakira/Shakira - En Vivo Desde Paris/10. Underneath Your Clothes.mp3
+348:Shakira/Shakira - En Vivo Desde Paris/11. Sale el Sol.mp3
+349:Shakira/Shakira - En Vivo Desde Paris/12. Las de la Intuicion.mp3
+350:Shakira/Shakira - En Vivo Desde Paris/13. Loca.mp3
+351:Shakira/Shakira - En Vivo Desde Paris/14. She Wolf.mp3
+352:Shakira/Shakira - En Vivo Desde Paris/15. Ojos Asi.mp3
+353:Shakira/Shakira - En Vivo Desde Paris/16. Antes de las Seis.mp3
+354:Shakira/Shakira - En Vivo Desde Paris/17. Je LÆAime a Mourir.mp3
+355:Shakira/Shakira - En Vivo Desde Paris/18. Hips DonÆt Lie.mp3
+356:Shakira/Shakira - En Vivo Desde Paris/19. Waka Waka (This Time For Africa).mp3
+357:Els Pets/Els Pets/Els Pets - L'#U00e0rea petita.mp3
+358:Els Pets/Els Pets/Els Pets - Bombolles.mp3
+359:Els Pets/Els Pets/Bombolles.mp3
+360:Els Pets/Els Pets/Els Pets - Fa un minut.mp3
+361:Els Pets/Els Pets/Els Pets - No n'hi ha prou amb estimar-se molt.mp3
+362:Els Pets/Els Pets/Els Pets - Un tall de s#U00edndria.mp3
+363:Els Pets/Els Pets/Els Pets - A preu fet.mp3
+364:Els Pets/Els Pets/A preu fet.mp3
 playlist_end
