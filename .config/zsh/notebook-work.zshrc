@@ -24,7 +24,7 @@ if [[ -z "$TMUX" ]]; then
 
 	tmux has-session -t Work 2>/dev/null
 	if [[ $? != 0 ]]; then
-		tmux new-session -d -s Work ~/.tmux/work-layout.sh # Cargar la sesión Work
+		tmux new-session -d -s Work ~/.tmux/work.sh # Cargar la sesión Work
 	fi
 
 	# Adjuntar a la sesión Work (o la que hayas configurado como predeterminada)

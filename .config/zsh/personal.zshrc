@@ -14,22 +14,21 @@ fastfetch
 ###############################################################################
 export EDITOR=/usr/bin/nvim
 
-
 ### Profiles tmux
 
 if [[ -z "$TMUX" ]]; then
-    tmux has-session -t DevOps 2>/dev/null
-    if [[ $? != 0 ]]; then
-        tmux new-session -d -s DevOps ~/.tmux/devops-layout.sh  # Cargar la sesión DevOps
-    fi
+	tmux has-session -t DevOps 2>/dev/null
+	if [[ $? != 0 ]]; then
+		tmux new-session -d -s DevOps ~/.tmux/devops-home-layout.sh # Cargar la sesión DevOps
+	fi
 
-    tmux has-session -t Work 2>/dev/null
-    if [[ $? != 0 ]]; then
-        tmux new-session -d -s Work ~/.tmux/work-layout.sh  # Cargar la sesión Work
-    fi
+	tmux has-session -t Work 2>/dev/null
+	if [[ $? != 0 ]]; then
+		tmux new-session -d -s Work ~/.tmux/work.sh # Cargar la sesión Work
+	fi
 
-    # Adjuntar a la sesión Work (o la que hayas configurado como predeterminada)
-    tmux attach-session -t Work
+	# Adjuntar a la sesión Work (o la que hayas configurado como predeterminada)
+	tmux attach-session -t Work
 fi
 
 ###############################################################################
@@ -98,39 +97,39 @@ setopt append_history
 export HISTCONTROL=ignoreboth:erasedups
 
 plugins=(adb
-    alias-tips
-    aws
-    ansible
-    catimg
-    direnv
-    dirhistory
-    docker
-    docker-compose
-    emoji
-    extract
-    F-Sy-H
-    fancy-ctrl-z
-    fasd
-    fzf-tab
-    gh
-    git
-    git-extra-commands
-    globalias
-    magic-enter
-    minikube
-    python
-    timer
-    tmux
-    vi-mode
-    web-search
-    kubectl
-    zsh-autopair
-    zsh-autocomplete
-    zsh-autosuggestions
-    zsh-interactive-cd
-    zsh-navigation-tools
-    zsh-syntax-higlighting
-    fzf) # fzf at last for '^R' binding
+	alias-tips
+	aws
+	ansible
+	catimg
+	direnv
+	dirhistory
+	docker
+	docker-compose
+	emoji
+	extract
+	F-Sy-H
+	fancy-ctrl-z
+	fasd
+	fzf-tab
+	gh
+	git
+	git-extra-commands
+	globalias
+	magic-enter
+	minikube
+	python
+	timer
+	tmux
+	vi-mode
+	web-search
+	kubectl
+	zsh-autopair
+	zsh-autocomplete
+	zsh-autosuggestions
+	zsh-interactive-cd
+	zsh-navigation-tools
+	zsh-syntax-higlighting
+	fzf) # fzf at last for '^R' binding
 
 # Modules
 # Rename
@@ -157,12 +156,12 @@ zstyle ':fzf-tab:complete:git-(add|diff|restore):*' fzf-preview 'git diff $word 
 zstyle ':fzf-tab:complete:git-log:*' fzf-preview 'git show --color=always $word'
 zstyle ':fzf-tab:complete:git-help:*' fzf-preview 'git help $word | bat -plman --color=always'
 zstyle ':fzf-tab:complete:git-show:*' fzf-preview \
-    'case "$group" in
+	'case "$group" in
     "commit tag") git show --color=always $word ;;
     *) git show --color=always $word | delta ;;
     esac'
 zstyle ':fzf-tab:complete:git-checkout:*' fzf-preview \
-    'case "$group" in
+	'case "$group" in
     "modified file") git diff $word | delta ;;
     "recent commit object name") git show --color=always $word | delta ;;
     *) git log --color=always $word ;;
@@ -198,9 +197,6 @@ export ZSH_TMUX_AUTOSTART_ONCE='false'
 export ZSH_TMUX_AUTOCONNECT='false'
 export DISABLE_AUTO_TITLE='true'
 
-
-
-
 # Keys
 autoload -U up-line-or-beginning-search
 autoload -U down-line-or-beginning-search
@@ -216,7 +212,6 @@ ZSH_COLORIZE_STYLE="tokyonight"
 ZSH_COLORIZE_CHROMA_FORMATTER="terminal16m"
 TIMER_THRESHOLD=1
 AUTO_NOTIFY_IGNORE+=("docker" "make")
-
 
 typeset -g POWERLEVEL9K_INSTANT_PROMPT=quiet
 typeset -g POWERLEVEL9K_INSTANT_PROMPT=off
@@ -250,5 +245,3 @@ export NOTES_DIR=/home/$USER/notes
 
 # Tool configs
 if type dircolors >/dev/null 2>&1; then eval "$(dircolors ~/.dircolors)"; fi
-
-

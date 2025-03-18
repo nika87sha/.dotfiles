@@ -55,7 +55,7 @@ multiplier = 8
 [selection]
 save_to_clipboard = false
 
-[shell]
+[terminal.shell]
 program = "/bin/zsh"
 
 [window]
@@ -68,3 +68,5 @@ instance = "Alacritty"
 [window.padding]
 x = 10
 y = 10
+
+[terminal]
